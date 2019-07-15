@@ -28,7 +28,7 @@ L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={
 }).addTo(SMap);
 
 // adding markers to show facilities' locations
-url2 = "https://raw.githubusercontent.com/Aihua123/Colorado_Childcare/master/facility_location_201905.json"
+url2 = "https://raw.githubusercontent.com/Aihua123/Colorado-Child-Care-Demand/master/facility_location_201905.json"
 
 function make_markers() {
     d3.json(url2, function (data) {
