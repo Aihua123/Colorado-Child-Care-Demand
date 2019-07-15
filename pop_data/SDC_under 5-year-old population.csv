@@ -1,0 +1,4161 @@
+﻿CFIPS,YEAR,AGE,COUNTY,MALE,FEMALE,TOTAL,TYPE
+1,2013,0,Adams,3700,3552,7252,Estimate
+1,2013,1,Adams,3576,3424,7000,Estimate
+1,2013,2,Adams,3753,3590,7343,Estimate
+1,2013,3,Adams,3857,3489,7346,Estimate
+1,2013,4,Adams,3837,3591,7427,Estimate
+3,2013,0,Alamosa,115,110,225,Estimate
+3,2013,1,Alamosa,107,102,208,Estimate
+3,2013,2,Alamosa,121,116,237,Estimate
+3,2013,3,Alamosa,112,127,240,Estimate
+3,2013,4,Alamosa,120,139,259,Estimate
+5,2013,0,Arapahoe,4065,3897,7962,Estimate
+5,2013,1,Arapahoe,4056,3882,7938,Estimate
+5,2013,2,Arapahoe,4078,3903,7981,Estimate
+5,2013,3,Arapahoe,4117,3950,8067,Estimate
+5,2013,4,Arapahoe,4254,4067,8321,Estimate
+7,2013,0,Archuleta,55,52,107,Estimate
+7,2013,1,Archuleta,60,58,118,Estimate
+7,2013,2,Archuleta,71,68,139,Estimate
+7,2013,3,Archuleta,67,46,112,Estimate
+7,2013,4,Archuleta,63,54,117,Estimate
+9,2013,0,Baca,24,23,48,Estimate
+9,2013,1,Baca,27,25,52,Estimate
+9,2013,2,Baca,21,20,41,Estimate
+9,2013,3,Baca,18,21,39,Estimate
+9,2013,4,Baca,20,23,43,Estimate
+11,2013,0,Bent,20,19,39,Estimate
+11,2013,1,Bent,26,25,51,Estimate
+11,2013,2,Bent,21,20,41,Estimate
+11,2013,3,Bent,23,26,49,Estimate
+11,2013,4,Bent,27,28,54,Estimate
+13,2013,0,Boulder,1525,1460,2985,Estimate
+13,2013,1,Boulder,1528,1462,2991,Estimate
+13,2013,2,Boulder,1570,1502,3072,Estimate
+13,2013,3,Boulder,1657,1524,3181,Estimate
+13,2013,4,Boulder,1671,1579,3250,Estimate
+14,2013,0,Broomfield,355,339,694,Estimate
+14,2013,1,Broomfield,354,339,692,Estimate
+14,2013,2,Broomfield,363,348,711,Estimate
+14,2013,3,Broomfield,383,340,723,Estimate
+14,2013,4,Broomfield,391,365,756,Estimate
+15,2013,0,Chaffee,59,56,115,Estimate
+15,2013,1,Chaffee,81,78,159,Estimate
+15,2013,2,Chaffee,81,78,158,Estimate
+15,2013,3,Chaffee,81,80,161,Estimate
+15,2013,4,Chaffee,84,83,168,Estimate
+17,2013,0,Cheyenne,14,13,27,Estimate
+17,2013,1,Cheyenne,20,19,39,Estimate
+17,2013,2,Cheyenne,11,11,22,Estimate
+17,2013,3,Cheyenne,8,15,23,Estimate
+17,2013,4,Cheyenne,13,14,26,Estimate
+19,2013,0,Clear Creek,36,35,71,Estimate
+19,2013,1,Clear Creek,33,32,65,Estimate
+19,2013,2,Clear Creek,37,35,72,Estimate
+19,2013,3,Clear Creek,39,41,81,Estimate
+19,2013,4,Clear Creek,47,44,91,Estimate
+21,2013,0,Conejos,56,53,109,Estimate
+21,2013,1,Conejos,64,61,125,Estimate
+21,2013,2,Conejos,53,51,104,Estimate
+21,2013,3,Conejos,58,78,136,Estimate
+21,2013,4,Conejos,58,59,118,Estimate
+23,2013,0,Costilla,15,14,29,Estimate
+23,2013,1,Costilla,15,14,29,Estimate
+23,2013,2,Costilla,20,19,39,Estimate
+23,2013,3,Costilla,18,16,34,Estimate
+23,2013,4,Costilla,16,20,36,Estimate
+25,2013,0,Crowley,20,19,39,Estimate
+25,2013,1,Crowley,18,17,35,Estimate
+25,2013,2,Crowley,15,14,29,Estimate
+25,2013,3,Crowley,14,17,30,Estimate
+25,2013,4,Crowley,13,19,31,Estimate
+27,2013,0,Custer,11,11,22,Estimate
+27,2013,1,Custer,14,13,27,Estimate
+27,2013,2,Custer,12,12,24,Estimate
+27,2013,3,Custer,10,15,25,Estimate
+27,2013,4,Custer,11,19,30,Estimate
+29,2013,0,Delta,160,153,313,Estimate
+29,2013,1,Delta,165,158,323,Estimate
+29,2013,2,Delta,163,156,319,Estimate
+29,2013,3,Delta,159,150,308,Estimate
+29,2013,4,Delta,165,151,316,Estimate
+31,2013,0,Denver,4792,4589,9382,Estimate
+31,2013,1,Denver,4590,4393,8983,Estimate
+31,2013,2,Denver,4665,4463,9128,Estimate
+31,2013,3,Denver,4188,4141,8328,Estimate
+31,2013,4,Denver,4190,4022,8213,Estimate
+33,2013,0,Dolores,9,9,17,Estimate
+33,2013,1,Dolores,12,12,24,Estimate
+33,2013,2,Dolores,9,9,18,Estimate
+33,2013,3,Dolores,7,14,21,Estimate
+33,2013,4,Dolores,17,13,30,Estimate
+35,2013,0,Douglas,1782,1703,3485,Estimate
+35,2013,1,Douglas,1819,1741,3560,Estimate
+35,2013,2,Douglas,1878,1797,3675,Estimate
+35,2013,3,Douglas,1977,1855,3832,Estimate
+35,2013,4,Douglas,2164,2002,4166,Estimate
+37,2013,0,Eagle,304,291,595,Estimate
+37,2013,1,Eagle,344,329,673,Estimate
+37,2013,2,Eagle,315,302,616,Estimate
+37,2013,3,Eagle,351,355,706,Estimate
+37,2013,4,Eagle,376,358,734,Estimate
+39,2013,0,Elbert,83,79,162,Estimate
+39,2013,1,Elbert,92,88,180,Estimate
+39,2013,2,Elbert,96,92,187,Estimate
+39,2013,3,Elbert,99,98,197,Estimate
+39,2013,4,Elbert,124,125,250,Estimate
+41,2013,0,El Paso,4661,4453,9114,Estimate
+41,2013,1,El Paso,4676,4472,9148,Estimate
+41,2013,2,El Paso,4732,4527,9260,Estimate
+41,2013,3,El Paso,4511,4325,8836,Estimate
+41,2013,4,El Paso,4619,4334,8953,Estimate
+43,2013,0,Fremont,170,163,333,Estimate
+43,2013,1,Fremont,195,187,382,Estimate
+43,2013,2,Fremont,196,188,384,Estimate
+43,2013,3,Fremont,181,189,369,Estimate
+43,2013,4,Fremont,192,220,412,Estimate
+45,2013,0,Garfield,415,396,811,Estimate
+45,2013,1,Garfield,394,377,771,Estimate
+45,2013,2,Garfield,423,405,828,Estimate
+45,2013,3,Garfield,450,398,849,Estimate
+45,2013,4,Garfield,448,421,869,Estimate
+47,2013,0,Gilpin,25,24,50,Estimate
+47,2013,1,Gilpin,21,20,41,Estimate
+47,2013,2,Gilpin,25,24,50,Estimate
+47,2013,3,Gilpin,31,24,56,Estimate
+47,2013,4,Gilpin,32,35,66,Estimate
+49,2013,0,Grand,61,58,119,Estimate
+49,2013,1,Grand,57,54,111,Estimate
+49,2013,2,Grand,54,52,106,Estimate
+49,2013,3,Grand,68,73,141,Estimate
+49,2013,4,Grand,76,94,171,Estimate
+51,2013,0,Gunnison,77,74,151,Estimate
+51,2013,1,Gunnison,85,81,166,Estimate
+51,2013,2,Gunnison,79,76,156,Estimate
+51,2013,3,Gunnison,83,78,161,Estimate
+51,2013,4,Gunnison,90,70,160,Estimate
+53,2013,0,Hinsdale,5,5,10,Estimate
+53,2013,1,Hinsdale,3,3,6,Estimate
+53,2013,2,Hinsdale,3,2,5,Estimate
+53,2013,3,Hinsdale,8,4,11,Estimate
+53,2013,4,Hinsdale,4,3,7,Estimate
+55,2013,0,Huerfano,26,24,50,Estimate
+55,2013,1,Huerfano,31,29,60,Estimate
+55,2013,2,Huerfano,24,23,47,Estimate
+55,2013,3,Huerfano,27,27,55,Estimate
+55,2013,4,Huerfano,32,23,56,Estimate
+57,2013,0,Jackson,3,3,6,Estimate
+57,2013,1,Jackson,5,5,9,Estimate
+57,2013,2,Jackson,6,6,12,Estimate
+57,2013,3,Jackson,5,4,9,Estimate
+57,2013,4,Jackson,6,5,11,Estimate
+59,2013,0,Jefferson,2902,2776,5679,Estimate
+59,2013,1,Jefferson,2886,2762,5649,Estimate
+59,2013,2,Jefferson,2914,2791,5705,Estimate
+59,2013,3,Jefferson,3021,2932,5953,Estimate
+59,2013,4,Jefferson,3122,3051,6173,Estimate
+61,2013,0,Kiowa,8,7,15,Estimate
+61,2013,1,Kiowa,4,4,8,Estimate
+61,2013,2,Kiowa,10,10,20,Estimate
+61,2013,3,Kiowa,2,7,9,Estimate
+61,2013,4,Kiowa,6,11,18,Estimate
+63,2013,0,Kit Carson,44,42,86,Estimate
+63,2013,1,Kit Carson,48,46,94,Estimate
+63,2013,2,Kit Carson,53,51,105,Estimate
+63,2013,3,Kit Carson,50,56,106,Estimate
+63,2013,4,Kit Carson,50,50,100,Estimate
+65,2013,0,Lake,41,39,81,Estimate
+65,2013,1,Lake,37,35,72,Estimate
+65,2013,2,Lake,52,50,102,Estimate
+65,2013,3,Lake,52,56,108,Estimate
+65,2013,4,Lake,47,52,98,Estimate
+67,2013,0,La Plata,256,244,500,Estimate
+67,2013,1,La Plata,278,266,545,Estimate
+67,2013,2,La Plata,284,272,556,Estimate
+67,2013,3,La Plata,305,272,578,Estimate
+67,2013,4,La Plata,289,281,570,Estimate
+69,2013,0,Larimer,1764,1688,3452,Estimate
+69,2013,1,Larimer,1808,1732,3540,Estimate
+69,2013,2,Larimer,1792,1718,3510,Estimate
+69,2013,3,Larimer,1847,1751,3599,Estimate
+69,2013,4,Larimer,1879,1765,3644,Estimate
+71,2013,0,Las Animas,72,69,142,Estimate
+71,2013,1,Las Animas,73,70,144,Estimate
+71,2013,2,Las Animas,72,69,142,Estimate
+71,2013,3,Las Animas,83,59,142,Estimate
+71,2013,4,Las Animas,87,70,157,Estimate
+73,2013,0,Lincoln,37,35,72,Estimate
+73,2013,1,Lincoln,26,25,51,Estimate
+73,2013,2,Lincoln,33,31,64,Estimate
+73,2013,3,Lincoln,35,24,59,Estimate
+73,2013,4,Lincoln,34,24,59,Estimate
+75,2013,0,Logan,126,121,247,Estimate
+75,2013,1,Logan,109,104,212,Estimate
+75,2013,2,Logan,102,97,199,Estimate
+75,2013,3,Logan,113,90,203,Estimate
+75,2013,4,Logan,106,118,224,Estimate
+77,2013,0,Mesa,944,902,1846,Estimate
+77,2013,1,Mesa,917,876,1793,Estimate
+77,2013,2,Mesa,963,921,1884,Estimate
+77,2013,3,Mesa,1004,930,1935,Estimate
+77,2013,4,Mesa,989,942,1931,Estimate
+79,2013,0,Mineral,2,2,4,Estimate
+79,2013,1,Mineral,3,3,6,Estimate
+79,2013,2,Mineral,3,3,6,Estimate
+79,2013,3,Mineral,1,8,9,Estimate
+79,2013,4,Mineral,2,4,7,Estimate
+81,2013,0,Moffat,97,92,189,Estimate
+81,2013,1,Moffat,81,78,159,Estimate
+81,2013,2,Moffat,90,86,176,Estimate
+81,2013,3,Moffat,104,82,186,Estimate
+81,2013,4,Moffat,109,83,193,Estimate
+83,2013,0,Montezuma,151,145,296,Estimate
+83,2013,1,Montezuma,151,145,296,Estimate
+83,2013,2,Montezuma,159,152,310,Estimate
+83,2013,3,Montezuma,166,150,316,Estimate
+83,2013,4,Montezuma,165,155,320,Estimate
+85,2013,0,Montrose,232,222,453,Estimate
+85,2013,1,Montrose,202,194,396,Estimate
+85,2013,2,Montrose,245,235,480,Estimate
+85,2013,3,Montrose,254,225,478,Estimate
+85,2013,4,Montrose,254,234,488,Estimate
+87,2013,0,Morgan,209,200,409,Estimate
+87,2013,1,Morgan,211,201,412,Estimate
+87,2013,2,Morgan,230,220,450,Estimate
+87,2013,3,Morgan,207,225,432,Estimate
+87,2013,4,Morgan,207,245,452,Estimate
+89,2013,0,Otero,97,92,189,Estimate
+89,2013,1,Otero,138,132,269,Estimate
+89,2013,2,Otero,127,121,248,Estimate
+89,2013,3,Otero,103,121,224,Estimate
+89,2013,4,Otero,124,109,233,Estimate
+91,2013,0,Ouray,17,16,33,Estimate
+91,2013,1,Ouray,18,17,35,Estimate
+91,2013,2,Ouray,16,15,31,Estimate
+91,2013,3,Ouray,15,24,39,Estimate
+91,2013,4,Ouray,21,14,35,Estimate
+93,2013,0,Park,51,49,100,Estimate
+93,2013,1,Park,58,55,113,Estimate
+93,2013,2,Park,62,59,121,Estimate
+93,2013,3,Park,69,76,145,Estimate
+93,2013,4,Park,83,78,162,Estimate
+95,2013,0,Phillips,21,20,41,Estimate
+95,2013,1,Phillips,28,27,56,Estimate
+95,2013,2,Phillips,26,25,51,Estimate
+95,2013,3,Phillips,24,26,50,Estimate
+95,2013,4,Phillips,24,28,52,Estimate
+97,2013,0,Pitkin,64,61,126,Estimate
+97,2013,1,Pitkin,66,63,128,Estimate
+97,2013,2,Pitkin,88,84,172,Estimate
+97,2013,3,Pitkin,69,71,140,Estimate
+97,2013,4,Pitkin,71,66,137,Estimate
+99,2013,0,Prowers,85,81,167,Estimate
+99,2013,1,Prowers,95,91,186,Estimate
+99,2013,2,Prowers,73,70,143,Estimate
+99,2013,3,Prowers,98,89,187,Estimate
+99,2013,4,Prowers,110,94,204,Estimate
+101,2013,0,Pueblo,943,902,1845,Estimate
+101,2013,1,Pueblo,947,906,1852,Estimate
+101,2013,2,Pueblo,935,895,1829,Estimate
+101,2013,3,Pueblo,1061,922,1983,Estimate
+101,2013,4,Pueblo,1061,989,2050,Estimate
+103,2013,0,Rio Blanco,41,39,81,Estimate
+103,2013,1,Rio Blanco,38,36,73,Estimate
+103,2013,2,Rio Blanco,55,53,108,Estimate
+103,2013,3,Rio Blanco,58,39,97,Estimate
+103,2013,4,Rio Blanco,47,46,94,Estimate
+105,2013,0,Rio Grande,76,73,149,Estimate
+105,2013,1,Rio Grande,66,63,129,Estimate
+105,2013,2,Rio Grande,76,73,149,Estimate
+105,2013,3,Rio Grande,86,85,171,Estimate
+105,2013,4,Rio Grande,72,79,151,Estimate
+107,2013,0,Routt,107,102,209,Estimate
+107,2013,1,Routt,115,111,226,Estimate
+107,2013,2,Routt,122,117,239,Estimate
+107,2013,3,Routt,124,130,254,Estimate
+107,2013,4,Routt,128,141,268,Estimate
+109,2013,0,Saguache,37,35,72,Estimate
+109,2013,1,Saguache,39,38,77,Estimate
+109,2013,2,Saguache,38,36,74,Estimate
+109,2013,3,Saguache,31,42,73,Estimate
+109,2013,4,Saguache,35,47,82,Estimate
+111,2013,0,San Juan,1,1,1,Estimate
+111,2013,1,San Juan,2,2,3,Estimate
+111,2013,2,San Juan,4,4,8,Estimate
+111,2013,3,San Juan,5,3,8,Estimate
+111,2013,4,San Juan,4,3,7,Estimate
+113,2013,0,San Miguel,36,34,70,Estimate
+113,2013,1,San Miguel,39,37,76,Estimate
+113,2013,2,San Miguel,42,41,83,Estimate
+113,2013,3,San Miguel,42,36,78,Estimate
+113,2013,4,San Miguel,57,47,104,Estimate
+115,2013,0,Sedgwick,14,13,27,Estimate
+115,2013,1,Sedgwick,11,11,22,Estimate
+115,2013,2,Sedgwick,15,15,30,Estimate
+115,2013,3,Sedgwick,11,13,24,Estimate
+115,2013,4,Sedgwick,13,16,28,Estimate
+117,2013,0,Summit,125,119,244,Estimate
+117,2013,1,Summit,148,141,289,Estimate
+117,2013,2,Summit,139,133,272,Estimate
+117,2013,3,Summit,117,121,238,Estimate
+117,2013,4,Summit,145,130,275,Estimate
+119,2013,0,Teller,84,80,163,Estimate
+119,2013,1,Teller,81,77,158,Estimate
+119,2013,2,Teller,115,110,225,Estimate
+119,2013,3,Teller,102,108,210,Estimate
+119,2013,4,Teller,107,110,216,Estimate
+121,2013,0,Washington,19,18,36,Estimate
+121,2013,1,Washington,21,20,42,Estimate
+121,2013,2,Washington,21,21,42,Estimate
+121,2013,3,Washington,32,26,58,Estimate
+121,2013,4,Washington,33,27,60,Estimate
+123,2013,0,Weld,1977,1893,3870,Estimate
+123,2013,1,Weld,1980,1898,3878,Estimate
+123,2013,2,Weld,1976,1897,3873,Estimate
+123,2013,3,Weld,1984,1979,3963,Estimate
+123,2013,4,Weld,2082,1924,4006,Estimate
+125,2013,0,Yuma,73,69,142,Estimate
+125,2013,1,Yuma,81,77,158,Estimate
+125,2013,2,Yuma,81,77,158,Estimate
+125,2013,3,Yuma,56,73,129,Estimate
+125,2013,4,Yuma,69,87,156,Estimate
+1,2014,0,Adams,3636,3491,7127,Estimate
+1,2014,1,Adams,3704,3547,7251,Estimate
+1,2014,2,Adams,3591,3436,7027,Estimate
+1,2014,3,Adams,3763,3606,7369,Estimate
+1,2014,4,Adams,3862,3499,7361,Estimate
+3,2014,0,Alamosa,123,117,240,Estimate
+3,2014,1,Alamosa,114,109,224,Estimate
+3,2014,2,Alamosa,106,102,208,Estimate
+3,2014,3,Alamosa,121,116,237,Estimate
+3,2014,4,Alamosa,112,127,240,Estimate
+5,2014,0,Arapahoe,4098,3930,8028,Estimate
+5,2014,1,Arapahoe,4095,3921,8016,Estimate
+5,2014,2,Arapahoe,4097,3921,8018,Estimate
+5,2014,3,Arapahoe,4118,3945,8063,Estimate
+5,2014,4,Arapahoe,4152,3989,8141,Estimate
+7,2014,0,Archuleta,56,54,110,Estimate
+7,2014,1,Archuleta,55,53,108,Estimate
+7,2014,2,Archuleta,61,58,119,Estimate
+7,2014,3,Archuleta,71,68,140,Estimate
+7,2014,4,Archuleta,67,46,113,Estimate
+9,2014,0,Baca,19,18,37,Estimate
+9,2014,1,Baca,24,23,47,Estimate
+9,2014,2,Baca,26,25,52,Estimate
+9,2014,3,Baca,21,20,41,Estimate
+9,2014,4,Baca,18,21,39,Estimate
+11,2014,0,Bent,17,16,33,Estimate
+11,2014,1,Bent,20,20,40,Estimate
+11,2014,2,Bent,27,26,52,Estimate
+11,2014,3,Bent,22,21,43,Estimate
+11,2014,4,Bent,24,27,50,Estimate
+13,2014,0,Boulder,1512,1447,2958,Estimate
+13,2014,1,Boulder,1529,1462,2991,Estimate
+13,2014,2,Boulder,1539,1472,3011,Estimate
+13,2014,3,Boulder,1582,1515,3097,Estimate
+13,2014,4,Boulder,1670,1537,3206,Estimate
+14,2014,0,Broomfield,366,350,715,Estimate
+14,2014,1,Broomfield,361,346,707,Estimate
+14,2014,2,Broomfield,361,347,708,Estimate
+14,2014,3,Broomfield,371,356,727,Estimate
+14,2014,4,Broomfield,391,348,739,Estimate
+15,2014,0,Chaffee,75,72,146,Estimate
+15,2014,1,Chaffee,60,57,117,Estimate
+15,2014,2,Chaffee,83,80,163,Estimate
+15,2014,3,Chaffee,83,79,162,Estimate
+15,2014,4,Chaffee,83,82,164,Estimate
+17,2014,0,Cheyenne,14,13,26,Estimate
+17,2014,1,Cheyenne,14,13,27,Estimate
+17,2014,2,Cheyenne,19,18,38,Estimate
+17,2014,3,Cheyenne,11,11,22,Estimate
+17,2014,4,Cheyenne,8,14,23,Estimate
+19,2014,0,Clear Creek,42,40,82,Estimate
+19,2014,1,Clear Creek,37,36,73,Estimate
+19,2014,2,Clear Creek,34,33,67,Estimate
+19,2014,3,Clear Creek,38,36,74,Estimate
+19,2014,4,Clear Creek,41,43,83,Estimate
+21,2014,0,Conejos,63,60,123,Estimate
+21,2014,1,Conejos,56,54,110,Estimate
+21,2014,2,Conejos,64,62,126,Estimate
+21,2014,3,Conejos,54,51,105,Estimate
+21,2014,4,Conejos,58,78,137,Estimate
+23,2014,0,Costilla,15,14,29,Estimate
+23,2014,1,Costilla,15,14,30,Estimate
+23,2014,2,Costilla,15,14,30,Estimate
+23,2014,3,Costilla,20,19,40,Estimate
+23,2014,4,Costilla,18,16,35,Estimate
+25,2014,0,Crowley,17,16,32,Estimate
+25,2014,1,Crowley,21,20,41,Estimate
+25,2014,2,Crowley,18,18,36,Estimate
+25,2014,3,Crowley,15,15,30,Estimate
+25,2014,4,Crowley,14,18,32,Estimate
+27,2014,0,Custer,12,11,23,Estimate
+27,2014,1,Custer,12,11,23,Estimate
+27,2014,2,Custer,15,14,29,Estimate
+27,2014,3,Custer,13,12,25,Estimate
+27,2014,4,Custer,11,16,26,Estimate
+29,2014,0,Delta,145,138,283,Estimate
+29,2014,1,Delta,154,148,302,Estimate
+29,2014,2,Delta,160,153,314,Estimate
+29,2014,3,Delta,159,152,311,Estimate
+29,2014,4,Delta,155,147,302,Estimate
+31,2014,0,Denver,4838,4633,9471,Estimate
+31,2014,1,Denver,4639,4440,9079,Estimate
+31,2014,2,Denver,4453,4261,8714,Estimate
+31,2014,3,Denver,4520,4327,8847,Estimate
+31,2014,4,Denver,4050,4007,8057,Estimate
+33,2014,0,Dolores,8,7,15,Estimate
+33,2014,1,Dolores,9,8,17,Estimate
+33,2014,2,Dolores,12,12,24,Estimate
+33,2014,3,Dolores,9,9,18,Estimate
+33,2014,4,Dolores,7,14,21,Estimate
+35,2014,0,Douglas,1840,1759,3600,Estimate
+35,2014,1,Douglas,1804,1727,3531,Estimate
+35,2014,2,Douglas,1848,1769,3617,Estimate
+35,2014,3,Douglas,1905,1824,3728,Estimate
+35,2014,4,Douglas,2005,1883,3887,Estimate
+37,2014,0,Eagle,332,317,650,Estimate
+37,2014,1,Eagle,301,288,588,Estimate
+37,2014,2,Eagle,339,325,664,Estimate
+37,2014,3,Eagle,311,299,610,Estimate
+37,2014,4,Eagle,345,349,695,Estimate
+39,2014,0,Elbert,96,92,188,Estimate
+39,2014,1,Elbert,87,83,170,Estimate
+39,2014,2,Elbert,98,94,191,Estimate
+39,2014,3,Elbert,101,97,197,Estimate
+39,2014,4,Elbert,104,103,207,Estimate
+41,2014,0,El Paso,4701,4491,9192,Estimate
+41,2014,1,El Paso,4638,4436,9074,Estimate
+41,2014,2,El Paso,4676,4474,9150,Estimate
+41,2014,3,El Paso,4736,4532,9268,Estimate
+41,2014,4,El Paso,4515,4330,8845,Estimate
+43,2014,0,Fremont,195,186,382,Estimate
+43,2014,1,Fremont,170,163,333,Estimate
+43,2014,2,Fremont,197,189,385,Estimate
+43,2014,3,Fremont,197,189,386,Estimate
+43,2014,4,Fremont,182,190,371,Estimate
+45,2014,0,Garfield,391,374,764,Estimate
+45,2014,1,Garfield,408,390,798,Estimate
+45,2014,2,Garfield,390,373,762,Estimate
+45,2014,3,Garfield,418,400,818,Estimate
+45,2014,4,Garfield,445,394,839,Estimate
+47,2014,0,Gilpin,22,21,42,Estimate
+47,2014,1,Gilpin,27,26,52,Estimate
+47,2014,2,Gilpin,22,21,44,Estimate
+47,2014,3,Gilpin,27,26,53,Estimate
+47,2014,4,Gilpin,33,26,59,Estimate
+49,2014,0,Grand,65,62,127,Estimate
+49,2014,1,Grand,63,60,122,Estimate
+49,2014,2,Grand,59,56,115,Estimate
+49,2014,3,Grand,56,54,109,Estimate
+49,2014,4,Grand,70,75,146,Estimate
+51,2014,0,Gunnison,71,68,139,Estimate
+51,2014,1,Gunnison,79,75,154,Estimate
+51,2014,2,Gunnison,86,83,169,Estimate
+51,2014,3,Gunnison,81,78,159,Estimate
+51,2014,4,Gunnison,84,79,164,Estimate
+53,2014,0,Hinsdale,3,3,6,Estimate
+53,2014,1,Hinsdale,5,5,9,Estimate
+53,2014,2,Hinsdale,3,3,6,Estimate
+53,2014,3,Hinsdale,2,2,5,Estimate
+53,2014,4,Hinsdale,7,4,11,Estimate
+55,2014,0,Huerfano,21,20,41,Estimate
+55,2014,1,Huerfano,26,24,50,Estimate
+55,2014,2,Huerfano,31,29,60,Estimate
+55,2014,3,Huerfano,24,23,47,Estimate
+55,2014,4,Huerfano,27,27,55,Estimate
+57,2014,0,Jackson,9,9,18,Estimate
+57,2014,1,Jackson,3,3,7,Estimate
+57,2014,2,Jackson,5,5,10,Estimate
+57,2014,3,Jackson,7,6,13,Estimate
+57,2014,4,Jackson,5,4,10,Estimate
+59,2014,0,Jefferson,3042,2911,5953,Estimate
+59,2014,1,Jefferson,2928,2803,5731,Estimate
+59,2014,2,Jefferson,2947,2824,5771,Estimate
+59,2014,3,Jefferson,2976,2853,5829,Estimate
+59,2014,4,Jefferson,3081,2993,6075,Estimate
+61,2014,0,Kiowa,10,9,19,Estimate
+61,2014,1,Kiowa,8,7,15,Estimate
+61,2014,2,Kiowa,4,4,8,Estimate
+61,2014,3,Kiowa,10,10,21,Estimate
+61,2014,4,Kiowa,2,7,10,Estimate
+63,2014,0,Kit Carson,47,44,91,Estimate
+63,2014,1,Kit Carson,42,40,83,Estimate
+63,2014,2,Kit Carson,47,45,91,Estimate
+63,2014,3,Kit Carson,52,49,101,Estimate
+63,2014,4,Kit Carson,48,54,102,Estimate
+65,2014,0,Lake,41,40,81,Estimate
+65,2014,1,Lake,42,40,81,Estimate
+65,2014,2,Lake,37,36,73,Estimate
+65,2014,3,Lake,53,51,104,Estimate
+65,2014,4,Lake,53,57,109,Estimate
+67,2014,0,La Plata,283,270,554,Estimate
+67,2014,1,La Plata,255,244,499,Estimate
+67,2014,2,La Plata,279,267,546,Estimate
+67,2014,3,La Plata,285,273,558,Estimate
+67,2014,4,La Plata,306,273,579,Estimate
+69,2014,0,Larimer,1838,1759,3598,Estimate
+69,2014,1,Larimer,1810,1734,3544,Estimate
+69,2014,2,Larimer,1863,1786,3650,Estimate
+69,2014,3,Larimer,1849,1774,3624,Estimate
+69,2014,4,Larimer,1905,1809,3714,Estimate
+71,2014,0,Las Animas,60,57,118,Estimate
+71,2014,1,Las Animas,71,68,139,Estimate
+71,2014,2,Las Animas,72,69,142,Estimate
+71,2014,3,Las Animas,72,69,140,Estimate
+71,2014,4,Las Animas,82,58,140,Estimate
+73,2014,0,Lincoln,26,25,51,Estimate
+73,2014,1,Lincoln,37,36,73,Estimate
+73,2014,2,Lincoln,27,26,53,Estimate
+73,2014,3,Lincoln,34,32,66,Estimate
+73,2014,4,Lincoln,36,25,61,Estimate
+75,2014,0,Logan,123,118,241,Estimate
+75,2014,1,Logan,126,121,247,Estimate
+75,2014,2,Logan,109,104,213,Estimate
+75,2014,3,Logan,102,98,200,Estimate
+75,2014,4,Logan,113,92,205,Estimate
+77,2014,0,Mesa,895,856,1751,Estimate
+77,2014,1,Mesa,935,894,1828,Estimate
+77,2014,2,Mesa,911,871,1783,Estimate
+77,2014,3,Mesa,958,916,1874,Estimate
+77,2014,4,Mesa,999,926,1925,Estimate
+79,2014,0,Mineral,2,2,5,Estimate
+79,2014,1,Mineral,2,2,4,Estimate
+79,2014,2,Mineral,3,3,6,Estimate
+79,2014,3,Mineral,3,3,5,Estimate
+79,2014,4,Mineral,1,7,8,Estimate
+81,2014,0,Moffat,89,85,173,Estimate
+81,2014,1,Moffat,95,91,185,Estimate
+81,2014,2,Moffat,80,77,157,Estimate
+81,2014,3,Moffat,89,85,173,Estimate
+81,2014,4,Moffat,102,81,183,Estimate
+83,2014,0,Montezuma,166,159,325,Estimate
+83,2014,1,Montezuma,151,144,295,Estimate
+83,2014,2,Montezuma,151,145,296,Estimate
+83,2014,3,Montezuma,159,152,310,Estimate
+83,2014,4,Montezuma,166,150,316,Estimate
+85,2014,0,Montrose,246,235,482,Estimate
+85,2014,1,Montrose,231,221,452,Estimate
+85,2014,2,Montrose,202,194,396,Estimate
+85,2014,3,Montrose,246,235,481,Estimate
+85,2014,4,Montrose,254,225,479,Estimate
+87,2014,0,Morgan,218,208,426,Estimate
+87,2014,1,Morgan,206,197,403,Estimate
+87,2014,2,Morgan,209,200,409,Estimate
+87,2014,3,Morgan,227,217,444,Estimate
+87,2014,4,Morgan,205,222,427,Estimate
+89,2014,0,Otero,111,106,218,Estimate
+89,2014,1,Otero,97,93,190,Estimate
+89,2014,2,Otero,139,133,272,Estimate
+89,2014,3,Otero,128,123,251,Estimate
+89,2014,4,Otero,104,122,226,Estimate
+91,2014,0,Ouray,18,17,35,Estimate
+91,2014,1,Ouray,17,16,34,Estimate
+91,2014,2,Ouray,18,18,36,Estimate
+91,2014,3,Ouray,16,16,32,Estimate
+91,2014,4,Ouray,15,25,40,Estimate
+93,2014,0,Park,51,49,99,Estimate
+93,2014,1,Park,53,50,103,Estimate
+93,2014,2,Park,60,57,117,Estimate
+93,2014,3,Park,64,61,125,Estimate
+93,2014,4,Park,71,78,149,Estimate
+95,2014,0,Phillips,34,32,66,Estimate
+95,2014,1,Phillips,21,20,42,Estimate
+95,2014,2,Phillips,29,28,57,Estimate
+95,2014,3,Phillips,26,25,52,Estimate
+95,2014,4,Phillips,24,26,51,Estimate
+97,2014,0,Pitkin,68,65,134,Estimate
+97,2014,1,Pitkin,64,61,125,Estimate
+97,2014,2,Pitkin,65,62,128,Estimate
+97,2014,3,Pitkin,87,83,170,Estimate
+97,2014,4,Pitkin,69,71,139,Estimate
+99,2014,0,Prowers,73,70,143,Estimate
+99,2014,1,Prowers,83,80,163,Estimate
+99,2014,2,Prowers,94,90,183,Estimate
+99,2014,3,Prowers,72,69,141,Estimate
+99,2014,4,Prowers,96,88,184,Estimate
+101,2014,0,Pueblo,978,935,1913,Estimate
+101,2014,1,Pueblo,932,892,1825,Estimate
+101,2014,2,Pueblo,940,900,1840,Estimate
+101,2014,3,Pueblo,929,890,1819,Estimate
+101,2014,4,Pueblo,1055,918,1973,Estimate
+103,2014,0,Rio Blanco,36,34,70,Estimate
+103,2014,1,Rio Blanco,41,39,80,Estimate
+103,2014,2,Rio Blanco,37,36,73,Estimate
+103,2014,3,Rio Blanco,55,52,107,Estimate
+103,2014,4,Rio Blanco,58,39,97,Estimate
+105,2014,0,Rio Grande,75,72,148,Estimate
+105,2014,1,Rio Grande,75,72,147,Estimate
+105,2014,2,Rio Grande,66,63,128,Estimate
+105,2014,3,Rio Grande,75,72,147,Estimate
+105,2014,4,Rio Grande,85,84,169,Estimate
+107,2014,0,Routt,110,106,216,Estimate
+107,2014,1,Routt,110,106,217,Estimate
+107,2014,2,Routt,120,115,235,Estimate
+107,2014,3,Routt,127,122,248,Estimate
+107,2014,4,Routt,129,135,264,Estimate
+109,2014,0,Saguache,28,27,55,Estimate
+109,2014,1,Saguache,37,35,72,Estimate
+109,2014,2,Saguache,39,38,77,Estimate
+109,2014,3,Saguache,38,36,74,Estimate
+109,2014,4,Saguache,32,42,74,Estimate
+111,2014,0,San Juan,4,3,7,Estimate
+111,2014,1,San Juan,1,1,1,Estimate
+111,2014,2,San Juan,2,2,4,Estimate
+111,2014,3,San Juan,4,4,8,Estimate
+111,2014,4,San Juan,5,3,8,Estimate
+113,2014,0,San Miguel,37,35,72,Estimate
+113,2014,1,San Miguel,37,36,73,Estimate
+113,2014,2,San Miguel,41,39,80,Estimate
+113,2014,3,San Miguel,44,42,86,Estimate
+113,2014,4,San Miguel,44,38,82,Estimate
+115,2014,0,Sedgwick,13,13,26,Estimate
+115,2014,1,Sedgwick,14,13,27,Estimate
+115,2014,2,Sedgwick,11,11,22,Estimate
+115,2014,3,Sedgwick,15,15,30,Estimate
+115,2014,4,Sedgwick,12,13,24,Estimate
+117,2014,0,Summit,136,130,267,Estimate
+117,2014,1,Summit,120,115,235,Estimate
+117,2014,2,Summit,143,136,279,Estimate
+117,2014,3,Summit,134,128,263,Estimate
+117,2014,4,Summit,113,117,230,Estimate
+119,2014,0,Teller,99,95,194,Estimate
+119,2014,1,Teller,86,82,168,Estimate
+119,2014,2,Teller,84,80,164,Estimate
+119,2014,3,Teller,117,113,230,Estimate
+119,2014,4,Teller,105,110,215,Estimate
+121,2014,0,Washington,24,23,48,Estimate
+121,2014,1,Washington,19,18,37,Estimate
+121,2014,2,Washington,22,21,43,Estimate
+121,2014,3,Washington,22,21,43,Estimate
+121,2014,4,Washington,32,26,58,Estimate
+123,2014,0,Weld,2048,1960,4008,Estimate
+123,2014,1,Weld,1994,1912,3907,Estimate
+123,2014,2,Weld,2007,1927,3935,Estimate
+123,2014,3,Weld,2006,1929,3935,Estimate
+123,2014,4,Weld,2016,2011,4027,Estimate
+125,2014,0,Yuma,74,70,144,Estimate
+125,2014,1,Yuma,73,70,143,Estimate
+125,2014,2,Yuma,82,78,160,Estimate
+125,2014,3,Yuma,82,78,160,Estimate
+125,2014,4,Yuma,57,74,131,Estimate
+1,2015,0,Adams,3800,3648,7447,Estimate
+1,2015,1,Adams,3642,3488,7129,Estimate
+1,2015,2,Adams,3721,3560,7281,Estimate
+1,2015,3,Adams,3604,3453,7057,Estimate
+1,2015,4,Adams,3771,3617,7388,Estimate
+3,2015,0,Alamosa,111,106,217,Estimate
+3,2015,1,Alamosa,123,118,240,Estimate
+3,2015,2,Alamosa,115,110,225,Estimate
+3,2015,3,Alamosa,107,103,210,Estimate
+3,2015,4,Alamosa,122,117,239,Estimate
+5,2015,0,Arapahoe,4227,4053,8280,Estimate
+5,2015,1,Arapahoe,4143,3966,8108,Estimate
+5,2015,2,Arapahoe,4151,3973,8123,Estimate
+5,2015,3,Arapahoe,4151,3976,8127,Estimate
+5,2015,4,Arapahoe,4167,3997,8164,Estimate
+7,2015,0,Archuleta,61,58,120,Estimate
+7,2015,1,Archuleta,57,54,111,Estimate
+7,2015,2,Archuleta,56,53,109,Estimate
+7,2015,3,Archuleta,62,59,121,Estimate
+7,2015,4,Archuleta,73,69,142,Estimate
+9,2015,0,Baca,17,16,32,Estimate
+9,2015,1,Baca,19,18,37,Estimate
+9,2015,2,Baca,24,23,47,Estimate
+9,2015,3,Baca,27,25,52,Estimate
+9,2015,4,Baca,21,20,41,Estimate
+11,2015,0,Bent,22,21,44,Estimate
+11,2015,1,Bent,18,17,35,Estimate
+11,2015,2,Bent,21,20,42,Estimate
+11,2015,3,Bent,28,27,55,Estimate
+11,2015,4,Bent,23,22,45,Estimate
+13,2015,0,Boulder,1480,1416,2896,Estimate
+13,2015,1,Boulder,1527,1461,2989,Estimate
+13,2015,2,Boulder,1554,1486,3040,Estimate
+13,2015,3,Boulder,1566,1500,3065,Estimate
+13,2015,4,Boulder,1611,1544,3155,Estimate
+14,2015,0,Broomfield,361,345,706,Estimate
+14,2015,1,Broomfield,381,366,747,Estimate
+14,2015,2,Broomfield,378,363,741,Estimate
+14,2015,3,Broomfield,379,364,743,Estimate
+14,2015,4,Broomfield,389,374,763,Estimate
+15,2015,0,Chaffee,73,69,142,Estimate
+15,2015,1,Chaffee,77,73,150,Estimate
+15,2015,2,Chaffee,62,60,122,Estimate
+15,2015,3,Chaffee,85,82,167,Estimate
+15,2015,4,Chaffee,85,82,167,Estimate
+17,2015,0,Cheyenne,15,14,29,Estimate
+17,2015,1,Cheyenne,13,13,26,Estimate
+17,2015,2,Cheyenne,14,13,27,Estimate
+17,2015,3,Cheyenne,19,18,37,Estimate
+17,2015,4,Cheyenne,11,11,22,Estimate
+19,2015,0,Clear Creek,33,32,65,Estimate
+19,2015,1,Clear Creek,44,42,85,Estimate
+19,2015,2,Clear Creek,39,37,76,Estimate
+19,2015,3,Clear Creek,36,35,71,Estimate
+19,2015,4,Clear Creek,40,38,78,Estimate
+21,2015,0,Conejos,58,56,114,Estimate
+21,2015,1,Conejos,61,59,120,Estimate
+21,2015,2,Conejos,55,53,108,Estimate
+21,2015,3,Conejos,63,61,124,Estimate
+21,2015,4,Conejos,53,51,103,Estimate
+23,2015,0,Costilla,15,14,30,Estimate
+23,2015,1,Costilla,15,14,29,Estimate
+23,2015,2,Costilla,15,15,30,Estimate
+23,2015,3,Costilla,15,15,30,Estimate
+23,2015,4,Costilla,21,20,40,Estimate
+25,2015,0,Crowley,21,20,41,Estimate
+25,2015,1,Crowley,16,15,32,Estimate
+25,2015,2,Crowley,20,20,40,Estimate
+25,2015,3,Crowley,18,17,35,Estimate
+25,2015,4,Crowley,15,14,30,Estimate
+27,2015,0,Custer,14,13,27,Estimate
+27,2015,1,Custer,12,12,24,Estimate
+27,2015,2,Custer,12,12,24,Estimate
+27,2015,3,Custer,15,15,30,Estimate
+27,2015,4,Custer,13,13,26,Estimate
+29,2015,0,Delta,136,130,266,Estimate
+29,2015,1,Delta,142,136,277,Estimate
+29,2015,2,Delta,152,145,297,Estimate
+29,2015,3,Delta,158,152,310,Estimate
+29,2015,4,Delta,158,151,309,Estimate
+31,2015,0,Denver,4886,4679,9564,Estimate
+31,2015,1,Denver,4710,4508,9218,Estimate
+31,2015,2,Denver,4527,4332,8858,Estimate
+31,2015,3,Denver,4341,4156,8497,Estimate
+31,2015,4,Denver,4395,4210,8605,Estimate
+33,2015,0,Dolores,10,9,19,Estimate
+33,2015,1,Dolores,8,7,15,Estimate
+33,2015,2,Dolores,9,8,17,Estimate
+33,2015,3,Dolores,12,12,24,Estimate
+33,2015,4,Dolores,9,9,18,Estimate
+35,2015,0,Douglas,1756,1678,3434,Estimate
+35,2015,1,Douglas,1861,1781,3641,Estimate
+35,2015,2,Douglas,1830,1753,3583,Estimate
+35,2015,3,Douglas,1873,1794,3666,Estimate
+35,2015,4,Douglas,1930,1848,3778,Estimate
+37,2015,0,Eagle,324,310,634,Estimate
+37,2015,1,Eagle,328,314,642,Estimate
+37,2015,2,Eagle,298,286,585,Estimate
+37,2015,3,Eagle,335,322,657,Estimate
+37,2015,4,Eagle,308,297,605,Estimate
+39,2015,0,Elbert,112,107,219,Estimate
+39,2015,1,Elbert,101,97,198,Estimate
+39,2015,2,Elbert,93,90,183,Estimate
+39,2015,3,Elbert,103,99,203,Estimate
+39,2015,4,Elbert,107,102,209,Estimate
+41,2015,0,El Paso,4840,4624,9464,Estimate
+41,2015,1,El Paso,4686,4482,9169,Estimate
+41,2015,2,El Paso,4647,4446,9093,Estimate
+41,2015,3,El Paso,4689,4486,9175,Estimate
+41,2015,4,El Paso,4750,4545,9295,Estimate
+43,2015,0,Fremont,198,189,387,Estimate
+43,2015,1,Fremont,197,189,386,Estimate
+43,2015,2,Fremont,174,167,341,Estimate
+43,2015,3,Fremont,200,192,392,Estimate
+43,2015,4,Fremont,200,192,392,Estimate
+45,2015,0,Garfield,390,373,763,Estimate
+45,2015,1,Garfield,387,370,757,Estimate
+45,2015,2,Garfield,406,388,794,Estimate
+45,2015,3,Garfield,388,371,758,Estimate
+45,2015,4,Garfield,416,398,814,Estimate
+47,2015,0,Gilpin,21,20,41,Estimate
+47,2015,1,Gilpin,22,22,44,Estimate
+47,2015,2,Gilpin,28,27,54,Estimate
+47,2015,3,Gilpin,23,22,46,Estimate
+47,2015,4,Gilpin,28,27,54,Estimate
+49,2015,0,Grand,59,57,116,Estimate
+49,2015,1,Grand,66,63,130,Estimate
+49,2015,2,Grand,64,61,126,Estimate
+49,2015,3,Grand,60,58,118,Estimate
+49,2015,4,Grand,57,55,113,Estimate
+51,2015,0,Gunnison,73,70,143,Estimate
+51,2015,1,Gunnison,74,70,144,Estimate
+51,2015,2,Gunnison,82,78,160,Estimate
+51,2015,3,Gunnison,90,86,175,Estimate
+51,2015,4,Gunnison,84,81,165,Estimate
+53,2015,0,Hinsdale,4,3,7,Estimate
+53,2015,1,Hinsdale,3,3,6,Estimate
+53,2015,2,Hinsdale,5,5,9,Estimate
+53,2015,3,Hinsdale,3,3,6,Estimate
+53,2015,4,Hinsdale,2,2,5,Estimate
+55,2015,0,Huerfano,29,28,56,Estimate
+55,2015,1,Huerfano,22,21,42,Estimate
+55,2015,2,Huerfano,26,25,51,Estimate
+55,2015,3,Huerfano,32,30,62,Estimate
+55,2015,4,Huerfano,25,24,48,Estimate
+57,2015,0,Jackson,6,6,12,Estimate
+57,2015,1,Jackson,9,8,17,Estimate
+57,2015,2,Jackson,3,3,7,Estimate
+57,2015,3,Jackson,5,5,10,Estimate
+57,2015,4,Jackson,6,6,13,Estimate
+59,2015,0,Jefferson,3003,2873,5877,Estimate
+59,2015,1,Jefferson,3065,2934,5999,Estimate
+59,2015,2,Jefferson,2983,2859,5843,Estimate
+59,2015,3,Jefferson,3003,2881,5884,Estimate
+59,2015,4,Jefferson,3031,2910,5940,Estimate
+61,2015,0,Kiowa,7,7,14,Estimate
+61,2015,1,Kiowa,10,9,19,Estimate
+61,2015,2,Kiowa,8,7,15,Estimate
+61,2015,3,Kiowa,4,4,8,Estimate
+61,2015,4,Kiowa,11,10,21,Estimate
+63,2015,0,Kit Carson,61,58,119,Estimate
+63,2015,1,Kit Carson,48,45,93,Estimate
+63,2015,2,Kit Carson,43,42,85,Estimate
+63,2015,3,Kit Carson,48,46,94,Estimate
+63,2015,4,Kit Carson,53,51,104,Estimate
+65,2015,0,Lake,45,43,88,Estimate
+65,2015,1,Lake,42,40,83,Estimate
+65,2015,2,Lake,42,41,83,Estimate
+65,2015,3,Lake,38,37,75,Estimate
+65,2015,4,Lake,54,52,106,Estimate
+67,2015,0,La Plata,298,285,583,Estimate
+67,2015,1,La Plata,284,271,555,Estimate
+67,2015,2,La Plata,257,245,502,Estimate
+67,2015,3,La Plata,281,268,549,Estimate
+67,2015,4,La Plata,287,274,561,Estimate
+69,2015,0,Larimer,1828,1749,3577,Estimate
+69,2015,1,Larimer,1896,1817,3713,Estimate
+69,2015,2,Larimer,1877,1800,3677,Estimate
+69,2015,3,Larimer,1933,1856,3788,Estimate
+69,2015,4,Larimer,1919,1844,3764,Estimate
+71,2015,0,Las Animas,65,62,127,Estimate
+71,2015,1,Las Animas,61,58,119,Estimate
+71,2015,2,Las Animas,72,69,141,Estimate
+71,2015,3,Las Animas,73,70,144,Estimate
+71,2015,4,Las Animas,73,70,142,Estimate
+73,2015,0,Lincoln,36,34,70,Estimate
+73,2015,1,Lincoln,26,25,52,Estimate
+73,2015,2,Lincoln,38,36,75,Estimate
+73,2015,3,Lincoln,27,26,54,Estimate
+73,2015,4,Lincoln,34,33,67,Estimate
+75,2015,0,Logan,111,106,217,Estimate
+75,2015,1,Logan,122,116,238,Estimate
+75,2015,2,Logan,125,119,244,Estimate
+75,2015,3,Logan,108,103,211,Estimate
+75,2015,4,Logan,101,98,199,Estimate
+77,2015,0,Mesa,936,894,1830,Estimate
+77,2015,1,Mesa,893,854,1747,Estimate
+77,2015,2,Mesa,936,895,1831,Estimate
+77,2015,3,Mesa,913,873,1786,Estimate
+77,2015,4,Mesa,960,918,1878,Estimate
+79,2015,0,Mineral,3,3,7,Estimate
+79,2015,1,Mineral,3,3,5,Estimate
+79,2015,2,Mineral,2,2,5,Estimate
+79,2015,3,Mineral,3,3,7,Estimate
+79,2015,4,Mineral,3,3,6,Estimate
+81,2015,0,Moffat,99,94,193,Estimate
+81,2015,1,Moffat,88,84,172,Estimate
+81,2015,2,Moffat,94,90,185,Estimate
+81,2015,3,Moffat,80,77,157,Estimate
+81,2015,4,Moffat,89,85,173,Estimate
+83,2015,0,Montezuma,170,162,332,Estimate
+83,2015,1,Montezuma,167,160,327,Estimate
+83,2015,2,Montezuma,152,146,298,Estimate
+83,2015,3,Montezuma,153,147,300,Estimate
+83,2015,4,Montezuma,160,154,314,Estimate
+85,2015,0,Montrose,233,223,456,Estimate
+85,2015,1,Montrose,246,235,481,Estimate
+85,2015,2,Montrose,232,222,453,Estimate
+85,2015,3,Montrose,203,194,398,Estimate
+85,2015,4,Montrose,247,236,483,Estimate
+87,2015,0,Morgan,231,221,452,Estimate
+87,2015,1,Morgan,216,206,422,Estimate
+87,2015,2,Morgan,206,197,403,Estimate
+87,2015,3,Morgan,208,199,407,Estimate
+87,2015,4,Morgan,226,217,443,Estimate
+89,2015,0,Otero,99,95,194,Estimate
+89,2015,1,Otero,111,106,217,Estimate
+89,2015,2,Otero,98,93,192,Estimate
+89,2015,3,Otero,140,134,273,Estimate
+89,2015,4,Otero,128,123,252,Estimate
+91,2015,0,Ouray,11,11,22,Estimate
+91,2015,1,Ouray,19,18,36,Estimate
+91,2015,2,Ouray,18,17,35,Estimate
+91,2015,3,Ouray,19,18,37,Estimate
+91,2015,4,Ouray,17,16,33,Estimate
+93,2015,0,Park,62,59,121,Estimate
+93,2015,1,Park,54,52,105,Estimate
+93,2015,2,Park,56,54,110,Estimate
+93,2015,3,Park,63,60,123,Estimate
+93,2015,4,Park,67,65,132,Estimate
+95,2015,0,Phillips,29,28,56,Estimate
+95,2015,1,Phillips,33,32,65,Estimate
+95,2015,2,Phillips,21,20,41,Estimate
+95,2015,3,Phillips,29,27,56,Estimate
+95,2015,4,Phillips,26,25,51,Estimate
+97,2015,0,Pitkin,66,63,129,Estimate
+97,2015,1,Pitkin,68,65,133,Estimate
+97,2015,2,Pitkin,63,60,124,Estimate
+97,2015,3,Pitkin,65,62,127,Estimate
+97,2015,4,Pitkin,87,83,169,Estimate
+99,2015,0,Prowers,84,80,164,Estimate
+99,2015,1,Prowers,72,69,142,Estimate
+99,2015,2,Prowers,83,80,163,Estimate
+99,2015,3,Prowers,93,89,182,Estimate
+99,2015,4,Prowers,72,69,141,Estimate
+101,2015,0,Pueblo,963,921,1885,Estimate
+101,2015,1,Pueblo,976,934,1910,Estimate
+101,2015,2,Pueblo,935,895,1830,Estimate
+101,2015,3,Pueblo,944,904,1848,Estimate
+101,2015,4,Pueblo,934,895,1829,Estimate
+103,2015,0,Rio Blanco,42,40,82,Estimate
+103,2015,1,Rio Blanco,35,34,69,Estimate
+103,2015,2,Rio Blanco,40,39,79,Estimate
+103,2015,3,Rio Blanco,37,35,72,Estimate
+103,2015,4,Rio Blanco,54,52,106,Estimate
+105,2015,0,Rio Grande,65,62,127,Estimate
+105,2015,1,Rio Grande,75,72,146,Estimate
+105,2015,2,Rio Grande,75,72,146,Estimate
+105,2015,3,Rio Grande,66,63,128,Estimate
+105,2015,4,Rio Grande,75,72,147,Estimate
+107,2015,0,Routt,113,108,221,Estimate
+107,2015,1,Routt,114,109,223,Estimate
+107,2015,2,Routt,114,110,224,Estimate
+107,2015,3,Routt,124,119,243,Estimate
+107,2015,4,Routt,131,126,256,Estimate
+109,2015,0,Saguache,40,39,79,Estimate
+109,2015,1,Saguache,29,27,56,Estimate
+109,2015,2,Saguache,37,36,73,Estimate
+109,2015,3,Saguache,40,38,78,Estimate
+109,2015,4,Saguache,38,37,75,Estimate
+111,2015,0,San Juan,3,3,6,Estimate
+111,2015,1,San Juan,4,3,7,Estimate
+111,2015,2,San Juan,1,1,2,Estimate
+111,2015,3,San Juan,2,2,4,Estimate
+111,2015,4,San Juan,4,4,8,Estimate
+113,2015,0,San Miguel,36,35,71,Estimate
+113,2015,1,San Miguel,38,37,75,Estimate
+113,2015,2,San Miguel,39,37,76,Estimate
+113,2015,3,San Miguel,42,41,83,Estimate
+113,2015,4,San Miguel,45,44,89,Estimate
+115,2015,0,Sedgwick,13,12,25,Estimate
+115,2015,1,Sedgwick,14,13,27,Estimate
+115,2015,2,Sedgwick,14,14,28,Estimate
+115,2015,3,Sedgwick,12,11,23,Estimate
+115,2015,4,Sedgwick,16,15,32,Estimate
+117,2015,0,Summit,138,132,269,Estimate
+117,2015,1,Summit,132,127,259,Estimate
+117,2015,2,Summit,117,112,228,Estimate
+117,2015,3,Summit,139,133,272,Estimate
+117,2015,4,Summit,131,125,256,Estimate
+119,2015,0,Teller,97,93,190,Estimate
+119,2015,1,Teller,100,96,196,Estimate
+119,2015,2,Teller,88,85,173,Estimate
+119,2015,3,Teller,86,83,169,Estimate
+119,2015,4,Teller,119,115,234,Estimate
+121,2015,0,Washington,25,24,49,Estimate
+121,2015,1,Washington,25,24,49,Estimate
+121,2015,2,Washington,20,19,39,Estimate
+121,2015,3,Washington,23,22,44,Estimate
+121,2015,4,Washington,23,22,45,Estimate
+123,2015,0,Weld,2136,2044,4180,Estimate
+123,2015,1,Weld,2090,2004,4093,Estimate
+123,2015,2,Weld,2047,1966,4014,Estimate
+123,2015,3,Weld,2063,1984,4047,Estimate
+123,2015,4,Weld,2064,1987,4051,Estimate
+125,2015,0,Yuma,72,69,141,Estimate
+125,2015,1,Yuma,73,70,142,Estimate
+125,2015,2,Yuma,73,70,142,Estimate
+125,2015,3,Yuma,81,78,159,Estimate
+125,2015,4,Yuma,81,78,159,Estimate
+1,2016,0,Adams,3675,3529,7204,Estimate
+1,2016,1,Adams,3777,3617,7394,Estimate
+1,2016,2,Adams,3632,3475,7107,Estimate
+1,2016,3,Adams,3706,3551,7257,Estimate
+1,2016,4,Adams,3585,3439,7024,Estimate
+3,2016,0,Alamosa,103,99,202,Estimate
+3,2016,1,Alamosa,111,107,218,Estimate
+3,2016,2,Alamosa,124,119,243,Estimate
+3,2016,3,Alamosa,116,112,228,Estimate
+3,2016,4,Alamosa,109,104,213,Estimate
+5,2016,0,Arapahoe,4187,4014,8201,Estimate
+5,2016,1,Arapahoe,4250,4068,8318,Estimate
+5,2016,2,Arapahoe,4177,3997,8174,Estimate
+5,2016,3,Arapahoe,4183,4007,8190,Estimate
+5,2016,4,Arapahoe,4178,4007,8186,Estimate
+7,2016,0,Archuleta,62,59,120,Estimate
+7,2016,1,Archuleta,63,60,123,Estimate
+7,2016,2,Archuleta,59,56,115,Estimate
+7,2016,3,Archuleta,58,55,113,Estimate
+7,2016,4,Archuleta,64,62,126,Estimate
+9,2016,0,Baca,19,19,38,Estimate
+9,2016,1,Baca,17,16,32,Estimate
+9,2016,2,Baca,19,18,37,Estimate
+9,2016,3,Baca,24,23,47,Estimate
+9,2016,4,Baca,27,25,52,Estimate
+11,2016,0,Bent,17,17,34,Estimate
+11,2016,1,Bent,22,21,43,Estimate
+11,2016,2,Bent,18,17,35,Estimate
+11,2016,3,Bent,21,20,42,Estimate
+11,2016,4,Bent,27,26,54,Estimate
+13,2016,0,Boulder,1458,1395,2854,Estimate
+13,2016,1,Boulder,1483,1418,2901,Estimate
+13,2016,2,Boulder,1540,1473,3014,Estimate
+13,2016,3,Boulder,1568,1502,3070,Estimate
+13,2016,4,Boulder,1583,1517,3100,Estimate
+14,2016,0,Broomfield,384,368,752,Estimate
+14,2016,1,Broomfield,368,353,720,Estimate
+14,2016,2,Broomfield,389,374,763,Estimate
+14,2016,3,Broomfield,386,371,758,Estimate
+14,2016,4,Broomfield,387,373,760,Estimate
+15,2016,0,Chaffee,73,70,143,Estimate
+15,2016,1,Chaffee,77,74,150,Estimate
+15,2016,2,Chaffee,81,78,159,Estimate
+15,2016,3,Chaffee,67,64,131,Estimate
+15,2016,4,Chaffee,90,87,177,Estimate
+17,2016,0,Cheyenne,13,13,26,Estimate
+17,2016,1,Cheyenne,15,14,29,Estimate
+17,2016,2,Cheyenne,14,13,27,Estimate
+17,2016,3,Cheyenne,14,13,27,Estimate
+17,2016,4,Cheyenne,19,18,38,Estimate
+19,2016,0,Clear Creek,39,38,77,Estimate
+19,2016,1,Clear Creek,34,33,67,Estimate
+19,2016,2,Clear Creek,45,43,88,Estimate
+19,2016,3,Clear Creek,40,39,79,Estimate
+19,2016,4,Clear Creek,38,36,74,Estimate
+21,2016,0,Conejos,49,47,96,Estimate
+21,2016,1,Conejos,58,56,114,Estimate
+21,2016,2,Conejos,61,59,120,Estimate
+21,2016,3,Conejos,55,53,108,Estimate
+21,2016,4,Conejos,63,61,124,Estimate
+23,2016,0,Costilla,16,16,32,Estimate
+23,2016,1,Costilla,16,15,32,Estimate
+23,2016,2,Costilla,16,15,31,Estimate
+23,2016,3,Costilla,16,16,32,Estimate
+23,2016,4,Costilla,17,16,32,Estimate
+25,2016,0,Crowley,12,12,24,Estimate
+25,2016,1,Crowley,19,18,36,Estimate
+25,2016,2,Crowley,14,14,28,Estimate
+25,2016,3,Crowley,18,17,35,Estimate
+25,2016,4,Crowley,16,15,31,Estimate
+27,2016,0,Custer,10,10,20,Estimate
+27,2016,1,Custer,15,15,30,Estimate
+27,2016,2,Custer,14,13,27,Estimate
+27,2016,3,Custer,14,13,27,Estimate
+27,2016,4,Custer,17,16,33,Estimate
+29,2016,0,Delta,146,140,286,Estimate
+29,2016,1,Delta,138,132,270,Estimate
+29,2016,2,Delta,144,138,283,Estimate
+29,2016,3,Delta,155,148,304,Estimate
+29,2016,4,Delta,162,155,317,Estimate
+31,2016,0,Denver,4874,4667,9540,Estimate
+31,2016,1,Denver,4718,4516,9235,Estimate
+31,2016,2,Denver,4559,4363,8922,Estimate
+31,2016,3,Denver,4377,4191,8568,Estimate
+31,2016,4,Denver,4189,4013,8202,Estimate
+33,2016,0,Dolores,8,8,16,Estimate
+33,2016,1,Dolores,10,10,20,Estimate
+33,2016,2,Dolores,8,8,16,Estimate
+33,2016,3,Dolores,9,9,19,Estimate
+33,2016,4,Dolores,13,12,25,Estimate
+35,2016,0,Douglas,1808,1728,3536,Estimate
+35,2016,1,Douglas,1767,1692,3459,Estimate
+35,2016,2,Douglas,1878,1798,3676,Estimate
+35,2016,3,Douglas,1845,1768,3613,Estimate
+35,2016,4,Douglas,1887,1809,3696,Estimate
+37,2016,0,Eagle,336,321,657,Estimate
+37,2016,1,Eagle,321,307,628,Estimate
+37,2016,2,Eagle,325,312,637,Estimate
+37,2016,3,Eagle,297,285,582,Estimate
+37,2016,4,Eagle,332,319,651,Estimate
+39,2016,0,Elbert,111,107,218,Estimate
+39,2016,1,Elbert,120,115,235,Estimate
+39,2016,2,Elbert,111,107,219,Estimate
+39,2016,3,Elbert,103,100,203,Estimate
+39,2016,4,Elbert,113,110,223,Estimate
+41,2016,0,El Paso,4870,4653,9523,Estimate
+41,2016,1,El Paso,4836,4625,9461,Estimate
+41,2016,2,El Paso,4706,4502,9208,Estimate
+41,2016,3,El Paso,4670,4468,9138,Estimate
+41,2016,4,El Paso,4712,4509,9222,Estimate
+43,2016,0,Fremont,200,191,390,Estimate
+43,2016,1,Fremont,203,194,397,Estimate
+43,2016,2,Fremont,204,196,399,Estimate
+43,2016,3,Fremont,180,173,353,Estimate
+43,2016,4,Fremont,206,198,405,Estimate
+45,2016,0,Garfield,429,410,839,Estimate
+45,2016,1,Garfield,388,371,760,Estimate
+45,2016,2,Garfield,387,370,757,Estimate
+45,2016,3,Garfield,406,388,793,Estimate
+45,2016,4,Garfield,388,371,758,Estimate
+47,2016,0,Gilpin,23,22,44,Estimate
+47,2016,1,Gilpin,22,21,43,Estimate
+47,2016,2,Gilpin,24,23,46,Estimate
+47,2016,3,Gilpin,29,28,57,Estimate
+47,2016,4,Gilpin,24,24,48,Estimate
+49,2016,0,Grand,69,66,134,Estimate
+49,2016,1,Grand,63,60,123,Estimate
+49,2016,2,Grand,70,67,137,Estimate
+49,2016,3,Grand,68,65,133,Estimate
+49,2016,4,Grand,64,62,126,Estimate
+51,2016,0,Gunnison,83,80,163,Estimate
+51,2016,1,Gunnison,75,72,148,Estimate
+51,2016,2,Gunnison,76,73,149,Estimate
+51,2016,3,Gunnison,84,81,165,Estimate
+51,2016,4,Gunnison,92,89,181,Estimate
+53,2016,0,Hinsdale,1,1,2,Estimate
+53,2016,1,Hinsdale,4,4,7,Estimate
+53,2016,2,Hinsdale,3,3,6,Estimate
+53,2016,3,Hinsdale,5,5,10,Estimate
+53,2016,4,Hinsdale,3,3,6,Estimate
+55,2016,0,Huerfano,24,23,47,Estimate
+55,2016,1,Huerfano,30,29,59,Estimate
+55,2016,2,Huerfano,23,22,45,Estimate
+55,2016,3,Huerfano,28,27,55,Estimate
+55,2016,4,Huerfano,33,32,65,Estimate
+57,2016,0,Jackson,6,6,12,Estimate
+57,2016,1,Jackson,6,6,12,Estimate
+57,2016,2,Jackson,9,9,18,Estimate
+57,2016,3,Jackson,4,3,7,Estimate
+57,2016,4,Jackson,5,5,10,Estimate
+59,2016,0,Jefferson,3039,2908,5947,Estimate
+59,2016,1,Jefferson,3030,2901,5931,Estimate
+59,2016,2,Jefferson,3125,2995,6120,Estimate
+59,2016,3,Jefferson,3045,2921,5966,Estimate
+59,2016,4,Jefferson,3064,2943,6006,Estimate
+61,2016,0,Kiowa,10,10,20,Estimate
+61,2016,1,Kiowa,7,7,14,Estimate
+61,2016,2,Kiowa,10,9,19,Estimate
+61,2016,3,Kiowa,8,7,15,Estimate
+61,2016,4,Kiowa,4,4,8,Estimate
+63,2016,0,Kit Carson,44,42,87,Estimate
+63,2016,1,Kit Carson,56,53,109,Estimate
+63,2016,2,Kit Carson,44,42,86,Estimate
+63,2016,3,Kit Carson,40,38,79,Estimate
+63,2016,4,Kit Carson,44,42,87,Estimate
+65,2016,0,Lake,34,32,66,Estimate
+65,2016,1,Lake,46,44,90,Estimate
+65,2016,2,Lake,43,41,85,Estimate
+65,2016,3,Lake,44,42,85,Estimate
+65,2016,4,Lake,39,38,77,Estimate
+67,2016,0,La Plata,289,276,565,Estimate
+67,2016,1,La Plata,293,280,574,Estimate
+67,2016,2,La Plata,280,268,548,Estimate
+67,2016,3,La Plata,254,243,497,Estimate
+67,2016,4,La Plata,278,265,543,Estimate
+69,2016,0,Larimer,1815,1737,3552,Estimate
+69,2016,1,Larimer,1864,1787,3651,Estimate
+69,2016,2,Larimer,1941,1863,3805,Estimate
+69,2016,3,Larimer,1925,1849,3774,Estimate
+69,2016,4,Larimer,1981,1905,3886,Estimate
+71,2016,0,Las Animas,68,65,133,Estimate
+71,2016,1,Las Animas,66,63,129,Estimate
+71,2016,2,Las Animas,62,59,121,Estimate
+71,2016,3,Las Animas,73,70,144,Estimate
+71,2016,4,Las Animas,75,72,147,Estimate
+73,2016,0,Lincoln,27,26,53,Estimate
+73,2016,1,Lincoln,36,34,70,Estimate
+73,2016,2,Lincoln,27,26,52,Estimate
+73,2016,3,Lincoln,38,37,75,Estimate
+73,2016,4,Lincoln,28,27,55,Estimate
+75,2016,0,Logan,113,107,220,Estimate
+75,2016,1,Logan,109,104,213,Estimate
+75,2016,2,Logan,120,115,234,Estimate
+75,2016,3,Logan,123,118,241,Estimate
+75,2016,4,Logan,107,103,209,Estimate
+77,2016,0,Mesa,876,837,1714,Estimate
+77,2016,1,Mesa,934,893,1827,Estimate
+77,2016,2,Mesa,895,856,1751,Estimate
+77,2016,3,Mesa,939,898,1837,Estimate
+77,2016,4,Mesa,917,878,1795,Estimate
+79,2016,0,Mineral,4,4,8,Estimate
+79,2016,1,Mineral,3,3,7,Estimate
+79,2016,2,Mineral,3,3,5,Estimate
+79,2016,3,Mineral,2,2,5,Estimate
+79,2016,4,Mineral,4,3,7,Estimate
+81,2016,0,Moffat,94,90,184,Estimate
+81,2016,1,Moffat,100,95,195,Estimate
+81,2016,2,Moffat,90,86,175,Estimate
+81,2016,3,Moffat,96,92,188,Estimate
+81,2016,4,Moffat,82,78,160,Estimate
+83,2016,0,Montezuma,154,148,302,Estimate
+83,2016,1,Montezuma,171,164,335,Estimate
+83,2016,2,Montezuma,169,162,332,Estimate
+83,2016,3,Montezuma,155,149,304,Estimate
+83,2016,4,Montezuma,156,150,306,Estimate
+85,2016,0,Montrose,216,206,422,Estimate
+85,2016,1,Montrose,231,221,453,Estimate
+85,2016,2,Montrose,246,235,480,Estimate
+85,2016,3,Montrose,232,222,454,Estimate
+85,2016,4,Montrose,205,196,401,Estimate
+87,2016,0,Morgan,216,206,423,Estimate
+87,2016,1,Morgan,228,218,445,Estimate
+87,2016,2,Morgan,214,205,419,Estimate
+87,2016,3,Morgan,204,195,398,Estimate
+87,2016,4,Morgan,206,197,403,Estimate
+89,2016,0,Otero,118,113,231,Estimate
+89,2016,1,Otero,100,96,196,Estimate
+89,2016,2,Otero,113,108,221,Estimate
+89,2016,3,Otero,100,96,196,Estimate
+89,2016,4,Otero,141,136,277,Estimate
+91,2016,0,Ouray,19,18,37,Estimate
+91,2016,1,Ouray,13,13,26,Estimate
+91,2016,2,Ouray,20,20,40,Estimate
+91,2016,3,Ouray,20,19,39,Estimate
+91,2016,4,Ouray,21,20,41,Estimate
+93,2016,0,Park,66,63,128,Estimate
+93,2016,1,Park,67,64,132,Estimate
+93,2016,2,Park,59,57,116,Estimate
+93,2016,3,Park,61,59,121,Estimate
+93,2016,4,Park,69,66,135,Estimate
+95,2016,0,Phillips,35,33,67,Estimate
+95,2016,1,Phillips,28,27,56,Estimate
+95,2016,2,Phillips,33,31,64,Estimate
+95,2016,3,Phillips,21,20,41,Estimate
+95,2016,4,Phillips,28,27,56,Estimate
+97,2016,0,Pitkin,74,71,145,Estimate
+97,2016,1,Pitkin,64,61,125,Estimate
+97,2016,2,Pitkin,66,63,129,Estimate
+97,2016,3,Pitkin,62,59,120,Estimate
+97,2016,4,Pitkin,63,60,123,Estimate
+99,2016,0,Prowers,95,91,186,Estimate
+99,2016,1,Prowers,84,81,165,Estimate
+99,2016,2,Prowers,73,70,143,Estimate
+99,2016,3,Prowers,84,80,164,Estimate
+99,2016,4,Prowers,94,90,184,Estimate
+101,2016,0,Pueblo,953,911,1864,Estimate
+101,2016,1,Pueblo,963,921,1884,Estimate
+101,2016,2,Pueblo,980,938,1918,Estimate
+101,2016,3,Pueblo,940,900,1840,Estimate
+101,2016,4,Pueblo,950,910,1859,Estimate
+103,2016,0,Rio Blanco,38,36,75,Estimate
+103,2016,1,Rio Blanco,41,40,81,Estimate
+103,2016,2,Rio Blanco,35,33,68,Estimate
+103,2016,3,Rio Blanco,40,39,79,Estimate
+103,2016,4,Rio Blanco,37,35,72,Estimate
+105,2016,0,Rio Grande,71,68,139,Estimate
+105,2016,1,Rio Grande,65,62,127,Estimate
+105,2016,2,Rio Grande,75,72,147,Estimate
+105,2016,3,Rio Grande,75,72,147,Estimate
+105,2016,4,Rio Grande,66,63,130,Estimate
+107,2016,0,Routt,129,124,253,Estimate
+107,2016,1,Routt,116,111,228,Estimate
+107,2016,2,Routt,118,113,231,Estimate
+107,2016,3,Routt,118,114,233,Estimate
+107,2016,4,Routt,128,123,251,Estimate
+109,2016,0,Saguache,41,39,80,Estimate
+109,2016,1,Saguache,42,40,81,Estimate
+109,2016,2,Saguache,30,29,59,Estimate
+109,2016,3,Saguache,39,37,76,Estimate
+109,2016,4,Saguache,41,40,81,Estimate
+111,2016,0,San Juan,3,3,5,Estimate
+111,2016,1,San Juan,3,3,6,Estimate
+111,2016,2,San Juan,4,3,7,Estimate
+111,2016,3,San Juan,1,1,2,Estimate
+111,2016,4,San Juan,2,2,4,Estimate
+113,2016,0,San Miguel,37,35,72,Estimate
+113,2016,1,San Miguel,38,36,74,Estimate
+113,2016,2,San Miguel,40,38,78,Estimate
+113,2016,3,San Miguel,41,39,80,Estimate
+113,2016,4,San Miguel,44,43,87,Estimate
+115,2016,0,Sedgwick,15,15,30,Estimate
+115,2016,1,Sedgwick,13,13,26,Estimate
+115,2016,2,Sedgwick,14,14,28,Estimate
+115,2016,3,Sedgwick,15,14,29,Estimate
+115,2016,4,Sedgwick,12,12,24,Estimate
+117,2016,0,Summit,149,142,291,Estimate
+117,2016,1,Summit,132,127,259,Estimate
+117,2016,2,Summit,128,122,250,Estimate
+117,2016,3,Summit,113,108,220,Estimate
+117,2016,4,Summit,134,128,262,Estimate
+119,2016,0,Teller,100,96,196,Estimate
+119,2016,1,Teller,102,98,199,Estimate
+119,2016,2,Teller,106,102,208,Estimate
+119,2016,3,Teller,94,90,184,Estimate
+119,2016,4,Teller,92,89,181,Estimate
+121,2016,0,Washington,30,29,59,Estimate
+121,2016,1,Washington,26,24,50,Estimate
+121,2016,2,Washington,26,25,51,Estimate
+121,2016,3,Washington,21,20,40,Estimate
+121,2016,4,Washington,23,23,46,Estimate
+123,2016,0,Weld,2229,2133,4362,Estimate
+123,2016,1,Weld,2182,2091,4273,Estimate
+123,2016,2,Weld,2147,2061,4208,Estimate
+123,2016,3,Weld,2107,2027,4134,Estimate
+123,2016,4,Weld,2125,2046,4170,Estimate
+125,2016,0,Yuma,75,72,147,Estimate
+125,2016,1,Yuma,73,69,142,Estimate
+125,2016,2,Yuma,73,70,144,Estimate
+125,2016,3,Yuma,73,70,144,Estimate
+125,2016,4,Yuma,82,79,161,Estimate
+1,2017,0,Adams,3657,3512,7169,Estimate
+1,2017,1,Adams,3638,3484,7123,Estimate
+1,2017,2,Adams,3750,3588,7337,Estimate
+1,2017,3,Adams,3602,3452,7054,Estimate
+1,2017,4,Adams,3670,3521,7191,Estimate
+3,2017,0,Alamosa,101,97,199,Estimate
+3,2017,1,Alamosa,104,99,203,Estimate
+3,2017,2,Alamosa,112,107,220,Estimate
+3,2017,3,Alamosa,125,120,244,Estimate
+3,2017,4,Alamosa,117,112,230,Estimate
+5,2017,0,Arapahoe,4045,3879,7924,Estimate
+5,2017,1,Arapahoe,4190,4011,8200,Estimate
+5,2017,2,Arapahoe,4263,4080,8343,Estimate
+5,2017,3,Arapahoe,4189,4012,8201,Estimate
+5,2017,4,Arapahoe,4190,4019,8210,Estimate
+7,2017,0,Archuleta,71,68,139,Estimate
+7,2017,1,Archuleta,63,60,123,Estimate
+7,2017,2,Archuleta,64,62,126,Estimate
+7,2017,3,Archuleta,60,58,118,Estimate
+7,2017,4,Archuleta,60,57,118,Estimate
+9,2017,0,Baca,20,20,40,Estimate
+9,2017,1,Baca,20,19,39,Estimate
+9,2017,2,Baca,17,16,33,Estimate
+9,2017,3,Baca,19,19,38,Estimate
+9,2017,4,Baca,25,24,48,Estimate
+11,2017,0,Bent,23,22,45,Estimate
+11,2017,1,Bent,19,18,36,Estimate
+11,2017,2,Bent,23,23,46,Estimate
+11,2017,3,Bent,19,19,38,Estimate
+11,2017,4,Bent,23,22,44,Estimate
+13,2017,0,Boulder,1348,1291,2639,Estimate
+13,2017,1,Boulder,1460,1396,2856,Estimate
+13,2017,2,Boulder,1494,1429,2923,Estimate
+13,2017,3,Boulder,1553,1487,3040,Estimate
+13,2017,4,Boulder,1583,1517,3100,Estimate
+14,2017,0,Broomfield,354,338,692,Estimate
+14,2017,1,Broomfield,391,375,767,Estimate
+14,2017,2,Broomfield,376,362,738,Estimate
+14,2017,3,Broomfield,398,383,781,Estimate
+14,2017,4,Broomfield,396,381,776,Estimate
+15,2017,0,Chaffee,71,68,139,Estimate
+15,2017,1,Chaffee,77,74,151,Estimate
+15,2017,2,Chaffee,82,78,160,Estimate
+15,2017,3,Chaffee,86,83,169,Estimate
+15,2017,4,Chaffee,72,69,141,Estimate
+17,2017,0,Cheyenne,11,10,21,Estimate
+17,2017,1,Cheyenne,13,13,26,Estimate
+17,2017,2,Cheyenne,15,14,29,Estimate
+17,2017,3,Cheyenne,14,13,27,Estimate
+17,2017,4,Cheyenne,14,13,27,Estimate
+19,2017,0,Clear Creek,41,39,80,Estimate
+19,2017,1,Clear Creek,41,39,80,Estimate
+19,2017,2,Clear Creek,36,35,71,Estimate
+19,2017,3,Clear Creek,47,45,93,Estimate
+19,2017,4,Clear Creek,43,41,83,Estimate
+21,2017,0,Conejos,50,47,97,Estimate
+21,2017,1,Conejos,50,48,98,Estimate
+21,2017,2,Conejos,59,57,116,Estimate
+21,2017,3,Conejos,63,60,123,Estimate
+21,2017,4,Conejos,56,54,110,Estimate
+23,2017,0,Costilla,21,20,42,Estimate
+23,2017,1,Costilla,17,16,34,Estimate
+23,2017,2,Costilla,17,16,33,Estimate
+23,2017,3,Costilla,17,16,33,Estimate
+23,2017,4,Costilla,17,17,34,Estimate
+25,2017,0,Crowley,17,16,33,Estimate
+25,2017,1,Crowley,14,13,27,Estimate
+25,2017,2,Crowley,21,20,42,Estimate
+25,2017,3,Crowley,16,16,32,Estimate
+25,2017,4,Crowley,21,20,41,Estimate
+27,2017,0,Custer,21,20,41,Estimate
+27,2017,1,Custer,12,12,23,Estimate
+27,2017,2,Custer,17,16,34,Estimate
+27,2017,3,Custer,16,15,31,Estimate
+27,2017,4,Custer,16,15,31,Estimate
+29,2017,0,Delta,144,138,282,Estimate
+29,2017,1,Delta,146,140,287,Estimate
+29,2017,2,Delta,139,133,272,Estimate
+29,2017,3,Delta,146,139,285,Estimate
+29,2017,4,Delta,157,150,306,Estimate
+31,2017,0,Denver,4585,4391,8977,Estimate
+31,2017,1,Denver,4771,4566,9337,Estimate
+31,2017,2,Denver,4626,4427,9053,Estimate
+31,2017,3,Denver,4466,4275,8741,Estimate
+31,2017,4,Denver,4270,4090,8360,Estimate
+33,2017,0,Dolores,6,6,12,Estimate
+33,2017,1,Dolores,8,8,16,Estimate
+33,2017,2,Dolores,10,10,20,Estimate
+33,2017,3,Dolores,8,8,16,Estimate
+33,2017,4,Dolores,10,9,19,Estimate
+35,2017,0,Douglas,1824,1744,3568,Estimate
+35,2017,1,Douglas,1829,1751,3580,Estimate
+35,2017,2,Douglas,1794,1719,3513,Estimate
+35,2017,3,Douglas,1903,1823,3725,Estimate
+35,2017,4,Douglas,1870,1792,3662,Estimate
+37,2017,0,Eagle,303,289,592,Estimate
+37,2017,1,Eagle,337,323,661,Estimate
+37,2017,2,Eagle,324,311,635,Estimate
+37,2017,3,Eagle,329,316,644,Estimate
+37,2017,4,Eagle,301,290,591,Estimate
+39,2017,0,Elbert,122,117,238,Estimate
+39,2017,1,Elbert,119,115,234,Estimate
+39,2017,2,Elbert,130,125,255,Estimate
+39,2017,3,Elbert,121,117,238,Estimate
+39,2017,4,Elbert,114,110,224,Estimate
+41,2017,0,El Paso,4844,4628,9473,Estimate
+41,2017,1,El Paso,4840,4629,9469,Estimate
+41,2017,2,El Paso,4830,4621,9451,Estimate
+41,2017,3,El Paso,4704,4500,9204,Estimate
+41,2017,4,El Paso,4668,4467,9135,Estimate
+43,2017,0,Fremont,199,190,388,Estimate
+43,2017,1,Fremont,203,195,398,Estimate
+43,2017,2,Fremont,208,200,408,Estimate
+43,2017,3,Fremont,209,201,410,Estimate
+43,2017,4,Fremont,185,178,363,Estimate
+45,2017,0,Garfield,415,396,811,Estimate
+45,2017,1,Garfield,421,402,823,Estimate
+45,2017,2,Garfield,383,366,748,Estimate
+45,2017,3,Garfield,381,364,746,Estimate
+45,2017,4,Garfield,400,382,782,Estimate
+47,2017,0,Gilpin,22,21,42,Estimate
+47,2017,1,Gilpin,24,23,46,Estimate
+47,2017,2,Gilpin,23,22,45,Estimate
+47,2017,3,Gilpin,25,24,49,Estimate
+47,2017,4,Gilpin,30,29,59,Estimate
+49,2017,0,Grand,68,65,133,Estimate
+49,2017,1,Grand,70,68,138,Estimate
+49,2017,2,Grand,65,62,127,Estimate
+49,2017,3,Grand,72,69,142,Estimate
+49,2017,4,Grand,70,68,138,Estimate
+51,2017,0,Gunnison,72,69,141,Estimate
+51,2017,1,Gunnison,86,83,169,Estimate
+51,2017,2,Gunnison,79,76,155,Estimate
+51,2017,3,Gunnison,80,76,156,Estimate
+51,2017,4,Gunnison,88,85,173,Estimate
+53,2017,0,Hinsdale,2,2,4,Estimate
+53,2017,1,Hinsdale,1,1,3,Estimate
+53,2017,2,Hinsdale,4,4,8,Estimate
+53,2017,3,Hinsdale,3,3,6,Estimate
+53,2017,4,Hinsdale,5,5,10,Estimate
+55,2017,0,Huerfano,23,22,46,Estimate
+55,2017,1,Huerfano,25,24,49,Estimate
+55,2017,2,Huerfano,31,30,62,Estimate
+55,2017,3,Huerfano,24,23,47,Estimate
+55,2017,4,Huerfano,29,28,57,Estimate
+57,2017,0,Jackson,8,8,15,Estimate
+57,2017,1,Jackson,6,6,13,Estimate
+57,2017,2,Jackson,6,6,12,Estimate
+57,2017,3,Jackson,9,9,18,Estimate
+57,2017,4,Jackson,4,4,7,Estimate
+59,2017,0,Jefferson,3064,2932,5996,Estimate
+59,2017,1,Jefferson,3049,2918,5966,Estimate
+59,2017,2,Jefferson,3068,2939,6007,Estimate
+59,2017,3,Jefferson,3163,3033,6196,Estimate
+59,2017,4,Jefferson,3082,2960,6041,Estimate
+61,2017,0,Kiowa,9,9,18,Estimate
+61,2017,1,Kiowa,10,10,20,Estimate
+61,2017,2,Kiowa,7,7,15,Estimate
+61,2017,3,Kiowa,10,10,20,Estimate
+61,2017,4,Kiowa,8,8,16,Estimate
+63,2017,0,Kit Carson,44,42,86,Estimate
+63,2017,1,Kit Carson,44,42,86,Estimate
+63,2017,2,Kit Carson,55,53,108,Estimate
+63,2017,3,Kit Carson,43,42,85,Estimate
+63,2017,4,Kit Carson,40,38,78,Estimate
+65,2017,0,Lake,45,43,88,Estimate
+65,2017,1,Lake,34,33,67,Estimate
+65,2017,2,Lake,47,45,92,Estimate
+65,2017,3,Lake,44,42,87,Estimate
+65,2017,4,Lake,45,43,87,Estimate
+67,2017,0,La Plata,252,241,492,Estimate
+67,2017,1,La Plata,281,269,550,Estimate
+67,2017,2,La Plata,287,274,561,Estimate
+67,2017,3,La Plata,274,262,536,Estimate
+67,2017,4,La Plata,248,237,486,Estimate
+69,2017,0,Larimer,1751,1676,3427,Estimate
+69,2017,1,Larimer,1847,1770,3617,Estimate
+69,2017,2,Larimer,1905,1829,3733,Estimate
+69,2017,3,Larimer,1984,1907,3891,Estimate
+69,2017,4,Larimer,1968,1893,3862,Estimate
+71,2017,0,Las Animas,76,72,148,Estimate
+71,2017,1,Las Animas,69,66,135,Estimate
+71,2017,2,Las Animas,67,64,131,Estimate
+71,2017,3,Las Animas,63,61,124,Estimate
+71,2017,4,Las Animas,75,72,147,Estimate
+73,2017,0,Lincoln,27,26,53,Estimate
+73,2017,1,Lincoln,27,26,53,Estimate
+73,2017,2,Lincoln,36,35,70,Estimate
+73,2017,3,Lincoln,27,26,53,Estimate
+73,2017,4,Lincoln,38,37,75,Estimate
+75,2017,0,Logan,120,114,234,Estimate
+75,2017,1,Logan,111,106,216,Estimate
+75,2017,2,Logan,107,103,210,Estimate
+75,2017,3,Logan,118,113,231,Estimate
+75,2017,4,Logan,122,117,239,Estimate
+77,2017,0,Mesa,848,811,1659,Estimate
+77,2017,1,Mesa,874,835,1709,Estimate
+77,2017,2,Mesa,935,894,1830,Estimate
+77,2017,3,Mesa,898,859,1756,Estimate
+77,2017,4,Mesa,943,902,1845,Estimate
+79,2017,0,Mineral,4,3,7,Estimate
+79,2017,1,Mineral,4,4,8,Estimate
+79,2017,2,Mineral,3,3,7,Estimate
+79,2017,3,Mineral,3,3,6,Estimate
+79,2017,4,Mineral,3,2,5,Estimate
+81,2017,0,Moffat,91,87,177,Estimate
+81,2017,1,Moffat,93,89,182,Estimate
+81,2017,2,Moffat,99,95,194,Estimate
+81,2017,3,Moffat,89,85,174,Estimate
+81,2017,4,Moffat,96,92,187,Estimate
+83,2017,0,Montezuma,131,125,256,Estimate
+83,2017,1,Montezuma,156,149,305,Estimate
+83,2017,2,Montezuma,173,166,339,Estimate
+83,2017,3,Montezuma,172,165,336,Estimate
+83,2017,4,Montezuma,158,151,309,Estimate
+85,2017,0,Montrose,238,227,465,Estimate
+85,2017,1,Montrose,214,205,419,Estimate
+85,2017,2,Montrose,231,221,452,Estimate
+85,2017,3,Montrose,246,235,481,Estimate
+85,2017,4,Montrose,233,223,457,Estimate
+87,2017,0,Morgan,206,197,403,Estimate
+87,2017,1,Morgan,216,206,422,Estimate
+87,2017,2,Morgan,229,219,448,Estimate
+87,2017,3,Morgan,215,206,421,Estimate
+87,2017,4,Morgan,204,196,400,Estimate
+89,2017,0,Otero,113,108,220,Estimate
+89,2017,1,Otero,120,115,235,Estimate
+89,2017,2,Otero,104,98,202,Estimate
+89,2017,3,Otero,116,112,228,Estimate
+89,2017,4,Otero,103,99,201,Estimate
+91,2017,0,Ouray,17,16,32,Estimate
+91,2017,1,Ouray,20,19,38,Estimate
+91,2017,2,Ouray,14,13,27,Estimate
+91,2017,3,Ouray,21,20,41,Estimate
+91,2017,4,Ouray,21,20,40,Estimate
+93,2017,0,Park,63,60,122,Estimate
+93,2017,1,Park,70,68,138,Estimate
+93,2017,2,Park,72,70,142,Estimate
+93,2017,3,Park,64,62,127,Estimate
+93,2017,4,Park,67,65,131,Estimate
+95,2017,0,Phillips,27,26,53,Estimate
+95,2017,1,Phillips,35,33,68,Estimate
+95,2017,2,Phillips,29,27,56,Estimate
+95,2017,3,Phillips,33,32,65,Estimate
+95,2017,4,Phillips,21,20,42,Estimate
+97,2017,0,Pitkin,82,78,161,Estimate
+97,2017,1,Pitkin,73,70,143,Estimate
+97,2017,2,Pitkin,63,60,123,Estimate
+97,2017,3,Pitkin,65,62,127,Estimate
+97,2017,4,Pitkin,61,58,119,Estimate
+99,2017,0,Prowers,83,79,162,Estimate
+99,2017,1,Prowers,96,92,187,Estimate
+99,2017,2,Prowers,85,82,167,Estimate
+99,2017,3,Prowers,74,71,145,Estimate
+99,2017,4,Prowers,85,81,166,Estimate
+101,2017,0,Pueblo,919,879,1799,Estimate
+101,2017,1,Pueblo,951,910,1861,Estimate
+101,2017,2,Pueblo,965,924,1889,Estimate
+101,2017,3,Pueblo,984,942,1926,Estimate
+101,2017,4,Pueblo,945,905,1850,Estimate
+103,2017,0,Rio Blanco,34,32,66,Estimate
+103,2017,1,Rio Blanco,38,36,74,Estimate
+103,2017,2,Rio Blanco,41,39,80,Estimate
+103,2017,3,Rio Blanco,35,33,68,Estimate
+103,2017,4,Rio Blanco,40,38,78,Estimate
+105,2017,0,Rio Grande,61,58,119,Estimate
+105,2017,1,Rio Grande,71,68,139,Estimate
+105,2017,2,Rio Grande,65,63,128,Estimate
+105,2017,3,Rio Grande,76,73,148,Estimate
+105,2017,4,Rio Grande,76,73,148,Estimate
+107,2017,0,Routt,121,116,238,Estimate
+107,2017,1,Routt,133,128,261,Estimate
+107,2017,2,Routt,121,116,237,Estimate
+107,2017,3,Routt,122,118,240,Estimate
+107,2017,4,Routt,123,119,243,Estimate
+109,2017,0,Saguache,35,34,69,Estimate
+109,2017,1,Saguache,43,41,83,Estimate
+109,2017,2,Saguache,43,42,85,Estimate
+109,2017,3,Saguache,32,30,62,Estimate
+109,2017,4,Saguache,41,39,79,Estimate
+111,2017,0,San Juan,3,3,6,Estimate
+111,2017,1,San Juan,3,3,5,Estimate
+111,2017,2,San Juan,3,3,6,Estimate
+111,2017,3,San Juan,4,4,7,Estimate
+111,2017,4,San Juan,1,1,2,Estimate
+113,2017,0,San Miguel,36,34,70,Estimate
+113,2017,1,San Miguel,37,36,73,Estimate
+113,2017,2,San Miguel,39,37,76,Estimate
+113,2017,3,San Miguel,41,40,80,Estimate
+113,2017,4,San Miguel,42,40,82,Estimate
+115,2017,0,Sedgwick,10,9,19,Estimate
+115,2017,1,Sedgwick,15,14,29,Estimate
+115,2017,2,Sedgwick,13,12,25,Estimate
+115,2017,3,Sedgwick,14,13,27,Estimate
+115,2017,4,Sedgwick,14,14,28,Estimate
+117,2017,0,Summit,141,135,276,Estimate
+117,2017,1,Summit,144,137,281,Estimate
+117,2017,2,Summit,128,123,251,Estimate
+117,2017,3,Summit,124,118,242,Estimate
+117,2017,4,Summit,109,104,214,Estimate
+119,2017,0,Teller,95,91,185,Estimate
+119,2017,1,Teller,105,100,205,Estimate
+119,2017,2,Teller,107,103,211,Estimate
+119,2017,3,Teller,112,107,219,Estimate
+119,2017,4,Teller,100,96,196,Estimate
+121,2017,0,Washington,24,23,47,Estimate
+121,2017,1,Washington,31,30,60,Estimate
+121,2017,2,Washington,27,25,52,Estimate
+121,2017,3,Washington,27,26,53,Estimate
+121,2017,4,Washington,22,21,42,Estimate
+123,2017,0,Weld,2260,2163,4423,Estimate
+123,2017,1,Weld,2278,2184,4462,Estimate
+123,2017,2,Weld,2243,2153,4396,Estimate
+123,2017,3,Weld,2211,2125,4336,Estimate
+123,2017,4,Weld,2173,2093,4266,Estimate
+125,2017,0,Yuma,74,70,144,Estimate
+125,2017,1,Yuma,74,71,145,Estimate
+125,2017,2,Yuma,72,69,141,Estimate
+125,2017,3,Yuma,73,70,143,Estimate
+125,2017,4,Yuma,73,70,143,Estimate
+1,2018,0,Adams,3678,3532,7210,Forecast
+1,2018,1,Adams,3662,3507,7168,Forecast
+1,2018,2,Adams,3654,3496,7150,Forecast
+1,2018,3,Adams,3761,3603,7364,Forecast
+1,2018,4,Adams,3608,3462,7070,Forecast
+3,2018,0,Alamosa,102,98,200,Forecast
+3,2018,1,Alamosa,102,98,200,Forecast
+3,2018,2,Alamosa,105,100,205,Forecast
+3,2018,3,Alamosa,113,109,222,Forecast
+3,2018,4,Alamosa,126,121,247,Forecast
+5,2018,0,Arapahoe,3967,3804,7770,Forecast
+5,2018,1,Arapahoe,4059,3885,7944,Forecast
+5,2018,2,Arapahoe,4214,4032,8246,Forecast
+5,2018,3,Arapahoe,4286,4105,8391,Forecast
+5,2018,4,Arapahoe,4206,4034,8240,Forecast
+7,2018,0,Archuleta,63,60,123,Forecast
+7,2018,1,Archuleta,71,68,139,Forecast
+7,2018,2,Archuleta,63,60,124,Forecast
+7,2018,3,Archuleta,65,62,127,Forecast
+7,2018,4,Archuleta,61,59,120,Forecast
+9,2018,0,Baca,21,20,40,Forecast
+9,2018,1,Baca,21,20,40,Forecast
+9,2018,2,Baca,20,19,39,Forecast
+9,2018,3,Baca,17,17,34,Forecast
+9,2018,4,Baca,20,19,39,Forecast
+11,2018,0,Bent,25,24,48,Forecast
+11,2018,1,Bent,23,22,45,Forecast
+11,2018,2,Bent,19,18,37,Forecast
+11,2018,3,Bent,24,23,47,Forecast
+11,2018,4,Bent,20,19,39,Forecast
+13,2018,0,Boulder,1423,1362,2785,Forecast
+13,2018,1,Boulder,1354,1296,2650,Forecast
+13,2018,2,Boulder,1474,1410,2884,Forecast
+13,2018,3,Boulder,1509,1446,2955,Forecast
+13,2018,4,Boulder,1570,1505,3075,Forecast
+14,2018,0,Broomfield,348,333,681,Forecast
+14,2018,1,Broomfield,363,348,711,Forecast
+14,2018,2,Broomfield,402,386,788,Forecast
+14,2018,3,Broomfield,387,373,760,Forecast
+14,2018,4,Broomfield,409,394,804,Forecast
+15,2018,0,Chaffee,75,72,147,Forecast
+15,2018,1,Chaffee,74,71,144,Forecast
+15,2018,2,Chaffee,80,77,158,Forecast
+15,2018,3,Chaffee,85,82,167,Forecast
+15,2018,4,Chaffee,90,86,176,Forecast
+17,2018,0,Cheyenne,14,13,27,Forecast
+17,2018,1,Cheyenne,11,10,21,Forecast
+17,2018,2,Cheyenne,14,13,26,Forecast
+17,2018,3,Cheyenne,15,14,29,Forecast
+17,2018,4,Cheyenne,14,13,27,Forecast
+19,2018,0,Clear Creek,43,41,85,Forecast
+19,2018,1,Clear Creek,42,40,82,Forecast
+19,2018,2,Clear Creek,42,41,83,Forecast
+19,2018,3,Clear Creek,38,36,74,Forecast
+19,2018,4,Clear Creek,49,47,96,Forecast
+21,2018,0,Conejos,51,49,100,Forecast
+21,2018,1,Conejos,50,48,98,Forecast
+21,2018,2,Conejos,51,48,99,Forecast
+21,2018,3,Conejos,60,57,117,Forecast
+21,2018,4,Conejos,63,60,124,Forecast
+23,2018,0,Costilla,17,16,33,Forecast
+23,2018,1,Costilla,22,21,42,Forecast
+23,2018,2,Costilla,18,17,35,Forecast
+23,2018,3,Costilla,17,17,34,Forecast
+23,2018,4,Costilla,17,17,34,Forecast
+25,2018,0,Crowley,13,13,26,Forecast
+25,2018,1,Crowley,17,16,33,Forecast
+25,2018,2,Crowley,14,13,27,Forecast
+25,2018,3,Crowley,21,20,42,Forecast
+25,2018,4,Crowley,16,16,32,Forecast
+27,2018,0,Custer,12,11,23,Forecast
+27,2018,1,Custer,22,21,42,Forecast
+27,2018,2,Custer,13,12,25,Forecast
+27,2018,3,Custer,18,17,35,Forecast
+27,2018,4,Custer,16,16,32,Forecast
+29,2018,0,Delta,149,143,292,Forecast
+29,2018,1,Delta,144,138,282,Forecast
+29,2018,2,Delta,147,140,287,Forecast
+29,2018,3,Delta,139,133,273,Forecast
+29,2018,4,Delta,146,140,287,Forecast
+31,2018,0,Denver,4569,4376,8945,Forecast
+31,2018,1,Denver,4411,4222,8634,Forecast
+31,2018,2,Denver,4597,4399,8997,Forecast
+31,2018,3,Denver,4454,4264,8718,Forecast
+31,2018,4,Denver,4290,4110,8400,Forecast
+33,2018,0,Dolores,7,7,13,Forecast
+33,2018,1,Dolores,7,6,13,Forecast
+33,2018,2,Dolores,9,8,17,Forecast
+33,2018,3,Dolores,11,10,21,Forecast
+33,2018,4,Dolores,9,8,17,Forecast
+35,2018,0,Douglas,1842,1761,3602,Forecast
+35,2018,1,Douglas,1834,1755,3588,Forecast
+35,2018,2,Douglas,1845,1766,3611,Forecast
+35,2018,3,Douglas,1808,1732,3541,Forecast
+35,2018,4,Douglas,1916,1837,3753,Forecast
+37,2018,0,Eagle,281,268,549,Forecast
+37,2018,1,Eagle,302,289,591,Forecast
+37,2018,2,Eagle,336,322,659,Forecast
+37,2018,3,Eagle,323,310,634,Forecast
+37,2018,4,Eagle,327,315,642,Forecast
+39,2018,0,Elbert,129,123,252,Forecast
+39,2018,1,Elbert,132,127,260,Forecast
+39,2018,2,Elbert,132,128,260,Forecast
+39,2018,3,Elbert,142,137,279,Forecast
+39,2018,4,Elbert,133,130,263,Forecast
+41,2018,0,El Paso,4710,4500,9211,Forecast
+41,2018,1,El Paso,4815,4605,9420,Forecast
+41,2018,2,El Paso,4835,4625,9460,Forecast
+41,2018,3,El Paso,4828,4619,9447,Forecast
+41,2018,4,El Paso,4702,4500,9202,Forecast
+43,2018,0,Fremont,194,185,378,Forecast
+43,2018,1,Fremont,199,191,390,Forecast
+43,2018,2,Fremont,206,198,404,Forecast
+43,2018,3,Fremont,211,202,413,Forecast
+43,2018,4,Fremont,211,203,414,Forecast
+45,2018,0,Garfield,413,395,808,Forecast
+45,2018,1,Garfield,413,395,808,Forecast
+45,2018,2,Garfield,421,402,823,Forecast
+45,2018,3,Garfield,382,366,748,Forecast
+45,2018,4,Garfield,381,364,745,Forecast
+47,2018,0,Gilpin,22,21,43,Forecast
+47,2018,1,Gilpin,22,21,43,Forecast
+47,2018,2,Gilpin,24,23,48,Forecast
+47,2018,3,Gilpin,24,23,46,Forecast
+47,2018,4,Gilpin,26,25,50,Forecast
+49,2018,0,Grand,71,68,140,Forecast
+49,2018,1,Grand,70,67,137,Forecast
+49,2018,2,Grand,73,70,143,Forecast
+49,2018,3,Grand,68,65,133,Forecast
+49,2018,4,Grand,75,72,147,Forecast
+51,2018,0,Gunnison,84,81,165,Forecast
+51,2018,1,Gunnison,74,71,145,Forecast
+51,2018,2,Gunnison,88,85,173,Forecast
+51,2018,3,Gunnison,81,78,159,Forecast
+51,2018,4,Gunnison,82,79,160,Forecast
+53,2018,0,Hinsdale,3,3,6,Forecast
+53,2018,1,Hinsdale,2,2,5,Forecast
+53,2018,2,Hinsdale,2,2,3,Forecast
+53,2018,3,Hinsdale,4,4,8,Forecast
+53,2018,4,Hinsdale,3,3,7,Forecast
+55,2018,0,Huerfano,24,23,48,Forecast
+55,2018,1,Huerfano,24,23,47,Forecast
+55,2018,2,Huerfano,25,24,50,Forecast
+55,2018,3,Huerfano,32,31,63,Forecast
+55,2018,4,Huerfano,25,24,49,Forecast
+57,2018,0,Jackson,7,6,13,Forecast
+57,2018,1,Jackson,8,8,16,Forecast
+57,2018,2,Jackson,7,6,13,Forecast
+57,2018,3,Jackson,6,6,13,Forecast
+57,2018,4,Jackson,9,9,18,Forecast
+59,2018,0,Jefferson,3172,3034,6206,Forecast
+59,2018,1,Jefferson,3075,2942,6017,Forecast
+59,2018,2,Jefferson,3080,2950,6030,Forecast
+59,2018,3,Jefferson,3100,2972,6071,Forecast
+59,2018,4,Jefferson,3194,3066,6260,Forecast
+61,2018,0,Kiowa,10,10,20,Forecast
+61,2018,1,Kiowa,9,9,18,Forecast
+61,2018,2,Kiowa,10,10,20,Forecast
+61,2018,3,Kiowa,8,7,15,Forecast
+61,2018,4,Kiowa,10,10,20,Forecast
+63,2018,0,Kit Carson,47,45,92,Forecast
+63,2018,1,Kit Carson,44,42,86,Forecast
+63,2018,2,Kit Carson,44,42,86,Forecast
+63,2018,3,Kit Carson,55,53,108,Forecast
+63,2018,4,Kit Carson,44,42,85,Forecast
+65,2018,0,Lake,44,42,85,Forecast
+65,2018,1,Lake,45,43,89,Forecast
+65,2018,2,Lake,35,33,68,Forecast
+65,2018,3,Lake,47,45,93,Forecast
+65,2018,4,Lake,45,43,88,Forecast
+67,2018,0,La Plata,266,254,520,Forecast
+67,2018,1,La Plata,251,240,490,Forecast
+67,2018,2,La Plata,281,269,550,Forecast
+67,2018,3,La Plata,287,274,561,Forecast
+67,2018,4,La Plata,274,262,536,Forecast
+69,2018,0,Larimer,1812,1734,3546,Forecast
+69,2018,1,Larimer,1785,1711,3496,Forecast
+69,2018,2,Larimer,1889,1813,3703,Forecast
+69,2018,3,Larimer,1950,1874,3823,Forecast
+69,2018,4,Larimer,2029,1952,3981,Forecast
+71,2018,0,Las Animas,73,70,143,Forecast
+71,2018,1,Las Animas,76,73,148,Forecast
+71,2018,2,Las Animas,69,67,136,Forecast
+71,2018,3,Las Animas,68,65,133,Forecast
+71,2018,4,Las Animas,64,62,126,Forecast
+73,2018,0,Lincoln,29,27,56,Forecast
+73,2018,1,Lincoln,28,27,55,Forecast
+73,2018,2,Lincoln,28,27,54,Forecast
+73,2018,3,Lincoln,37,35,72,Forecast
+73,2018,4,Lincoln,28,27,55,Forecast
+75,2018,0,Logan,121,115,236,Forecast
+75,2018,1,Logan,119,114,233,Forecast
+75,2018,2,Logan,110,106,216,Forecast
+75,2018,3,Logan,107,103,210,Forecast
+75,2018,4,Logan,118,114,232,Forecast
+77,2018,0,Mesa,800,764,1564,Forecast
+77,2018,1,Mesa,845,808,1653,Forecast
+77,2018,2,Mesa,874,836,1711,Forecast
+77,2018,3,Mesa,937,896,1834,Forecast
+77,2018,4,Mesa,901,862,1763,Forecast
+79,2018,0,Mineral,4,4,8,Forecast
+79,2018,1,Mineral,4,4,7,Forecast
+79,2018,2,Mineral,4,4,8,Forecast
+79,2018,3,Mineral,4,3,7,Forecast
+79,2018,4,Mineral,3,3,6,Forecast
+81,2018,0,Moffat,99,94,193,Forecast
+81,2018,1,Moffat,90,87,177,Forecast
+81,2018,2,Moffat,93,89,183,Forecast
+81,2018,3,Moffat,99,95,195,Forecast
+81,2018,4,Moffat,89,86,175,Forecast
+83,2018,0,Montezuma,130,124,255,Forecast
+83,2018,1,Montezuma,134,129,263,Forecast
+83,2018,2,Montezuma,160,153,313,Forecast
+83,2018,3,Montezuma,178,171,348,Forecast
+83,2018,4,Montezuma,176,169,345,Forecast
+85,2018,0,Montrose,216,207,423,Forecast
+85,2018,1,Montrose,237,227,464,Forecast
+85,2018,2,Montrose,215,206,421,Forecast
+85,2018,3,Montrose,232,222,455,Forecast
+85,2018,4,Montrose,248,237,485,Forecast
+87,2018,0,Morgan,234,223,457,Forecast
+87,2018,1,Morgan,205,196,400,Forecast
+87,2018,2,Morgan,216,207,423,Forecast
+87,2018,3,Morgan,229,219,448,Forecast
+87,2018,4,Morgan,215,206,421,Forecast
+89,2018,0,Otero,115,110,226,Forecast
+89,2018,1,Otero,113,109,222,Forecast
+89,2018,2,Otero,123,117,239,Forecast
+89,2018,3,Otero,105,101,206,Forecast
+89,2018,4,Otero,118,113,231,Forecast
+91,2018,0,Ouray,20,19,39,Forecast
+91,2018,1,Ouray,18,17,34,Forecast
+91,2018,2,Ouray,21,20,41,Forecast
+91,2018,3,Ouray,15,15,30,Forecast
+91,2018,4,Ouray,22,21,44,Forecast
+93,2018,0,Park,72,69,141,Forecast
+93,2018,1,Park,66,63,129,Forecast
+93,2018,2,Park,74,71,145,Forecast
+93,2018,3,Park,76,73,149,Forecast
+93,2018,4,Park,68,66,134,Forecast
+95,2018,0,Phillips,35,34,69,Forecast
+95,2018,1,Phillips,27,26,54,Forecast
+95,2018,2,Phillips,35,33,68,Forecast
+95,2018,3,Phillips,29,28,57,Forecast
+95,2018,4,Phillips,33,32,65,Forecast
+97,2018,0,Pitkin,78,75,153,Forecast
+97,2018,1,Pitkin,80,77,157,Forecast
+97,2018,2,Pitkin,71,68,140,Forecast
+97,2018,3,Pitkin,62,59,121,Forecast
+97,2018,4,Pitkin,64,61,125,Forecast
+99,2018,0,Prowers,96,92,189,Forecast
+99,2018,1,Prowers,83,79,162,Forecast
+99,2018,2,Prowers,96,92,189,Forecast
+99,2018,3,Prowers,86,82,168,Forecast
+99,2018,4,Prowers,75,72,146,Forecast
+101,2018,0,Pueblo,949,908,1857,Forecast
+101,2018,1,Pueblo,917,878,1795,Forecast
+101,2018,2,Pueblo,953,912,1865,Forecast
+101,2018,3,Pueblo,969,927,1896,Forecast
+101,2018,4,Pueblo,987,946,1933,Forecast
+103,2018,0,Rio Blanco,39,37,75,Forecast
+103,2018,1,Rio Blanco,34,33,67,Forecast
+103,2018,2,Rio Blanco,38,36,74,Forecast
+103,2018,3,Rio Blanco,41,40,81,Forecast
+103,2018,4,Rio Blanco,35,34,69,Forecast
+105,2018,0,Rio Grande,72,69,141,Forecast
+105,2018,1,Rio Grande,61,59,120,Forecast
+105,2018,2,Rio Grande,72,69,141,Forecast
+105,2018,3,Rio Grande,66,63,130,Forecast
+105,2018,4,Rio Grande,77,73,150,Forecast
+107,2018,0,Routt,119,114,232,Forecast
+107,2018,1,Routt,125,120,245,Forecast
+107,2018,2,Routt,137,132,269,Forecast
+107,2018,3,Routt,125,121,246,Forecast
+107,2018,4,Routt,127,122,249,Forecast
+109,2018,0,Saguache,43,41,84,Forecast
+109,2018,1,Saguache,36,34,70,Forecast
+109,2018,2,Saguache,43,41,84,Forecast
+109,2018,3,Saguache,44,42,87,Forecast
+109,2018,4,Saguache,32,31,63,Forecast
+111,2018,0,San Juan,3,3,6,Forecast
+111,2018,1,San Juan,3,3,6,Forecast
+111,2018,2,San Juan,3,3,6,Forecast
+111,2018,3,San Juan,3,3,6,Forecast
+111,2018,4,San Juan,4,4,8,Forecast
+113,2018,0,San Miguel,41,39,80,Forecast
+113,2018,1,San Miguel,38,36,74,Forecast
+113,2018,2,San Miguel,40,38,78,Forecast
+113,2018,3,San Miguel,41,40,81,Forecast
+113,2018,4,San Miguel,43,42,85,Forecast
+115,2018,0,Sedgwick,13,13,26,Forecast
+115,2018,1,Sedgwick,10,10,20,Forecast
+115,2018,2,Sedgwick,15,14,29,Forecast
+115,2018,3,Sedgwick,13,12,25,Forecast
+115,2018,4,Sedgwick,14,13,27,Forecast
+117,2018,0,Summit,140,134,274,Forecast
+117,2018,1,Summit,138,132,270,Forecast
+117,2018,2,Summit,141,134,275,Forecast
+117,2018,3,Summit,126,120,246,Forecast
+117,2018,4,Summit,121,116,237,Forecast
+119,2018,0,Teller,92,88,180,Forecast
+119,2018,1,Teller,98,94,193,Forecast
+119,2018,2,Teller,109,105,214,Forecast
+119,2018,3,Teller,112,108,220,Forecast
+119,2018,4,Teller,116,112,228,Forecast
+121,2018,0,Washington,24,23,47,Forecast
+121,2018,1,Washington,24,23,48,Forecast
+121,2018,2,Washington,31,30,61,Forecast
+121,2018,3,Washington,27,26,53,Forecast
+121,2018,4,Washington,27,26,54,Forecast
+123,2018,0,Weld,2233,2137,4371,Forecast
+123,2018,1,Weld,2310,2214,4524,Forecast
+123,2018,2,Weld,2339,2245,4584,Forecast
+123,2018,3,Weld,2306,2217,4523,Forecast
+123,2018,4,Weld,2276,2191,4467,Forecast
+125,2018,0,Yuma,77,74,151,Forecast
+125,2018,1,Yuma,74,71,145,Forecast
+125,2018,2,Yuma,75,72,147,Forecast
+125,2018,3,Yuma,73,70,143,Forecast
+125,2018,4,Yuma,74,71,145,Forecast
+1,2019,0,Adams,3698,3551,7249,Forecast
+1,2019,1,Adams,3682,3526,7209,Forecast
+1,2019,2,Adams,3677,3518,7195,Forecast
+1,2019,3,Adams,3665,3511,7176,Forecast
+1,2019,4,Adams,3766,3613,7379,Forecast
+3,2019,0,Alamosa,101,96,197,Forecast
+3,2019,1,Alamosa,103,99,202,Forecast
+3,2019,2,Alamosa,103,99,202,Forecast
+3,2019,3,Alamosa,106,102,208,Forecast
+3,2019,4,Alamosa,115,110,225,Forecast
+5,2019,0,Arapahoe,3939,3777,7715,Forecast
+5,2019,1,Arapahoe,3981,3810,7791,Forecast
+5,2019,2,Arapahoe,4083,3907,7990,Forecast
+5,2019,3,Arapahoe,4236,4057,8292,Forecast
+5,2019,4,Arapahoe,4303,4126,8429,Forecast
+7,2019,0,Archuleta,63,60,124,Forecast
+7,2019,1,Archuleta,63,60,123,Forecast
+7,2019,2,Archuleta,71,68,140,Forecast
+7,2019,3,Archuleta,64,61,125,Forecast
+7,2019,4,Archuleta,66,63,129,Forecast
+9,2019,0,Baca,19,19,38,Forecast
+9,2019,1,Baca,21,20,40,Forecast
+9,2019,2,Baca,21,20,41,Forecast
+9,2019,3,Baca,20,19,40,Forecast
+9,2019,4,Baca,17,17,34,Forecast
+11,2019,0,Bent,24,23,48,Forecast
+11,2019,1,Bent,25,24,49,Forecast
+11,2019,2,Bent,24,23,46,Forecast
+11,2019,3,Bent,20,19,39,Forecast
+11,2019,4,Bent,25,24,48,Forecast
+13,2019,0,Boulder,1431,1369,2800,Forecast
+13,2019,1,Boulder,1428,1366,2795,Forecast
+13,2019,2,Boulder,1369,1309,2678,Forecast
+13,2019,3,Boulder,1489,1426,2916,Forecast
+13,2019,4,Boulder,1527,1463,2990,Forecast
+14,2019,0,Broomfield,357,341,698,Forecast
+14,2019,1,Broomfield,358,343,701,Forecast
+14,2019,2,Broomfield,374,359,733,Forecast
+14,2019,3,Broomfield,413,397,810,Forecast
+14,2019,4,Broomfield,399,384,783,Forecast
+15,2019,0,Chaffee,76,73,149,Forecast
+15,2019,1,Chaffee,78,75,153,Forecast
+15,2019,2,Chaffee,77,74,151,Forecast
+15,2019,3,Chaffee,84,81,164,Forecast
+15,2019,4,Chaffee,88,85,174,Forecast
+17,2019,0,Cheyenne,14,13,27,Forecast
+17,2019,1,Cheyenne,14,13,27,Forecast
+17,2019,2,Cheyenne,11,10,21,Forecast
+17,2019,3,Cheyenne,14,13,27,Forecast
+17,2019,4,Cheyenne,15,14,30,Forecast
+19,2019,0,Clear Creek,43,41,84,Forecast
+19,2019,1,Clear Creek,44,43,87,Forecast
+19,2019,2,Clear Creek,43,42,85,Forecast
+19,2019,3,Clear Creek,44,42,86,Forecast
+19,2019,4,Clear Creek,39,38,77,Forecast
+21,2019,0,Conejos,51,49,101,Forecast
+21,2019,1,Conejos,51,49,101,Forecast
+21,2019,2,Conejos,50,48,99,Forecast
+21,2019,3,Conejos,51,49,100,Forecast
+21,2019,4,Conejos,60,58,118,Forecast
+23,2019,0,Costilla,17,16,32,Forecast
+23,2019,1,Costilla,17,16,33,Forecast
+23,2019,2,Costilla,22,21,44,Forecast
+23,2019,3,Costilla,18,18,36,Forecast
+23,2019,4,Costilla,18,17,35,Forecast
+25,2019,0,Crowley,14,13,27,Forecast
+25,2019,1,Crowley,13,13,26,Forecast
+25,2019,2,Crowley,17,16,33,Forecast
+25,2019,3,Crowley,14,13,27,Forecast
+25,2019,4,Crowley,21,20,42,Forecast
+27,2019,0,Custer,13,12,25,Forecast
+27,2019,1,Custer,12,12,24,Forecast
+27,2019,2,Custer,22,21,43,Forecast
+27,2019,3,Custer,13,13,26,Forecast
+27,2019,4,Custer,18,18,36,Forecast
+29,2019,0,Delta,146,140,286,Forecast
+29,2019,1,Delta,149,142,291,Forecast
+29,2019,2,Delta,144,138,282,Forecast
+29,2019,3,Delta,147,141,288,Forecast
+29,2019,4,Delta,140,134,275,Forecast
+31,2019,0,Denver,4621,4426,9047,Forecast
+31,2019,1,Denver,4394,4206,8601,Forecast
+31,2019,2,Denver,4252,4069,8322,Forecast
+31,2019,3,Denver,4425,4237,8661,Forecast
+31,2019,4,Denver,4277,4098,8375,Forecast
+33,2019,0,Dolores,7,6,13,Forecast
+33,2019,1,Dolores,7,7,14,Forecast
+33,2019,2,Dolores,7,6,13,Forecast
+33,2019,3,Dolores,9,8,17,Forecast
+33,2019,4,Dolores,11,10,21,Forecast
+35,2019,0,Douglas,1856,1774,3629,Forecast
+35,2019,1,Douglas,1852,1772,3624,Forecast
+35,2019,2,Douglas,1850,1771,3620,Forecast
+35,2019,3,Douglas,1859,1781,3640,Forecast
+35,2019,4,Douglas,1823,1747,3570,Forecast
+37,2019,0,Eagle,280,268,548,Forecast
+37,2019,1,Eagle,281,269,550,Forecast
+37,2019,2,Eagle,302,290,592,Forecast
+37,2019,3,Eagle,335,322,657,Forecast
+37,2019,4,Eagle,322,310,632,Forecast
+39,2019,0,Elbert,140,135,275,Forecast
+39,2019,1,Elbert,139,134,273,Forecast
+39,2019,2,Elbert,145,140,285,Forecast
+39,2019,3,Elbert,144,140,283,Forecast
+39,2019,4,Elbert,154,149,303,Forecast
+41,2019,0,El Paso,4784,4570,9354,Forecast
+41,2019,1,El Paso,4682,4478,9160,Forecast
+41,2019,2,El Paso,4810,4601,9411,Forecast
+41,2019,3,El Paso,4833,4624,9456,Forecast
+41,2019,4,El Paso,4827,4619,9445,Forecast
+43,2019,0,Fremont,191,183,374,Forecast
+43,2019,1,Fremont,194,186,381,Forecast
+43,2019,2,Fremont,202,194,396,Forecast
+43,2019,3,Fremont,208,200,408,Forecast
+43,2019,4,Fremont,213,204,417,Forecast
+45,2019,0,Garfield,408,390,797,Forecast
+45,2019,1,Garfield,411,393,805,Forecast
+45,2019,2,Garfield,413,394,807,Forecast
+45,2019,3,Garfield,420,402,822,Forecast
+45,2019,4,Garfield,382,366,748,Forecast
+47,2019,0,Gilpin,21,20,42,Forecast
+47,2019,1,Gilpin,22,21,44,Forecast
+47,2019,2,Gilpin,23,22,45,Forecast
+47,2019,3,Gilpin,25,24,49,Forecast
+47,2019,4,Gilpin,24,24,48,Forecast
+49,2019,0,Grand,70,67,137,Forecast
+49,2019,1,Grand,74,70,144,Forecast
+49,2019,2,Grand,73,70,142,Forecast
+49,2019,3,Grand,76,73,148,Forecast
+49,2019,4,Grand,70,68,138,Forecast
+51,2019,0,Gunnison,81,78,159,Forecast
+51,2019,1,Gunnison,86,82,168,Forecast
+51,2019,2,Gunnison,76,73,149,Forecast
+51,2019,3,Gunnison,90,87,177,Forecast
+51,2019,4,Gunnison,83,80,163,Forecast
+53,2019,0,Hinsdale,3,3,6,Forecast
+53,2019,1,Hinsdale,3,3,7,Forecast
+53,2019,2,Hinsdale,3,2,5,Forecast
+53,2019,3,Hinsdale,2,2,3,Forecast
+53,2019,4,Hinsdale,4,4,8,Forecast
+55,2019,0,Huerfano,25,24,48,Forecast
+55,2019,1,Huerfano,25,24,48,Forecast
+55,2019,2,Huerfano,24,23,48,Forecast
+55,2019,3,Huerfano,26,25,51,Forecast
+55,2019,4,Huerfano,33,31,64,Forecast
+57,2019,0,Jackson,7,6,13,Forecast
+57,2019,1,Jackson,7,6,13,Forecast
+57,2019,2,Jackson,8,8,16,Forecast
+57,2019,3,Jackson,7,6,13,Forecast
+57,2019,4,Jackson,7,6,13,Forecast
+59,2019,0,Jefferson,3142,3005,6147,Forecast
+59,2019,1,Jefferson,3180,3042,6223,Forecast
+59,2019,2,Jefferson,3104,2972,6076,Forecast
+59,2019,3,Jefferson,3110,2980,6090,Forecast
+59,2019,4,Jefferson,3129,3002,6131,Forecast
+61,2019,0,Kiowa,10,9,19,Forecast
+61,2019,1,Kiowa,10,10,21,Forecast
+61,2019,2,Kiowa,9,9,18,Forecast
+61,2019,3,Kiowa,10,10,21,Forecast
+61,2019,4,Kiowa,8,7,15,Forecast
+63,2019,0,Kit Carson,48,46,95,Forecast
+63,2019,1,Kit Carson,47,45,92,Forecast
+63,2019,2,Kit Carson,44,42,86,Forecast
+63,2019,3,Kit Carson,44,42,86,Forecast
+63,2019,4,Kit Carson,55,53,108,Forecast
+65,2019,0,Lake,46,44,89,Forecast
+65,2019,1,Lake,44,42,86,Forecast
+65,2019,2,Lake,46,44,90,Forecast
+65,2019,3,Lake,36,34,70,Forecast
+65,2019,4,Lake,48,46,94,Forecast
+67,2019,0,La Plata,266,254,521,Forecast
+67,2019,1,La Plata,265,253,518,Forecast
+67,2019,2,La Plata,250,239,490,Forecast
+67,2019,3,La Plata,281,269,550,Forecast
+67,2019,4,La Plata,287,274,561,Forecast
+69,2019,0,Larimer,1824,1745,3569,Forecast
+69,2019,1,Larimer,1845,1768,3613,Forecast
+69,2019,2,Larimer,1827,1753,3580,Forecast
+69,2019,3,Larimer,1933,1857,3791,Forecast
+69,2019,4,Larimer,1994,1918,3912,Forecast
+71,2019,0,Las Animas,70,67,137,Forecast
+71,2019,1,Las Animas,73,70,144,Forecast
+71,2019,2,Las Animas,76,73,150,Forecast
+71,2019,3,Las Animas,70,67,137,Forecast
+71,2019,4,Las Animas,69,66,134,Forecast
+73,2019,0,Lincoln,29,28,57,Forecast
+73,2019,1,Lincoln,29,28,57,Forecast
+73,2019,2,Lincoln,29,28,56,Forecast
+73,2019,3,Lincoln,29,28,56,Forecast
+73,2019,4,Lincoln,38,36,74,Forecast
+75,2019,0,Logan,118,113,231,Forecast
+75,2019,1,Logan,120,115,235,Forecast
+75,2019,2,Logan,119,114,233,Forecast
+75,2019,3,Logan,110,106,216,Forecast
+75,2019,4,Logan,107,104,211,Forecast
+77,2019,0,Mesa,796,761,1557,Forecast
+77,2019,1,Mesa,797,762,1559,Forecast
+77,2019,2,Mesa,846,809,1655,Forecast
+77,2019,3,Mesa,876,838,1714,Forecast
+77,2019,4,Mesa,940,900,1840,Forecast
+79,2019,0,Mineral,4,4,7,Forecast
+79,2019,1,Mineral,4,4,8,Forecast
+79,2019,2,Mineral,4,4,7,Forecast
+79,2019,3,Mineral,4,4,9,Forecast
+79,2019,4,Mineral,4,4,7,Forecast
+81,2019,0,Moffat,97,93,190,Forecast
+81,2019,1,Moffat,99,94,193,Forecast
+81,2019,2,Moffat,91,87,178,Forecast
+81,2019,3,Moffat,94,90,183,Forecast
+81,2019,4,Moffat,100,95,195,Forecast
+83,2019,0,Montezuma,134,128,262,Forecast
+83,2019,1,Montezuma,134,128,262,Forecast
+83,2019,2,Montezuma,139,133,272,Forecast
+83,2019,3,Montezuma,164,158,322,Forecast
+83,2019,4,Montezuma,182,175,357,Forecast
+85,2019,0,Montrose,219,209,428,Forecast
+85,2019,1,Montrose,216,207,422,Forecast
+85,2019,2,Montrose,238,227,465,Forecast
+85,2019,3,Montrose,216,207,423,Forecast
+85,2019,4,Montrose,234,224,459,Forecast
+87,2019,0,Morgan,232,221,453,Forecast
+87,2019,1,Morgan,232,222,454,Forecast
+87,2019,2,Morgan,205,197,402,Forecast
+87,2019,3,Morgan,216,207,423,Forecast
+87,2019,4,Morgan,229,219,448,Forecast
+89,2019,0,Otero,109,104,213,Forecast
+89,2019,1,Otero,116,111,227,Forecast
+89,2019,2,Otero,116,110,226,Forecast
+89,2019,3,Otero,124,119,243,Forecast
+89,2019,4,Otero,107,103,209,Forecast
+91,2019,0,Ouray,21,20,40,Forecast
+91,2019,1,Ouray,21,20,41,Forecast
+91,2019,2,Ouray,19,18,36,Forecast
+91,2019,3,Ouray,22,21,43,Forecast
+91,2019,4,Ouray,16,16,32,Forecast
+93,2019,0,Park,73,70,144,Forecast
+93,2019,1,Park,75,72,147,Forecast
+93,2019,2,Park,69,67,136,Forecast
+93,2019,3,Park,78,75,152,Forecast
+93,2019,4,Park,80,77,157,Forecast
+95,2019,0,Phillips,34,33,67,Forecast
+95,2019,1,Phillips,35,34,69,Forecast
+95,2019,2,Phillips,28,26,54,Forecast
+95,2019,3,Phillips,35,34,69,Forecast
+95,2019,4,Phillips,29,28,57,Forecast
+97,2019,0,Pitkin,77,74,151,Forecast
+97,2019,1,Pitkin,76,73,149,Forecast
+97,2019,2,Pitkin,79,75,154,Forecast
+97,2019,3,Pitkin,70,67,137,Forecast
+97,2019,4,Pitkin,60,58,118,Forecast
+99,2019,0,Prowers,91,87,178,Forecast
+99,2019,1,Prowers,96,92,189,Forecast
+99,2019,2,Prowers,83,80,163,Forecast
+99,2019,3,Prowers,97,93,190,Forecast
+99,2019,4,Prowers,86,83,169,Forecast
+101,2019,0,Pueblo,934,894,1828,Forecast
+101,2019,1,Pueblo,947,906,1853,Forecast
+101,2019,2,Pueblo,919,880,1799,Forecast
+101,2019,3,Pueblo,956,915,1871,Forecast
+101,2019,4,Pueblo,972,931,1903,Forecast
+103,2019,0,Rio Blanco,38,36,74,Forecast
+103,2019,1,Rio Blanco,39,37,76,Forecast
+103,2019,2,Rio Blanco,34,33,67,Forecast
+103,2019,3,Rio Blanco,38,37,75,Forecast
+103,2019,4,Rio Blanco,42,40,82,Forecast
+105,2019,0,Rio Grande,69,66,136,Forecast
+105,2019,1,Rio Grande,73,69,142,Forecast
+105,2019,2,Rio Grande,62,59,121,Forecast
+105,2019,3,Rio Grande,73,70,142,Forecast
+105,2019,4,Rio Grande,67,64,131,Forecast
+107,2019,0,Routt,117,112,228,Forecast
+107,2019,1,Routt,122,117,240,Forecast
+107,2019,2,Routt,129,124,253,Forecast
+107,2019,3,Routt,142,136,278,Forecast
+107,2019,4,Routt,130,125,255,Forecast
+109,2019,0,Saguache,42,40,82,Forecast
+109,2019,1,Saguache,43,41,85,Forecast
+109,2019,2,Saguache,37,35,72,Forecast
+109,2019,3,Saguache,44,42,86,Forecast
+109,2019,4,Saguache,45,43,88,Forecast
+111,2019,0,San Juan,3,3,6,Forecast
+111,2019,1,San Juan,3,3,6,Forecast
+111,2019,2,San Juan,3,3,7,Forecast
+111,2019,3,San Juan,3,3,6,Forecast
+111,2019,4,San Juan,3,3,7,Forecast
+113,2019,0,San Miguel,41,39,81,Forecast
+113,2019,1,San Miguel,43,41,84,Forecast
+113,2019,2,San Miguel,40,38,78,Forecast
+113,2019,3,San Miguel,42,40,82,Forecast
+113,2019,4,San Miguel,43,42,85,Forecast
+115,2019,0,Sedgwick,13,12,25,Forecast
+115,2019,1,Sedgwick,14,13,26,Forecast
+115,2019,2,Sedgwick,10,10,20,Forecast
+115,2019,3,Sedgwick,15,14,29,Forecast
+115,2019,4,Sedgwick,13,12,25,Forecast
+117,2019,0,Summit,141,134,275,Forecast
+117,2019,1,Summit,137,131,268,Forecast
+117,2019,2,Summit,135,129,264,Forecast
+117,2019,3,Summit,138,132,270,Forecast
+117,2019,4,Summit,123,118,241,Forecast
+119,2019,0,Teller,93,89,183,Forecast
+119,2019,1,Teller,96,92,187,Forecast
+119,2019,2,Teller,103,99,201,Forecast
+119,2019,3,Teller,113,109,222,Forecast
+119,2019,4,Teller,116,112,228,Forecast
+121,2019,0,Washington,23,22,45,Forecast
+121,2019,1,Washington,24,23,47,Forecast
+121,2019,2,Washington,25,24,48,Forecast
+121,2019,3,Washington,32,30,62,Forecast
+121,2019,4,Washington,27,26,54,Forecast
+123,2019,0,Weld,2248,2151,4399,Forecast
+123,2019,1,Weld,2280,2184,4464,Forecast
+123,2019,2,Weld,2367,2271,4637,Forecast
+123,2019,3,Weld,2399,2305,4703,Forecast
+123,2019,4,Weld,2367,2278,4646,Forecast
+125,2019,0,Yuma,75,72,147,Forecast
+125,2019,1,Yuma,78,74,152,Forecast
+125,2019,2,Yuma,75,72,146,Forecast
+125,2019,3,Yuma,76,72,148,Forecast
+125,2019,4,Yuma,74,71,144,Forecast
+1,2020,0,Adams,3727,3579,7306,Forecast
+1,2020,1,Adams,3703,3546,7249,Forecast
+1,2020,2,Adams,3698,3538,7237,Forecast
+1,2020,3,Adams,3688,3534,7222,Forecast
+1,2020,4,Adams,3670,3521,7192,Forecast
+3,2020,0,Alamosa,100,95,195,Forecast
+3,2020,1,Alamosa,101,97,199,Forecast
+3,2020,2,Alamosa,104,100,204,Forecast
+3,2020,3,Alamosa,105,100,205,Forecast
+3,2020,4,Alamosa,108,103,211,Forecast
+5,2020,0,Arapahoe,3913,3753,7666,Forecast
+5,2020,1,Arapahoe,3954,3785,7739,Forecast
+5,2020,2,Arapahoe,4006,3833,7839,Forecast
+5,2020,3,Arapahoe,4106,3933,8039,Forecast
+5,2020,4,Arapahoe,4254,4079,8333,Forecast
+7,2020,0,Archuleta,63,60,124,Forecast
+7,2020,1,Archuleta,63,60,124,Forecast
+7,2020,2,Archuleta,63,61,124,Forecast
+7,2020,3,Archuleta,72,69,141,Forecast
+7,2020,4,Archuleta,65,62,127,Forecast
+9,2020,0,Baca,18,18,36,Forecast
+9,2020,1,Baca,20,19,38,Forecast
+9,2020,2,Baca,21,20,41,Forecast
+9,2020,3,Baca,21,20,41,Forecast
+9,2020,4,Baca,21,20,40,Forecast
+11,2020,0,Bent,24,23,47,Forecast
+11,2020,1,Bent,25,24,48,Forecast
+11,2020,2,Bent,26,25,50,Forecast
+11,2020,3,Bent,24,23,48,Forecast
+11,2020,4,Bent,20,19,40,Forecast
+13,2020,0,Boulder,1435,1373,2808,Forecast
+13,2020,1,Boulder,1435,1372,2807,Forecast
+13,2020,2,Boulder,1440,1378,2818,Forecast
+13,2020,3,Boulder,1382,1323,2705,Forecast
+13,2020,4,Boulder,1504,1441,2945,Forecast
+14,2020,0,Broomfield,365,349,714,Forecast
+14,2020,1,Broomfield,366,351,718,Forecast
+14,2020,2,Broomfield,368,354,722,Forecast
+14,2020,3,Broomfield,385,370,755,Forecast
+14,2020,4,Broomfield,424,408,833,Forecast
+15,2020,0,Chaffee,77,74,151,Forecast
+15,2020,1,Chaffee,79,76,155,Forecast
+15,2020,2,Chaffee,81,78,159,Forecast
+15,2020,3,Chaffee,80,77,157,Forecast
+15,2020,4,Chaffee,87,84,171,Forecast
+17,2020,0,Cheyenne,13,13,26,Forecast
+17,2020,1,Cheyenne,14,13,27,Forecast
+17,2020,2,Cheyenne,14,13,27,Forecast
+17,2020,3,Cheyenne,11,11,21,Forecast
+17,2020,4,Cheyenne,14,13,27,Forecast
+19,2020,0,Clear Creek,43,41,83,Forecast
+19,2020,1,Clear Creek,44,42,87,Forecast
+19,2020,2,Clear Creek,46,44,90,Forecast
+19,2020,3,Clear Creek,45,43,88,Forecast
+19,2020,4,Clear Creek,45,44,89,Forecast
+21,2020,0,Conejos,52,50,101,Forecast
+21,2020,1,Conejos,52,50,101,Forecast
+21,2020,2,Conejos,52,50,102,Forecast
+21,2020,3,Conejos,51,49,100,Forecast
+21,2020,4,Conejos,52,50,101,Forecast
+23,2020,0,Costilla,16,15,32,Forecast
+23,2020,1,Costilla,17,16,33,Forecast
+23,2020,2,Costilla,18,17,34,Forecast
+23,2020,3,Costilla,23,22,44,Forecast
+23,2020,4,Costilla,19,18,37,Forecast
+25,2020,0,Crowley,14,14,28,Forecast
+25,2020,1,Crowley,14,13,27,Forecast
+25,2020,2,Crowley,13,13,26,Forecast
+25,2020,3,Crowley,17,16,33,Forecast
+25,2020,4,Crowley,14,13,27,Forecast
+27,2020,0,Custer,13,13,26,Forecast
+27,2020,1,Custer,13,12,25,Forecast
+27,2020,2,Custer,13,12,25,Forecast
+27,2020,3,Custer,23,22,45,Forecast
+27,2020,4,Custer,14,13,27,Forecast
+29,2020,0,Delta,143,136,279,Forecast
+29,2020,1,Delta,146,139,285,Forecast
+29,2020,2,Delta,149,143,292,Forecast
+29,2020,3,Delta,145,139,284,Forecast
+29,2020,4,Delta,148,142,290,Forecast
+31,2020,0,Denver,4634,4438,9071,Forecast
+31,2020,1,Denver,4442,4252,8694,Forecast
+31,2020,2,Denver,4234,4052,8286,Forecast
+31,2020,3,Denver,4093,3919,8011,Forecast
+31,2020,4,Denver,4247,4069,8316,Forecast
+33,2020,0,Dolores,7,6,13,Forecast
+33,2020,1,Dolores,7,7,13,Forecast
+33,2020,2,Dolores,7,7,14,Forecast
+33,2020,3,Dolores,7,7,14,Forecast
+33,2020,4,Dolores,9,9,18,Forecast
+35,2020,0,Douglas,1871,1788,3659,Forecast
+35,2020,1,Douglas,1866,1785,3651,Forecast
+35,2020,2,Douglas,1868,1788,3656,Forecast
+35,2020,3,Douglas,1864,1785,3649,Forecast
+35,2020,4,Douglas,1873,1795,3669,Forecast
+37,2020,0,Eagle,280,267,547,Forecast
+37,2020,1,Eagle,280,268,549,Forecast
+37,2020,2,Eagle,282,270,552,Forecast
+37,2020,3,Eagle,302,290,592,Forecast
+37,2020,4,Eagle,334,321,654,Forecast
+39,2020,0,Elbert,150,144,294,Forecast
+39,2020,1,Elbert,150,144,295,Forecast
+39,2020,2,Elbert,151,146,297,Forecast
+39,2020,3,Elbert,156,151,307,Forecast
+39,2020,4,Elbert,155,151,306,Forecast
+41,2020,0,El Paso,4839,4623,9462,Forecast
+41,2020,1,El Paso,4755,4548,9303,Forecast
+41,2020,2,El Paso,4677,4474,9151,Forecast
+41,2020,3,El Paso,4808,4600,9408,Forecast
+41,2020,4,El Paso,4831,4623,9454,Forecast
+43,2020,0,Fremont,189,181,370,Forecast
+43,2020,1,Fremont,192,184,377,Forecast
+43,2020,2,Fremont,197,189,387,Forecast
+43,2020,3,Fremont,205,196,401,Forecast
+43,2020,4,Fremont,211,202,413,Forecast
+45,2020,0,Garfield,402,384,786,Forecast
+45,2020,1,Garfield,406,388,794,Forecast
+45,2020,2,Garfield,411,393,804,Forecast
+45,2020,3,Garfield,412,394,807,Forecast
+45,2020,4,Garfield,420,402,822,Forecast
+47,2020,0,Gilpin,21,20,41,Forecast
+47,2020,1,Gilpin,22,21,43,Forecast
+47,2020,2,Gilpin,23,22,45,Forecast
+47,2020,3,Gilpin,24,23,46,Forecast
+47,2020,4,Gilpin,26,25,51,Forecast
+49,2020,0,Grand,68,65,134,Forecast
+49,2020,1,Grand,72,69,141,Forecast
+49,2020,2,Grand,76,73,149,Forecast
+49,2020,3,Grand,75,72,148,Forecast
+49,2020,4,Grand,78,75,154,Forecast
+51,2020,0,Gunnison,79,75,154,Forecast
+51,2020,1,Gunnison,83,80,163,Forecast
+51,2020,2,Gunnison,88,84,172,Forecast
+51,2020,3,Gunnison,78,75,153,Forecast
+51,2020,4,Gunnison,92,89,181,Forecast
+53,2020,0,Hinsdale,3,3,6,Forecast
+53,2020,1,Hinsdale,3,3,7,Forecast
+53,2020,2,Hinsdale,4,4,7,Forecast
+53,2020,3,Hinsdale,3,3,5,Forecast
+53,2020,4,Hinsdale,2,2,4,Forecast
+55,2020,0,Huerfano,25,24,48,Forecast
+55,2020,1,Huerfano,25,24,49,Forecast
+55,2020,2,Huerfano,25,24,49,Forecast
+55,2020,3,Huerfano,25,24,49,Forecast
+55,2020,4,Huerfano,27,26,52,Forecast
+57,2020,0,Jackson,7,6,13,Forecast
+57,2020,1,Jackson,7,6,13,Forecast
+57,2020,2,Jackson,7,7,13,Forecast
+57,2020,3,Jackson,8,8,16,Forecast
+57,2020,4,Jackson,7,7,13,Forecast
+59,2020,0,Jefferson,3098,2964,6062,Forecast
+59,2020,1,Jefferson,3148,3011,6159,Forecast
+59,2020,2,Jefferson,3205,3068,6273,Forecast
+59,2020,3,Jefferson,3130,2998,6128,Forecast
+59,2020,4,Jefferson,3135,3006,6142,Forecast
+61,2020,0,Kiowa,9,9,18,Forecast
+61,2020,1,Kiowa,10,10,19,Forecast
+61,2020,2,Kiowa,11,10,21,Forecast
+61,2020,3,Kiowa,9,9,18,Forecast
+61,2020,4,Kiowa,11,10,21,Forecast
+63,2020,0,Kit Carson,49,47,96,Forecast
+63,2020,1,Kit Carson,48,46,94,Forecast
+63,2020,2,Kit Carson,47,45,92,Forecast
+63,2020,3,Kit Carson,44,42,86,Forecast
+63,2020,4,Kit Carson,44,42,86,Forecast
+65,2020,0,Lake,47,45,93,Forecast
+65,2020,1,Lake,46,44,90,Forecast
+65,2020,2,Lake,45,43,88,Forecast
+65,2020,3,Lake,47,45,92,Forecast
+65,2020,4,Lake,36,35,72,Forecast
+67,2020,0,La Plata,267,255,523,Forecast
+67,2020,1,La Plata,265,253,519,Forecast
+67,2020,2,La Plata,264,253,517,Forecast
+67,2020,3,La Plata,250,239,490,Forecast
+67,2020,4,La Plata,281,269,550,Forecast
+69,2020,0,Larimer,1835,1756,3591,Forecast
+69,2020,1,Larimer,1857,1779,3637,Forecast
+69,2020,2,Larimer,1887,1810,3697,Forecast
+69,2020,3,Larimer,1871,1797,3668,Forecast
+69,2020,4,Larimer,1978,1902,3879,Forecast
+71,2020,0,Las Animas,67,64,130,Forecast
+71,2020,1,Las Animas,70,67,137,Forecast
+71,2020,2,Las Animas,74,71,145,Forecast
+71,2020,3,Las Animas,77,74,151,Forecast
+71,2020,4,Las Animas,71,68,139,Forecast
+73,2020,0,Lincoln,29,28,57,Forecast
+73,2020,1,Lincoln,30,28,58,Forecast
+73,2020,2,Lincoln,30,29,59,Forecast
+73,2020,3,Lincoln,30,29,58,Forecast
+73,2020,4,Lincoln,30,28,58,Forecast
+75,2020,0,Logan,116,110,226,Forecast
+75,2020,1,Logan,118,112,230,Forecast
+75,2020,2,Logan,120,115,235,Forecast
+75,2020,3,Logan,119,114,233,Forecast
+75,2020,4,Logan,110,107,217,Forecast
+77,2020,0,Mesa,792,757,1549,Forecast
+77,2020,1,Mesa,793,758,1552,Forecast
+77,2020,2,Mesa,798,763,1560,Forecast
+77,2020,3,Mesa,848,811,1659,Forecast
+77,2020,4,Mesa,879,841,1721,Forecast
+79,2020,0,Mineral,4,3,7,Forecast
+79,2020,1,Mineral,4,4,8,Forecast
+79,2020,2,Mineral,4,4,8,Forecast
+79,2020,3,Mineral,4,4,8,Forecast
+79,2020,4,Mineral,5,4,9,Forecast
+81,2020,0,Moffat,95,91,187,Forecast
+81,2020,1,Moffat,97,93,190,Forecast
+81,2020,2,Moffat,99,95,193,Forecast
+81,2020,3,Moffat,91,87,178,Forecast
+81,2020,4,Moffat,94,90,184,Forecast
+83,2020,0,Montezuma,138,132,269,Forecast
+83,2020,1,Montezuma,137,132,269,Forecast
+83,2020,2,Montezuma,138,132,270,Forecast
+83,2020,3,Montezuma,143,138,281,Forecast
+83,2020,4,Montezuma,169,163,331,Forecast
+85,2020,0,Montrose,221,211,432,Forecast
+85,2020,1,Montrose,218,209,427,Forecast
+85,2020,2,Montrose,217,207,424,Forecast
+85,2020,3,Montrose,239,229,468,Forecast
+85,2020,4,Montrose,218,209,427,Forecast
+87,2020,0,Morgan,230,220,449,Forecast
+87,2020,1,Morgan,230,220,451,Forecast
+87,2020,2,Morgan,233,223,456,Forecast
+87,2020,3,Morgan,205,196,402,Forecast
+87,2020,4,Morgan,216,207,423,Forecast
+89,2020,0,Otero,103,98,201,Forecast
+89,2020,1,Otero,110,105,215,Forecast
+89,2020,2,Otero,119,113,231,Forecast
+89,2020,3,Otero,117,113,230,Forecast
+89,2020,4,Otero,126,121,246,Forecast
+91,2020,0,Ouray,21,20,41,Forecast
+91,2020,1,Ouray,21,21,42,Forecast
+91,2020,2,Ouray,22,21,43,Forecast
+91,2020,3,Ouray,20,19,38,Forecast
+91,2020,4,Ouray,23,22,45,Forecast
+93,2020,0,Park,75,71,146,Forecast
+93,2020,1,Park,77,73,150,Forecast
+93,2020,2,Park,79,76,155,Forecast
+93,2020,3,Park,73,70,144,Forecast
+93,2020,4,Park,81,79,160,Forecast
+95,2020,0,Phillips,33,32,65,Forecast
+95,2020,1,Phillips,34,33,67,Forecast
+95,2020,2,Phillips,36,34,70,Forecast
+95,2020,3,Phillips,28,27,55,Forecast
+95,2020,4,Phillips,35,34,69,Forecast
+97,2020,0,Pitkin,76,73,149,Forecast
+97,2020,1,Pitkin,75,72,147,Forecast
+97,2020,2,Pitkin,75,71,146,Forecast
+97,2020,3,Pitkin,77,74,151,Forecast
+97,2020,4,Pitkin,69,66,134,Forecast
+99,2020,0,Prowers,86,82,167,Forecast
+99,2020,1,Prowers,91,87,178,Forecast
+99,2020,2,Prowers,97,93,190,Forecast
+99,2020,3,Prowers,84,81,165,Forecast
+99,2020,4,Prowers,98,93,191,Forecast
+101,2020,0,Pueblo,919,879,1797,Forecast
+101,2020,1,Pueblo,932,892,1824,Forecast
+101,2020,2,Pueblo,949,908,1857,Forecast
+101,2020,3,Pueblo,922,883,1805,Forecast
+101,2020,4,Pueblo,959,919,1878,Forecast
+103,2020,0,Rio Blanco,37,36,73,Forecast
+103,2020,1,Rio Blanco,38,37,75,Forecast
+103,2020,2,Rio Blanco,39,37,76,Forecast
+103,2020,3,Rio Blanco,35,33,68,Forecast
+103,2020,4,Rio Blanco,39,37,76,Forecast
+105,2020,0,Rio Grande,66,63,130,Forecast
+105,2020,1,Rio Grande,70,67,136,Forecast
+105,2020,2,Rio Grande,73,70,143,Forecast
+105,2020,3,Rio Grande,63,60,123,Forecast
+105,2020,4,Rio Grande,73,70,144,Forecast
+107,2020,0,Routt,114,110,224,Forecast
+107,2020,1,Routt,120,115,235,Forecast
+107,2020,2,Routt,127,122,248,Forecast
+107,2020,3,Routt,134,129,262,Forecast
+107,2020,4,Routt,146,141,287,Forecast
+109,2020,0,Saguache,41,39,80,Forecast
+109,2020,1,Saguache,42,40,83,Forecast
+109,2020,2,Saguache,44,42,86,Forecast
+109,2020,3,Saguache,37,36,73,Forecast
+109,2020,4,Saguache,44,43,87,Forecast
+111,2020,0,San Juan,3,3,6,Forecast
+111,2020,1,San Juan,3,3,6,Forecast
+111,2020,2,San Juan,3,3,6,Forecast
+111,2020,3,San Juan,4,3,7,Forecast
+111,2020,4,San Juan,3,3,6,Forecast
+113,2020,0,San Miguel,41,40,81,Forecast
+113,2020,1,San Miguel,43,41,84,Forecast
+113,2020,2,San Miguel,45,43,88,Forecast
+113,2020,3,San Miguel,42,41,83,Forecast
+113,2020,4,San Miguel,44,43,87,Forecast
+115,2020,0,Sedgwick,12,12,24,Forecast
+115,2020,1,Sedgwick,13,12,25,Forecast
+115,2020,2,Sedgwick,14,13,27,Forecast
+115,2020,3,Sedgwick,10,10,20,Forecast
+115,2020,4,Sedgwick,15,14,29,Forecast
+117,2020,0,Summit,140,134,275,Forecast
+117,2020,1,Summit,138,131,269,Forecast
+117,2020,2,Summit,134,128,262,Forecast
+117,2020,3,Summit,132,126,259,Forecast
+117,2020,4,Summit,135,129,264,Forecast
+119,2020,0,Teller,95,90,185,Forecast
+119,2020,1,Teller,97,93,190,Forecast
+119,2020,2,Teller,100,96,196,Forecast
+119,2020,3,Teller,107,103,210,Forecast
+119,2020,4,Teller,118,114,231,Forecast
+121,2020,0,Washington,22,21,43,Forecast
+121,2020,1,Washington,23,22,46,Forecast
+121,2020,2,Washington,25,24,48,Forecast
+121,2020,3,Washington,25,24,49,Forecast
+121,2020,4,Washington,32,31,63,Forecast
+123,2020,0,Weld,2264,2166,4430,Forecast
+123,2020,1,Weld,2294,2198,4492,Forecast
+123,2020,2,Weld,2336,2242,4578,Forecast
+123,2020,3,Weld,2426,2331,4757,Forecast
+123,2020,4,Weld,2460,2366,4826,Forecast
+125,2020,0,Yuma,73,70,143,Forecast
+125,2020,1,Yuma,75,72,148,Forecast
+125,2020,2,Yuma,78,75,153,Forecast
+125,2020,3,Yuma,76,72,148,Forecast
+125,2020,4,Yuma,76,73,150,Forecast
+1,2021,0,Adams,3856,3702,7558,Forecast
+1,2021,1,Adams,3733,3575,7308,Forecast
+1,2021,2,Adams,3720,3559,7279,Forecast
+1,2021,3,Adams,3711,3555,7266,Forecast
+1,2021,4,Adams,3695,3545,7240,Forecast
+3,2021,0,Alamosa,102,98,200,Forecast
+3,2021,1,Alamosa,101,96,197,Forecast
+3,2021,2,Alamosa,103,99,202,Forecast
+3,2021,3,Alamosa,106,102,207,Forecast
+3,2021,4,Alamosa,106,102,208,Forecast
+5,2021,0,Arapahoe,4028,3863,7891,Forecast
+5,2021,1,Arapahoe,3939,3771,7710,Forecast
+5,2021,2,Arapahoe,3990,3818,7807,Forecast
+5,2021,3,Arapahoe,4039,3869,7908,Forecast
+5,2021,4,Arapahoe,4135,3965,8100,Forecast
+7,2021,0,Archuleta,65,62,128,Forecast
+7,2021,1,Archuleta,63,61,124,Forecast
+7,2021,2,Archuleta,64,61,124,Forecast
+7,2021,3,Archuleta,64,61,125,Forecast
+7,2021,4,Archuleta,73,70,143,Forecast
+9,2021,0,Baca,18,17,36,Forecast
+9,2021,1,Baca,19,18,36,Forecast
+9,2021,2,Baca,20,19,39,Forecast
+9,2021,3,Baca,21,20,41,Forecast
+9,2021,4,Baca,21,20,42,Forecast
+11,2021,0,Bent,24,23,47,Forecast
+11,2021,1,Bent,24,23,48,Forecast
+11,2021,2,Bent,25,24,50,Forecast
+11,2021,3,Bent,26,25,52,Forecast
+11,2021,4,Bent,25,24,49,Forecast
+13,2021,0,Boulder,1479,1415,2893,Forecast
+13,2021,1,Boulder,1440,1378,2818,Forecast
+13,2021,2,Boulder,1449,1386,2835,Forecast
+13,2021,3,Boulder,1456,1394,2850,Forecast
+13,2021,4,Boulder,1399,1341,2740,Forecast
+14,2021,0,Broomfield,386,369,755,Forecast
+14,2021,1,Broomfield,376,361,737,Forecast
+14,2021,2,Broomfield,379,364,743,Forecast
+14,2021,3,Broomfield,381,366,748,Forecast
+14,2021,4,Broomfield,398,383,781,Forecast
+15,2021,0,Chaffee,80,77,157,Forecast
+15,2021,1,Chaffee,80,77,157,Forecast
+15,2021,2,Chaffee,83,79,162,Forecast
+15,2021,3,Chaffee,85,82,167,Forecast
+15,2021,4,Chaffee,84,81,165,Forecast
+17,2021,0,Cheyenne,13,13,26,Forecast
+17,2021,1,Cheyenne,13,13,26,Forecast
+17,2021,2,Cheyenne,14,13,27,Forecast
+17,2021,3,Cheyenne,14,13,27,Forecast
+17,2021,4,Cheyenne,11,11,22,Forecast
+19,2021,0,Clear Creek,44,42,86,Forecast
+19,2021,1,Clear Creek,44,42,86,Forecast
+19,2021,2,Clear Creek,46,44,89,Forecast
+19,2021,3,Clear Creek,47,46,93,Forecast
+19,2021,4,Clear Creek,46,45,91,Forecast
+21,2021,0,Conejos,53,51,104,Forecast
+21,2021,1,Conejos,52,50,102,Forecast
+21,2021,2,Conejos,52,50,103,Forecast
+21,2021,3,Conejos,53,50,103,Forecast
+21,2021,4,Conejos,52,49,101,Forecast
+23,2021,0,Costilla,16,16,32,Forecast
+23,2021,1,Costilla,17,16,32,Forecast
+23,2021,2,Costilla,17,17,34,Forecast
+23,2021,3,Costilla,18,17,35,Forecast
+23,2021,4,Costilla,23,22,45,Forecast
+25,2021,0,Crowley,15,14,29,Forecast
+25,2021,1,Crowley,14,14,28,Forecast
+25,2021,2,Crowley,14,13,27,Forecast
+25,2021,3,Crowley,13,13,26,Forecast
+25,2021,4,Crowley,17,16,33,Forecast
+27,2021,0,Custer,14,14,28,Forecast
+27,2021,1,Custer,14,13,27,Forecast
+27,2021,2,Custer,14,13,27,Forecast
+27,2021,3,Custer,13,13,26,Forecast
+27,2021,4,Custer,23,23,46,Forecast
+29,2021,0,Delta,144,138,282,Forecast
+29,2021,1,Delta,142,136,279,Forecast
+29,2021,2,Delta,146,140,286,Forecast
+29,2021,3,Delta,150,144,294,Forecast
+29,2021,4,Delta,146,140,286,Forecast
+31,2021,0,Denver,4720,4520,9239,Forecast
+31,2021,1,Denver,4454,4263,8718,Forecast
+31,2021,2,Denver,4280,4095,8375,Forecast
+31,2021,3,Denver,4075,3902,7977,Forecast
+31,2021,4,Denver,3930,3765,7696,Forecast
+33,2021,0,Dolores,7,6,13,Forecast
+33,2021,1,Dolores,7,6,13,Forecast
+33,2021,2,Dolores,7,7,14,Forecast
+33,2021,3,Dolores,8,7,15,Forecast
+33,2021,4,Dolores,7,7,14,Forecast
+35,2021,0,Douglas,1947,1861,3807,Forecast
+35,2021,1,Douglas,1883,1802,3685,Forecast
+35,2021,2,Douglas,1884,1804,3688,Forecast
+35,2021,3,Douglas,1884,1805,3689,Forecast
+35,2021,4,Douglas,1880,1802,3682,Forecast
+37,2021,0,Eagle,288,275,562,Forecast
+37,2021,1,Eagle,281,269,550,Forecast
+37,2021,2,Eagle,283,271,554,Forecast
+37,2021,3,Eagle,284,273,556,Forecast
+37,2021,4,Eagle,303,292,595,Forecast
+39,2021,0,Elbert,162,155,317,Forecast
+39,2021,1,Elbert,160,153,313,Forecast
+39,2021,2,Elbert,162,156,318,Forecast
+39,2021,3,Elbert,162,157,319,Forecast
+39,2021,4,Elbert,167,163,330,Forecast
+41,2021,0,El Paso,4997,4774,9771,Forecast
+41,2021,1,El Paso,4810,4600,9411,Forecast
+41,2021,2,El Paso,4750,4544,9294,Forecast
+41,2021,3,El Paso,4675,4473,9148,Forecast
+41,2021,4,El Paso,4807,4599,9406,Forecast
+43,2021,0,Fremont,192,184,376,Forecast
+43,2021,1,Fremont,190,182,373,Forecast
+43,2021,2,Fremont,196,188,383,Forecast
+43,2021,3,Fremont,200,192,392,Forecast
+43,2021,4,Fremont,207,199,406,Forecast
+45,2021,0,Garfield,411,393,804,Forecast
+45,2021,1,Garfield,400,382,782,Forecast
+45,2021,2,Garfield,405,388,793,Forecast
+45,2021,3,Garfield,411,393,804,Forecast
+45,2021,4,Garfield,412,394,807,Forecast
+47,2021,0,Gilpin,21,20,41,Forecast
+47,2021,1,Gilpin,21,21,42,Forecast
+47,2021,2,Gilpin,23,22,44,Forecast
+47,2021,3,Gilpin,24,23,47,Forecast
+47,2021,4,Gilpin,24,24,48,Forecast
+49,2021,0,Grand,70,67,136,Forecast
+49,2021,1,Grand,71,68,139,Forecast
+49,2021,2,Grand,75,72,147,Forecast
+49,2021,3,Grand,79,76,155,Forecast
+49,2021,4,Grand,78,75,154,Forecast
+51,2021,0,Gunnison,80,76,156,Forecast
+51,2021,1,Gunnison,81,77,158,Forecast
+51,2021,2,Gunnison,85,82,167,Forecast
+51,2021,3,Gunnison,90,87,177,Forecast
+51,2021,4,Gunnison,80,77,158,Forecast
+53,2021,0,Hinsdale,3,3,7,Forecast
+53,2021,1,Hinsdale,3,3,7,Forecast
+53,2021,2,Hinsdale,4,4,7,Forecast
+53,2021,3,Hinsdale,4,4,8,Forecast
+53,2021,4,Hinsdale,3,3,6,Forecast
+55,2021,0,Huerfano,25,24,50,Forecast
+55,2021,1,Huerfano,25,24,49,Forecast
+55,2021,2,Huerfano,26,25,50,Forecast
+55,2021,3,Huerfano,26,25,51,Forecast
+55,2021,4,Huerfano,26,25,50,Forecast
+57,2021,0,Jackson,7,7,14,Forecast
+57,2021,1,Jackson,7,6,13,Forecast
+57,2021,2,Jackson,7,7,13,Forecast
+57,2021,3,Jackson,7,7,14,Forecast
+57,2021,4,Jackson,8,8,16,Forecast
+59,2021,0,Jefferson,3133,2997,6129,Forecast
+59,2021,1,Jefferson,3108,2973,6080,Forecast
+59,2021,2,Jefferson,3177,3041,6218,Forecast
+59,2021,3,Jefferson,3235,3098,6334,Forecast
+59,2021,4,Jefferson,3159,3028,6188,Forecast
+61,2021,0,Kiowa,9,9,18,Forecast
+61,2021,1,Kiowa,9,9,18,Forecast
+61,2021,2,Kiowa,10,10,20,Forecast
+61,2021,3,Kiowa,11,10,21,Forecast
+61,2021,4,Kiowa,9,9,18,Forecast
+63,2021,0,Kit Carson,50,48,98,Forecast
+63,2021,1,Kit Carson,49,47,97,Forecast
+63,2021,2,Kit Carson,48,46,95,Forecast
+63,2021,3,Kit Carson,47,45,93,Forecast
+63,2021,4,Kit Carson,44,43,87,Forecast
+65,2021,0,Lake,50,48,97,Forecast
+65,2021,1,Lake,48,46,94,Forecast
+65,2021,2,Lake,47,45,92,Forecast
+65,2021,3,Lake,46,44,90,Forecast
+65,2021,4,Lake,48,46,94,Forecast
+67,2021,0,La Plata,276,263,539,Forecast
+67,2021,1,La Plata,266,254,521,Forecast
+67,2021,2,La Plata,265,253,518,Forecast
+67,2021,3,La Plata,264,253,517,Forecast
+67,2021,4,La Plata,250,239,490,Forecast
+69,2021,0,Larimer,1899,1817,3716,Forecast
+69,2021,1,Larimer,1875,1796,3671,Forecast
+69,2021,2,Larimer,1906,1828,3734,Forecast
+69,2021,3,Larimer,1938,1861,3799,Forecast
+69,2021,4,Larimer,1922,1848,3771,Forecast
+71,2021,0,Las Animas,66,64,130,Forecast
+71,2021,1,Las Animas,67,64,132,Forecast
+71,2021,2,Las Animas,71,68,139,Forecast
+71,2021,3,Las Animas,75,72,147,Forecast
+71,2021,4,Las Animas,78,75,153,Forecast
+73,2021,0,Lincoln,31,29,60,Forecast
+73,2021,1,Lincoln,30,29,59,Forecast
+73,2021,2,Lincoln,31,29,60,Forecast
+73,2021,3,Lincoln,31,30,61,Forecast
+73,2021,4,Lincoln,31,30,60,Forecast
+75,2021,0,Logan,116,111,228,Forecast
+75,2021,1,Logan,115,110,225,Forecast
+75,2021,2,Logan,117,112,230,Forecast
+75,2021,3,Logan,120,115,234,Forecast
+75,2021,4,Logan,119,115,234,Forecast
+77,2021,0,Mesa,807,771,1578,Forecast
+77,2021,1,Mesa,789,755,1544,Forecast
+77,2021,2,Mesa,794,759,1553,Forecast
+77,2021,3,Mesa,800,765,1564,Forecast
+77,2021,4,Mesa,851,814,1665,Forecast
+79,2021,0,Mineral,4,4,7,Forecast
+79,2021,1,Mineral,4,4,7,Forecast
+79,2021,2,Mineral,4,4,8,Forecast
+79,2021,3,Mineral,4,4,8,Forecast
+79,2021,4,Mineral,4,4,8,Forecast
+81,2021,0,Moffat,96,92,188,Forecast
+81,2021,1,Moffat,95,91,186,Forecast
+81,2021,2,Moffat,97,93,190,Forecast
+81,2021,3,Moffat,99,95,194,Forecast
+81,2021,4,Moffat,92,88,179,Forecast
+83,2021,0,Montezuma,145,139,283,Forecast
+83,2021,1,Montezuma,142,136,278,Forecast
+83,2021,2,Montezuma,142,137,279,Forecast
+83,2021,3,Montezuma,143,138,281,Forecast
+83,2021,4,Montezuma,148,143,291,Forecast
+85,2021,0,Montrose,228,218,447,Forecast
+85,2021,1,Montrose,220,211,431,Forecast
+85,2021,2,Montrose,219,210,429,Forecast
+85,2021,3,Montrose,218,209,427,Forecast
+85,2021,4,Montrose,241,231,472,Forecast
+87,2021,0,Morgan,233,223,457,Forecast
+87,2021,1,Morgan,228,218,447,Forecast
+87,2021,2,Morgan,231,221,452,Forecast
+87,2021,3,Morgan,233,223,456,Forecast
+87,2021,4,Morgan,205,196,402,Forecast
+89,2021,0,Otero,101,97,198,Forecast
+89,2021,1,Otero,104,99,203,Forecast
+89,2021,2,Otero,112,107,219,Forecast
+89,2021,3,Otero,120,116,236,Forecast
+89,2021,4,Otero,119,114,234,Forecast
+91,2021,0,Ouray,22,21,44,Forecast
+91,2021,1,Ouray,22,21,43,Forecast
+91,2021,2,Ouray,22,22,44,Forecast
+91,2021,3,Ouray,23,22,45,Forecast
+91,2021,4,Ouray,21,20,41,Forecast
+93,2021,0,Park,79,75,154,Forecast
+93,2021,1,Park,78,75,153,Forecast
+93,2021,2,Park,81,78,158,Forecast
+93,2021,3,Park,83,80,163,Forecast
+93,2021,4,Park,77,75,152,Forecast
+95,2021,0,Phillips,33,32,65,Forecast
+95,2021,1,Phillips,33,32,65,Forecast
+95,2021,2,Phillips,35,33,68,Forecast
+95,2021,3,Phillips,36,34,70,Forecast
+95,2021,4,Phillips,28,27,55,Forecast
+97,2021,0,Pitkin,79,75,154,Forecast
+97,2021,1,Pitkin,75,71,146,Forecast
+97,2021,2,Pitkin,74,71,144,Forecast
+97,2021,3,Pitkin,73,70,143,Forecast
+97,2021,4,Pitkin,76,72,148,Forecast
+99,2021,0,Prowers,84,80,165,Forecast
+99,2021,1,Prowers,86,82,168,Forecast
+99,2021,2,Prowers,91,88,179,Forecast
+99,2021,3,Prowers,98,94,191,Forecast
+99,2021,4,Prowers,85,81,166,Forecast
+101,2021,0,Pueblo,932,892,1825,Forecast
+101,2021,1,Pueblo,917,877,1794,Forecast
+101,2021,2,Pueblo,934,894,1828,Forecast
+101,2021,3,Pueblo,952,911,1863,Forecast
+101,2021,4,Pueblo,926,887,1812,Forecast
+103,2021,0,Rio Blanco,38,36,74,Forecast
+103,2021,1,Rio Blanco,38,36,74,Forecast
+103,2021,2,Rio Blanco,39,37,75,Forecast
+103,2021,3,Rio Blanco,39,38,77,Forecast
+103,2021,4,Rio Blanco,35,34,69,Forecast
+105,2021,0,Rio Grande,66,63,129,Forecast
+105,2021,1,Rio Grande,67,64,131,Forecast
+105,2021,2,Rio Grande,70,67,138,Forecast
+105,2021,3,Rio Grande,74,71,145,Forecast
+105,2021,4,Rio Grande,63,61,124,Forecast
+107,2021,0,Routt,118,113,230,Forecast
+107,2021,1,Routt,119,114,233,Forecast
+107,2021,2,Routt,125,120,245,Forecast
+107,2021,3,Routt,132,127,258,Forecast
+107,2021,4,Routt,139,134,273,Forecast
+109,2021,0,Saguache,41,39,80,Forecast
+109,2021,1,Saguache,41,40,81,Forecast
+109,2021,2,Saguache,43,41,84,Forecast
+109,2021,3,Saguache,45,43,88,Forecast
+109,2021,4,Saguache,38,36,74,Forecast
+111,2021,0,San Juan,3,3,6,Forecast
+111,2021,1,San Juan,3,3,6,Forecast
+111,2021,2,San Juan,3,3,6,Forecast
+111,2021,3,San Juan,3,3,6,Forecast
+111,2021,4,San Juan,4,4,7,Forecast
+113,2021,0,San Miguel,44,42,85,Forecast
+113,2021,1,San Miguel,44,42,86,Forecast
+113,2021,2,San Miguel,46,44,90,Forecast
+113,2021,3,San Miguel,48,46,93,Forecast
+113,2021,4,San Miguel,45,43,88,Forecast
+115,2021,0,Sedgwick,12,12,24,Forecast
+115,2021,1,Sedgwick,12,12,24,Forecast
+115,2021,2,Sedgwick,13,12,26,Forecast
+115,2021,3,Sedgwick,14,13,27,Forecast
+115,2021,4,Sedgwick,10,10,20,Forecast
+117,2021,0,Summit,143,137,280,Forecast
+117,2021,1,Summit,137,131,268,Forecast
+117,2021,2,Summit,135,129,263,Forecast
+117,2021,3,Summit,131,126,257,Forecast
+117,2021,4,Summit,130,124,254,Forecast
+119,2021,0,Teller,98,93,191,Forecast
+119,2021,1,Teller,98,94,192,Forecast
+119,2021,2,Teller,101,97,199,Forecast
+119,2021,3,Teller,104,100,205,Forecast
+119,2021,4,Teller,112,107,219,Forecast
+121,2021,0,Washington,22,21,44,Forecast
+121,2021,1,Washington,23,22,44,Forecast
+121,2021,2,Washington,24,23,47,Forecast
+121,2021,3,Washington,25,24,49,Forecast
+121,2021,4,Washington,26,25,50,Forecast
+123,2021,0,Weld,2367,2265,4632,Forecast
+123,2021,1,Weld,2320,2224,4544,Forecast
+123,2021,2,Weld,2362,2266,4628,Forecast
+123,2021,3,Weld,2407,2312,4719,Forecast
+123,2021,4,Weld,2499,2403,4902,Forecast
+125,2021,0,Yuma,74,70,144,Forecast
+125,2021,1,Yuma,74,70,144,Forecast
+125,2021,2,Yuma,76,73,149,Forecast
+125,2021,3,Yuma,79,76,155,Forecast
+125,2021,4,Yuma,76,73,150,Forecast
+1,2022,0,Adams,3990,3829,7819,Forecast
+1,2022,1,Adams,3862,3698,7560,Forecast
+1,2022,2,Adams,3750,3588,7338,Forecast
+1,2022,3,Adams,3732,3576,7308,Forecast
+1,2022,4,Adams,3718,3566,7284,Forecast
+3,2022,0,Alamosa,107,102,208,Forecast
+3,2022,1,Alamosa,104,99,203,Forecast
+3,2022,2,Alamosa,103,99,201,Forecast
+3,2022,3,Alamosa,105,101,206,Forecast
+3,2022,4,Alamosa,108,104,212,Forecast
+5,2022,0,Arapahoe,4133,3963,8096,Forecast
+5,2022,1,Arapahoe,4054,3881,7935,Forecast
+5,2022,2,Arapahoe,3975,3804,7778,Forecast
+5,2022,3,Arapahoe,4023,3853,7876,Forecast
+5,2022,4,Arapahoe,4068,3901,7969,Forecast
+7,2022,0,Archuleta,67,64,131,Forecast
+7,2022,1,Archuleta,65,62,128,Forecast
+7,2022,2,Archuleta,64,61,125,Forecast
+7,2022,3,Archuleta,64,61,125,Forecast
+7,2022,4,Archuleta,65,62,127,Forecast
+9,2022,0,Baca,18,17,34,Forecast
+9,2022,1,Baca,18,18,36,Forecast
+9,2022,2,Baca,19,18,37,Forecast
+9,2022,3,Baca,20,19,39,Forecast
+9,2022,4,Baca,21,20,42,Forecast
+11,2022,0,Bent,24,23,47,Forecast
+11,2022,1,Bent,24,23,48,Forecast
+11,2022,2,Bent,25,24,49,Forecast
+11,2022,3,Bent,26,25,51,Forecast
+11,2022,4,Bent,27,26,52,Forecast
+13,2022,0,Boulder,1534,1468,3002,Forecast
+13,2022,1,Boulder,1486,1421,2907,Forecast
+13,2022,2,Boulder,1457,1394,2851,Forecast
+13,2022,3,Boulder,1467,1405,2872,Forecast
+13,2022,4,Boulder,1477,1415,2892,Forecast
+14,2022,0,Broomfield,411,393,804,Forecast
+14,2022,1,Broomfield,400,383,783,Forecast
+14,2022,2,Broomfield,391,376,767,Forecast
+14,2022,3,Broomfield,394,379,774,Forecast
+14,2022,4,Broomfield,397,382,779,Forecast
+15,2022,0,Chaffee,82,79,161,Forecast
+15,2022,1,Chaffee,83,80,163,Forecast
+15,2022,2,Chaffee,84,80,164,Forecast
+15,2022,3,Chaffee,86,83,169,Forecast
+15,2022,4,Chaffee,89,86,174,Forecast
+17,2022,0,Cheyenne,13,13,26,Forecast
+17,2022,1,Cheyenne,13,13,26,Forecast
+17,2022,2,Cheyenne,14,13,26,Forecast
+17,2022,3,Cheyenne,14,13,27,Forecast
+17,2022,4,Cheyenne,14,13,28,Forecast
+19,2022,0,Clear Creek,44,42,87,Forecast
+19,2022,1,Clear Creek,45,43,88,Forecast
+19,2022,2,Clear Creek,45,44,89,Forecast
+19,2022,3,Clear Creek,47,45,92,Forecast
+19,2022,4,Clear Creek,49,47,96,Forecast
+21,2022,0,Conejos,55,52,107,Forecast
+21,2022,1,Conejos,54,51,105,Forecast
+21,2022,2,Conejos,53,51,103,Forecast
+21,2022,3,Conejos,53,51,104,Forecast
+21,2022,4,Conejos,53,51,104,Forecast
+23,2022,0,Costilla,16,16,32,Forecast
+23,2022,1,Costilla,17,16,33,Forecast
+23,2022,2,Costilla,17,16,33,Forecast
+23,2022,3,Costilla,18,17,35,Forecast
+23,2022,4,Costilla,18,18,36,Forecast
+25,2022,0,Crowley,15,15,30,Forecast
+25,2022,1,Crowley,15,14,29,Forecast
+25,2022,2,Crowley,14,14,28,Forecast
+25,2022,3,Crowley,14,13,27,Forecast
+25,2022,4,Crowley,13,13,26,Forecast
+27,2022,0,Custer,15,14,30,Forecast
+27,2022,1,Custer,15,14,29,Forecast
+27,2022,2,Custer,14,14,28,Forecast
+27,2022,3,Custer,14,13,27,Forecast
+27,2022,4,Custer,14,13,27,Forecast
+29,2022,0,Delta,145,139,284,Forecast
+29,2022,1,Delta,144,138,282,Forecast
+29,2022,2,Delta,143,137,280,Forecast
+29,2022,3,Delta,147,141,288,Forecast
+29,2022,4,Delta,152,145,297,Forecast
+31,2022,0,Denver,4836,4631,9467,Forecast
+31,2022,1,Denver,4537,4342,8878,Forecast
+31,2022,2,Denver,4291,4106,8398,Forecast
+31,2022,3,Denver,4118,3943,8062,Forecast
+31,2022,4,Denver,3913,3749,7663,Forecast
+33,2022,0,Dolores,7,6,13,Forecast
+33,2022,1,Dolores,7,7,13,Forecast
+33,2022,2,Dolores,7,7,14,Forecast
+33,2022,3,Dolores,7,7,14,Forecast
+33,2022,4,Dolores,8,8,15,Forecast
+35,2022,0,Douglas,2022,1933,3955,Forecast
+35,2022,1,Douglas,1959,1874,3833,Forecast
+35,2022,2,Douglas,1901,1820,3721,Forecast
+35,2022,3,Douglas,1900,1820,3720,Forecast
+35,2022,4,Douglas,1900,1821,3721,Forecast
+37,2022,0,Eagle,296,283,579,Forecast
+37,2022,1,Eagle,290,277,567,Forecast
+37,2022,2,Eagle,284,273,557,Forecast
+37,2022,3,Eagle,286,274,560,Forecast
+37,2022,4,Eagle,287,276,563,Forecast
+39,2022,0,Elbert,174,167,340,Forecast
+39,2022,1,Elbert,172,165,337,Forecast
+39,2022,2,Elbert,171,165,337,Forecast
+39,2022,3,Elbert,173,167,340,Forecast
+39,2022,4,Elbert,173,168,342,Forecast
+41,2022,0,El Paso,5164,4933,10097,Forecast
+41,2022,1,El Paso,4967,4751,9718,Forecast
+41,2022,2,El Paso,4805,4597,9402,Forecast
+41,2022,3,El Paso,4748,4543,9291,Forecast
+41,2022,4,El Paso,4674,4472,9146,Forecast
+43,2022,0,Fremont,197,189,386,Forecast
+43,2022,1,Fremont,195,186,381,Forecast
+43,2022,2,Fremont,195,187,382,Forecast
+43,2022,3,Fremont,199,191,391,Forecast
+43,2022,4,Fremont,204,196,399,Forecast
+45,2022,0,Garfield,420,401,821,Forecast
+45,2022,1,Garfield,409,391,801,Forecast
+45,2022,2,Garfield,400,382,782,Forecast
+45,2022,3,Garfield,405,388,793,Forecast
+45,2022,4,Garfield,411,393,804,Forecast
+47,2022,0,Gilpin,21,20,42,Forecast
+47,2022,1,Gilpin,22,21,43,Forecast
+47,2022,2,Gilpin,22,21,43,Forecast
+47,2022,3,Gilpin,23,23,46,Forecast
+47,2022,4,Gilpin,25,24,49,Forecast
+49,2022,0,Grand,73,70,144,Forecast
+49,2022,1,Grand,74,71,144,Forecast
+49,2022,2,Grand,75,72,148,Forecast
+49,2022,3,Grand,80,77,156,Forecast
+49,2022,4,Grand,84,81,164,Forecast
+51,2022,0,Gunnison,80,76,156,Forecast
+51,2022,1,Gunnison,82,78,160,Forecast
+51,2022,2,Gunnison,83,80,163,Forecast
+51,2022,3,Gunnison,88,84,172,Forecast
+51,2022,4,Gunnison,93,89,182,Forecast
+53,2022,0,Hinsdale,3,3,7,Forecast
+53,2022,1,Hinsdale,4,3,7,Forecast
+53,2022,2,Hinsdale,4,4,7,Forecast
+53,2022,3,Hinsdale,4,4,8,Forecast
+53,2022,4,Hinsdale,4,4,8,Forecast
+55,2022,0,Huerfano,27,25,52,Forecast
+55,2022,1,Huerfano,26,25,51,Forecast
+55,2022,2,Huerfano,26,25,51,Forecast
+55,2022,3,Huerfano,27,26,52,Forecast
+55,2022,4,Huerfano,27,26,53,Forecast
+57,2022,0,Jackson,7,7,14,Forecast
+57,2022,1,Jackson,7,7,14,Forecast
+57,2022,2,Jackson,7,7,13,Forecast
+57,2022,3,Jackson,7,7,14,Forecast
+57,2022,4,Jackson,7,7,14,Forecast
+59,2022,0,Jefferson,3182,3043,6225,Forecast
+59,2022,1,Jefferson,3148,3011,6159,Forecast
+59,2022,2,Jefferson,3146,3011,6157,Forecast
+59,2022,3,Jefferson,3216,3080,6296,Forecast
+59,2022,4,Jefferson,3274,3138,6411,Forecast
+61,2022,0,Kiowa,9,8,17,Forecast
+61,2022,1,Kiowa,9,9,18,Forecast
+61,2022,2,Kiowa,9,9,19,Forecast
+61,2022,3,Kiowa,10,10,20,Forecast
+61,2022,4,Kiowa,11,10,21,Forecast
+63,2022,0,Kit Carson,51,49,99,Forecast
+63,2022,1,Kit Carson,50,48,98,Forecast
+63,2022,2,Kit Carson,50,48,97,Forecast
+63,2022,3,Kit Carson,49,47,96,Forecast
+63,2022,4,Kit Carson,48,46,94,Forecast
+65,2022,0,Lake,52,50,102,Forecast
+65,2022,1,Lake,50,48,98,Forecast
+65,2022,2,Lake,48,46,95,Forecast
+65,2022,3,Lake,48,46,93,Forecast
+65,2022,4,Lake,46,44,91,Forecast
+67,2022,0,La Plata,286,273,558,Forecast
+67,2022,1,La Plata,274,262,537,Forecast
+67,2022,2,La Plata,266,254,520,Forecast
+67,2022,3,La Plata,265,253,518,Forecast
+67,2022,4,La Plata,264,253,517,Forecast
+69,2022,0,Larimer,1969,1885,3853,Forecast
+69,2022,1,Larimer,1944,1863,3807,Forecast
+69,2022,2,Larimer,1929,1851,3780,Forecast
+69,2022,3,Larimer,1962,1885,3847,Forecast
+69,2022,4,Larimer,1995,1918,3914,Forecast
+71,2022,0,Las Animas,66,63,129,Forecast
+71,2022,1,Las Animas,67,64,132,Forecast
+71,2022,2,Las Animas,69,66,134,Forecast
+71,2022,3,Las Animas,72,69,142,Forecast
+71,2022,4,Las Animas,76,73,150,Forecast
+73,2022,0,Lincoln,32,31,63,Forecast
+73,2022,1,Lincoln,32,30,62,Forecast
+73,2022,2,Lincoln,31,30,62,Forecast
+73,2022,3,Lincoln,32,31,63,Forecast
+73,2022,4,Lincoln,32,31,64,Forecast
+75,2022,0,Logan,118,113,231,Forecast
+75,2022,1,Logan,116,111,226,Forecast
+75,2022,2,Logan,115,110,225,Forecast
+75,2022,3,Logan,117,112,230,Forecast
+75,2022,4,Logan,120,116,235,Forecast
+77,2022,0,Mesa,827,790,1617,Forecast
+77,2022,1,Mesa,804,769,1573,Forecast
+77,2022,2,Mesa,790,756,1546,Forecast
+77,2022,3,Mesa,796,762,1558,Forecast
+77,2022,4,Mesa,804,769,1573,Forecast
+79,2022,0,Mineral,4,4,8,Forecast
+79,2022,1,Mineral,4,4,8,Forecast
+79,2022,2,Mineral,4,4,8,Forecast
+79,2022,3,Mineral,4,4,8,Forecast
+79,2022,4,Mineral,4,4,9,Forecast
+81,2022,0,Moffat,98,93,191,Forecast
+81,2022,1,Moffat,96,92,188,Forecast
+81,2022,2,Moffat,96,92,187,Forecast
+81,2022,3,Moffat,98,94,191,Forecast
+81,2022,4,Moffat,100,96,195,Forecast
+83,2022,0,Montezuma,154,147,300,Forecast
+83,2022,1,Montezuma,149,143,293,Forecast
+83,2022,2,Montezuma,147,141,288,Forecast
+83,2022,3,Montezuma,148,142,290,Forecast
+83,2022,4,Montezuma,149,143,292,Forecast
+85,2022,0,Montrose,237,227,464,Forecast
+85,2022,1,Montrose,228,218,446,Forecast
+85,2022,2,Montrose,221,212,433,Forecast
+85,2022,3,Montrose,221,211,432,Forecast
+85,2022,4,Montrose,221,211,432,Forecast
+87,2022,0,Morgan,239,228,467,Forecast
+87,2022,1,Morgan,232,222,454,Forecast
+87,2022,2,Morgan,229,219,448,Forecast
+87,2022,3,Morgan,231,221,452,Forecast
+87,2022,4,Morgan,233,223,456,Forecast
+89,2022,0,Otero,99,95,194,Forecast
+89,2022,1,Otero,103,98,201,Forecast
+89,2022,2,Otero,107,101,208,Forecast
+89,2022,3,Otero,115,110,224,Forecast
+89,2022,4,Otero,123,118,240,Forecast
+91,2022,0,Ouray,23,22,45,Forecast
+91,2022,1,Ouray,23,22,45,Forecast
+91,2022,2,Ouray,23,22,45,Forecast
+91,2022,3,Ouray,23,22,46,Forecast
+91,2022,4,Ouray,24,23,46,Forecast
+93,2022,0,Park,81,77,158,Forecast
+93,2022,1,Park,82,78,160,Forecast
+93,2022,2,Park,82,79,161,Forecast
+93,2022,3,Park,84,81,166,Forecast
+93,2022,4,Park,87,84,171,Forecast
+95,2022,0,Phillips,33,32,65,Forecast
+95,2022,1,Phillips,34,32,66,Forecast
+95,2022,2,Phillips,34,32,66,Forecast
+95,2022,3,Phillips,35,33,68,Forecast
+95,2022,4,Phillips,36,35,71,Forecast
+97,2022,0,Pitkin,82,78,160,Forecast
+97,2022,1,Pitkin,77,73,150,Forecast
+97,2022,2,Pitkin,73,70,143,Forecast
+97,2022,3,Pitkin,72,69,142,Forecast
+97,2022,4,Pitkin,72,69,140,Forecast
+99,2022,0,Prowers,82,79,161,Forecast
+99,2022,1,Prowers,84,81,165,Forecast
+99,2022,2,Prowers,86,83,169,Forecast
+99,2022,3,Prowers,92,88,181,Forecast
+99,2022,4,Prowers,99,94,193,Forecast
+101,2022,0,Pueblo,951,910,1861,Forecast
+101,2022,1,Pueblo,932,892,1824,Forecast
+101,2022,2,Pueblo,920,880,1800,Forecast
+101,2022,3,Pueblo,939,899,1838,Forecast
+101,2022,4,Pueblo,958,918,1876,Forecast
+103,2022,0,Rio Blanco,39,37,76,Forecast
+103,2022,1,Rio Blanco,38,36,75,Forecast
+103,2022,2,Rio Blanco,38,37,75,Forecast
+103,2022,3,Rio Blanco,39,38,77,Forecast
+103,2022,4,Rio Blanco,40,39,79,Forecast
+105,2022,0,Rio Grande,67,64,130,Forecast
+105,2022,1,Rio Grande,67,64,131,Forecast
+105,2022,2,Rio Grande,68,65,133,Forecast
+105,2022,3,Rio Grande,72,69,140,Forecast
+105,2022,4,Rio Grande,75,72,148,Forecast
+107,2022,0,Routt,121,116,237,Forecast
+107,2022,1,Routt,123,118,241,Forecast
+107,2022,2,Routt,125,120,245,Forecast
+107,2022,3,Routt,131,127,258,Forecast
+107,2022,4,Routt,138,133,271,Forecast
+109,2022,0,Saguache,40,38,78,Forecast
+109,2022,1,Saguache,41,39,80,Forecast
+109,2022,2,Saguache,42,40,81,Forecast
+109,2022,3,Saguache,43,41,85,Forecast
+109,2022,4,Saguache,45,43,88,Forecast
+111,2022,0,San Juan,3,3,6,Forecast
+111,2022,1,San Juan,3,3,6,Forecast
+111,2022,2,San Juan,3,3,6,Forecast
+111,2022,3,San Juan,3,3,6,Forecast
+111,2022,4,San Juan,3,3,6,Forecast
+113,2022,0,San Miguel,45,43,89,Forecast
+113,2022,1,San Miguel,46,44,90,Forecast
+113,2022,2,San Miguel,46,45,91,Forecast
+113,2022,3,San Miguel,48,46,95,Forecast
+113,2022,4,San Miguel,50,49,99,Forecast
+115,2022,0,Sedgwick,12,12,24,Forecast
+115,2022,1,Sedgwick,12,12,24,Forecast
+115,2022,2,Sedgwick,13,12,25,Forecast
+115,2022,3,Sedgwick,13,13,26,Forecast
+115,2022,4,Sedgwick,14,14,28,Forecast
+117,2022,0,Summit,147,141,288,Forecast
+117,2022,1,Summit,140,134,274,Forecast
+117,2022,2,Summit,134,129,263,Forecast
+117,2022,3,Summit,132,126,258,Forecast
+117,2022,4,Summit,129,123,252,Forecast
+119,2022,0,Teller,102,98,200,Forecast
+119,2022,1,Teller,102,98,199,Forecast
+119,2022,2,Teller,103,99,203,Forecast
+119,2022,3,Teller,107,103,209,Forecast
+119,2022,4,Teller,110,106,215,Forecast
+121,2022,0,Washington,23,22,45,Forecast
+121,2022,1,Washington,23,22,45,Forecast
+121,2022,2,Washington,23,23,46,Forecast
+121,2022,3,Washington,25,24,49,Forecast
+121,2022,4,Washington,26,25,51,Forecast
+123,2022,0,Weld,2458,2352,4810,Forecast
+123,2022,1,Weld,2425,2324,4748,Forecast
+123,2022,2,Weld,2390,2293,4683,Forecast
+123,2022,3,Weld,2434,2339,4773,Forecast
+123,2022,4,Weld,2481,2387,4868,Forecast
+125,2022,0,Yuma,75,71,146,Forecast
+125,2022,1,Yuma,74,71,145,Forecast
+125,2022,2,Yuma,75,72,146,Forecast
+125,2022,3,Yuma,77,74,152,Forecast
+125,2022,4,Yuma,80,77,158,Forecast
+1,2023,0,Adams,4094,3929,8022,Forecast
+1,2023,1,Adams,3995,3825,7820,Forecast
+1,2023,2,Adams,3879,3711,7590,Forecast
+1,2023,3,Adams,3763,3605,7368,Forecast
+1,2023,4,Adams,3740,3588,7327,Forecast
+3,2023,0,Alamosa,110,105,214,Forecast
+3,2023,1,Alamosa,108,103,211,Forecast
+3,2023,2,Alamosa,106,102,208,Forecast
+3,2023,3,Alamosa,105,101,206,Forecast
+3,2023,4,Alamosa,108,103,211,Forecast
+5,2023,0,Arapahoe,4204,4031,8235,Forecast
+5,2023,1,Arapahoe,4158,3980,8138,Forecast
+5,2023,2,Arapahoe,4089,3914,8003,Forecast
+5,2023,3,Arapahoe,4008,3839,7847,Forecast
+5,2023,4,Arapahoe,4052,3886,7938,Forecast
+7,2023,0,Archuleta,68,65,133,Forecast
+7,2023,1,Archuleta,67,64,131,Forecast
+7,2023,2,Archuleta,66,63,128,Forecast
+7,2023,3,Archuleta,64,61,126,Forecast
+7,2023,4,Archuleta,65,62,127,Forecast
+9,2023,0,Baca,17,16,33,Forecast
+9,2023,1,Baca,18,17,35,Forecast
+9,2023,2,Baca,18,18,36,Forecast
+9,2023,3,Baca,19,18,37,Forecast
+9,2023,4,Baca,20,19,40,Forecast
+11,2023,0,Bent,24,23,47,Forecast
+11,2023,1,Bent,24,23,48,Forecast
+11,2023,2,Bent,25,24,49,Forecast
+11,2023,3,Bent,25,24,49,Forecast
+11,2023,4,Bent,26,25,51,Forecast
+13,2023,0,Boulder,1579,1511,3091,Forecast
+13,2023,1,Boulder,1541,1474,3016,Forecast
+13,2023,2,Boulder,1503,1438,2941,Forecast
+13,2023,3,Boulder,1476,1414,2890,Forecast
+13,2023,4,Boulder,1489,1427,2916,Forecast
+14,2023,0,Broomfield,429,410,839,Forecast
+14,2023,1,Broomfield,424,407,832,Forecast
+14,2023,2,Broomfield,415,399,814,Forecast
+14,2023,3,Broomfield,407,391,798,Forecast
+14,2023,4,Broomfield,410,395,805,Forecast
+15,2023,0,Chaffee,84,81,165,Forecast
+15,2023,1,Chaffee,85,82,167,Forecast
+15,2023,2,Chaffee,87,83,170,Forecast
+15,2023,3,Chaffee,87,84,171,Forecast
+15,2023,4,Chaffee,90,87,177,Forecast
+17,2023,0,Cheyenne,13,13,26,Forecast
+17,2023,1,Cheyenne,13,13,26,Forecast
+17,2023,2,Cheyenne,13,13,26,Forecast
+17,2023,3,Cheyenne,14,13,27,Forecast
+17,2023,4,Cheyenne,14,13,27,Forecast
+19,2023,0,Clear Creek,44,43,87,Forecast
+19,2023,1,Clear Creek,46,44,89,Forecast
+19,2023,2,Clear Creek,46,45,91,Forecast
+19,2023,3,Clear Creek,47,45,92,Forecast
+19,2023,4,Clear Creek,49,47,96,Forecast
+21,2023,0,Conejos,56,53,109,Forecast
+21,2023,1,Conejos,55,53,108,Forecast
+21,2023,2,Conejos,54,52,106,Forecast
+21,2023,3,Conejos,53,51,104,Forecast
+21,2023,4,Conejos,54,51,105,Forecast
+23,2023,0,Costilla,16,16,32,Forecast
+23,2023,1,Costilla,17,16,33,Forecast
+23,2023,2,Costilla,17,16,34,Forecast
+23,2023,3,Costilla,17,17,34,Forecast
+23,2023,4,Costilla,18,18,36,Forecast
+25,2023,0,Crowley,16,15,31,Forecast
+25,2023,1,Crowley,15,15,30,Forecast
+25,2023,2,Crowley,15,14,29,Forecast
+25,2023,3,Crowley,14,14,28,Forecast
+25,2023,4,Crowley,14,13,27,Forecast
+27,2023,0,Custer,16,15,31,Forecast
+27,2023,1,Custer,15,15,30,Forecast
+27,2023,2,Custer,15,14,29,Forecast
+27,2023,3,Custer,15,14,29,Forecast
+27,2023,4,Custer,14,14,28,Forecast
+29,2023,0,Delta,146,139,285,Forecast
+29,2023,1,Delta,145,139,284,Forecast
+29,2023,2,Delta,144,138,283,Forecast
+29,2023,3,Delta,144,138,281,Forecast
+29,2023,4,Delta,148,142,291,Forecast
+31,2023,0,Denver,4904,4696,9600,Forecast
+31,2023,1,Denver,4647,4448,9095,Forecast
+31,2023,2,Denver,4369,4181,8550,Forecast
+31,2023,3,Denver,4129,3953,8083,Forecast
+31,2023,4,Denver,3954,3788,7743,Forecast
+33,2023,0,Dolores,7,6,13,Forecast
+33,2023,1,Dolores,7,7,14,Forecast
+33,2023,2,Dolores,7,7,14,Forecast
+33,2023,3,Dolores,7,7,14,Forecast
+33,2023,4,Dolores,8,7,15,Forecast
+35,2023,0,Douglas,2084,1992,4075,Forecast
+35,2023,1,Douglas,2034,1946,3980,Forecast
+35,2023,2,Douglas,1976,1892,3868,Forecast
+35,2023,3,Douglas,1917,1836,3753,Forecast
+35,2023,4,Douglas,1916,1836,3752,Forecast
+37,2023,0,Eagle,304,290,594,Forecast
+37,2023,1,Eagle,299,286,585,Forecast
+37,2023,2,Eagle,294,282,575,Forecast
+37,2023,3,Eagle,288,277,566,Forecast
+37,2023,4,Eagle,290,279,568,Forecast
+39,2023,0,Elbert,183,176,359,Forecast
+39,2023,1,Elbert,183,176,360,Forecast
+39,2023,2,Elbert,183,177,360,Forecast
+39,2023,3,Elbert,182,176,359,Forecast
+39,2023,4,Elbert,184,179,363,Forecast
+41,2023,0,El Paso,5288,5052,10341,Forecast
+41,2023,1,El Paso,5134,4909,10043,Forecast
+41,2023,2,El Paso,4962,4747,9709,Forecast
+41,2023,3,El Paso,4803,4595,9399,Forecast
+41,2023,4,El Paso,4747,4542,9289,Forecast
+43,2023,0,Fremont,200,191,391,Forecast
+43,2023,1,Fremont,200,191,391,Forecast
+43,2023,2,Fremont,199,191,390,Forecast
+43,2023,3,Fremont,199,191,389,Forecast
+43,2023,4,Fremont,203,195,398,Forecast
+45,2023,0,Garfield,426,407,832,Forecast
+45,2023,1,Garfield,418,399,817,Forecast
+45,2023,2,Garfield,409,391,800,Forecast
+45,2023,3,Garfield,399,382,781,Forecast
+45,2023,4,Garfield,405,387,793,Forecast
+47,2023,0,Gilpin,22,21,42,Forecast
+47,2023,1,Gilpin,22,21,43,Forecast
+47,2023,2,Gilpin,23,22,44,Forecast
+47,2023,3,Gilpin,23,22,45,Forecast
+47,2023,4,Gilpin,24,23,48,Forecast
+49,2023,0,Grand,75,72,147,Forecast
+49,2023,1,Grand,77,74,152,Forecast
+49,2023,2,Grand,78,75,153,Forecast
+49,2023,3,Grand,80,77,157,Forecast
+49,2023,4,Grand,84,81,165,Forecast
+51,2023,0,Gunnison,79,76,155,Forecast
+51,2023,1,Gunnison,82,78,160,Forecast
+51,2023,2,Gunnison,84,81,165,Forecast
+51,2023,3,Gunnison,85,82,167,Forecast
+51,2023,4,Gunnison,90,87,177,Forecast
+53,2023,0,Hinsdale,3,3,7,Forecast
+53,2023,1,Hinsdale,4,4,7,Forecast
+53,2023,2,Hinsdale,4,4,7,Forecast
+53,2023,3,Hinsdale,4,4,8,Forecast
+53,2023,4,Hinsdale,4,4,8,Forecast
+55,2023,0,Huerfano,27,26,54,Forecast
+55,2023,1,Huerfano,27,26,53,Forecast
+55,2023,2,Huerfano,27,26,53,Forecast
+55,2023,3,Huerfano,27,26,53,Forecast
+55,2023,4,Huerfano,28,26,54,Forecast
+57,2023,0,Jackson,7,7,14,Forecast
+57,2023,1,Jackson,7,7,14,Forecast
+57,2023,2,Jackson,7,7,14,Forecast
+57,2023,3,Jackson,7,7,14,Forecast
+57,2023,4,Jackson,7,7,14,Forecast
+59,2023,0,Jefferson,3200,3061,6261,Forecast
+59,2023,1,Jefferson,3197,3058,6255,Forecast
+59,2023,2,Jefferson,3186,3050,6236,Forecast
+59,2023,3,Jefferson,3185,3051,6235,Forecast
+59,2023,4,Jefferson,3254,3119,6374,Forecast
+61,2023,0,Kiowa,8,8,16,Forecast
+61,2023,1,Kiowa,9,8,17,Forecast
+61,2023,2,Kiowa,9,9,18,Forecast
+61,2023,3,Kiowa,10,9,19,Forecast
+61,2023,4,Kiowa,10,10,20,Forecast
+63,2023,0,Kit Carson,52,49,101,Forecast
+63,2023,1,Kit Carson,51,49,100,Forecast
+63,2023,2,Kit Carson,50,48,99,Forecast
+63,2023,3,Kit Carson,50,48,98,Forecast
+63,2023,4,Kit Carson,49,47,97,Forecast
+65,2023,0,Lake,54,52,106,Forecast
+65,2023,1,Lake,52,50,102,Forecast
+65,2023,2,Lake,50,48,99,Forecast
+65,2023,3,Lake,49,47,96,Forecast
+65,2023,4,Lake,48,46,94,Forecast
+67,2023,0,La Plata,295,281,576,Forecast
+67,2023,1,La Plata,284,272,556,Forecast
+67,2023,2,La Plata,274,262,536,Forecast
+67,2023,3,La Plata,266,254,520,Forecast
+67,2023,4,La Plata,265,253,518,Forecast
+69,2023,0,Larimer,2015,1929,3944,Forecast
+69,2023,1,Larimer,2014,1930,3944,Forecast
+69,2023,2,Larimer,1998,1918,3916,Forecast
+69,2023,3,Larimer,1986,1908,3894,Forecast
+69,2023,4,Larimer,2020,1943,3963,Forecast
+71,2023,0,Las Animas,65,62,127,Forecast
+71,2023,1,Las Animas,67,64,131,Forecast
+71,2023,2,Las Animas,68,66,134,Forecast
+71,2023,3,Las Animas,70,67,137,Forecast
+71,2023,4,Las Animas,74,71,145,Forecast
+73,2023,0,Lincoln,33,32,64,Forecast
+73,2023,1,Lincoln,33,32,65,Forecast
+73,2023,2,Lincoln,33,31,64,Forecast
+73,2023,3,Lincoln,33,31,64,Forecast
+73,2023,4,Lincoln,33,32,65,Forecast
+75,2023,0,Logan,118,113,232,Forecast
+75,2023,1,Logan,117,112,229,Forecast
+75,2023,2,Logan,116,111,226,Forecast
+75,2023,3,Logan,115,110,225,Forecast
+75,2023,4,Logan,117,113,231,Forecast
+77,2023,0,Mesa,843,806,1649,Forecast
+77,2023,1,Mesa,824,788,1612,Forecast
+77,2023,2,Mesa,805,770,1576,Forecast
+77,2023,3,Mesa,793,759,1552,Forecast
+77,2023,4,Mesa,801,766,1567,Forecast
+79,2023,0,Mineral,4,4,8,Forecast
+79,2023,1,Mineral,4,4,8,Forecast
+79,2023,2,Mineral,4,4,8,Forecast
+79,2023,3,Mineral,4,4,8,Forecast
+79,2023,4,Mineral,4,4,9,Forecast
+81,2023,0,Moffat,99,94,193,Forecast
+81,2023,1,Moffat,98,94,191,Forecast
+81,2023,2,Moffat,97,93,189,Forecast
+81,2023,3,Moffat,96,92,189,Forecast
+81,2023,4,Moffat,98,94,193,Forecast
+83,2023,0,Montezuma,161,154,314,Forecast
+83,2023,1,Montezuma,158,151,309,Forecast
+83,2023,2,Montezuma,155,149,303,Forecast
+83,2023,3,Montezuma,153,147,299,Forecast
+83,2023,4,Montezuma,154,148,302,Forecast
+85,2023,0,Montrose,245,234,478,Forecast
+85,2023,1,Montrose,237,227,464,Forecast
+85,2023,2,Montrose,229,219,448,Forecast
+85,2023,3,Montrose,223,214,437,Forecast
+85,2023,4,Montrose,223,214,437,Forecast
+87,2023,0,Morgan,242,232,474,Forecast
+87,2023,1,Morgan,238,227,465,Forecast
+87,2023,2,Morgan,233,223,456,Forecast
+87,2023,3,Morgan,229,219,448,Forecast
+87,2023,4,Morgan,231,221,452,Forecast
+89,2023,0,Otero,96,92,188,Forecast
+89,2023,1,Otero,100,96,197,Forecast
+89,2023,2,Otero,106,100,206,Forecast
+89,2023,3,Otero,109,104,213,Forecast
+89,2023,4,Otero,117,112,228,Forecast
+91,2023,0,Ouray,23,22,46,Forecast
+91,2023,1,Ouray,24,23,46,Forecast
+91,2023,2,Ouray,24,23,47,Forecast
+91,2023,3,Ouray,24,23,47,Forecast
+91,2023,4,Ouray,24,23,47,Forecast
+93,2023,0,Park,82,79,161,Forecast
+93,2023,1,Park,84,80,164,Forecast
+93,2023,2,Park,85,82,167,Forecast
+93,2023,3,Park,86,82,168,Forecast
+93,2023,4,Park,88,85,174,Forecast
+95,2023,0,Phillips,33,31,64,Forecast
+95,2023,1,Phillips,33,32,65,Forecast
+95,2023,2,Phillips,34,32,66,Forecast
+95,2023,3,Phillips,34,32,66,Forecast
+95,2023,4,Phillips,35,34,69,Forecast
+97,2023,0,Pitkin,84,81,165,Forecast
+97,2023,1,Pitkin,80,76,156,Forecast
+97,2023,2,Pitkin,75,72,147,Forecast
+97,2023,3,Pitkin,72,68,140,Forecast
+97,2023,4,Pitkin,71,68,139,Forecast
+99,2023,0,Prowers,80,76,156,Forecast
+99,2023,1,Prowers,83,79,162,Forecast
+99,2023,2,Prowers,85,82,167,Forecast
+99,2023,3,Prowers,87,84,171,Forecast
+99,2023,4,Prowers,93,89,182,Forecast
+101,2023,0,Pueblo,963,921,1884,Forecast
+101,2023,1,Pueblo,950,909,1860,Forecast
+101,2023,2,Pueblo,935,895,1830,Forecast
+101,2023,3,Pueblo,925,885,1810,Forecast
+101,2023,4,Pueblo,945,905,1850,Forecast
+103,2023,0,Rio Blanco,39,38,77,Forecast
+103,2023,1,Rio Blanco,39,38,77,Forecast
+103,2023,2,Rio Blanco,39,37,76,Forecast
+103,2023,3,Rio Blanco,39,37,76,Forecast
+103,2023,4,Rio Blanco,40,38,78,Forecast
+105,2023,0,Rio Grande,66,63,129,Forecast
+105,2023,1,Rio Grande,68,65,132,Forecast
+105,2023,2,Rio Grande,68,65,134,Forecast
+105,2023,3,Rio Grande,69,67,136,Forecast
+105,2023,4,Rio Grande,73,70,143,Forecast
+107,2023,0,Routt,123,118,242,Forecast
+107,2023,1,Routt,127,122,249,Forecast
+107,2023,2,Routt,129,125,254,Forecast
+107,2023,3,Routt,132,127,258,Forecast
+107,2023,4,Routt,138,134,272,Forecast
+109,2023,0,Saguache,39,37,76,Forecast
+109,2023,1,Saguache,40,38,78,Forecast
+109,2023,2,Saguache,41,40,81,Forecast
+109,2023,3,Saguache,42,40,82,Forecast
+109,2023,4,Saguache,44,42,85,Forecast
+111,2023,0,San Juan,3,3,6,Forecast
+111,2023,1,San Juan,3,3,6,Forecast
+111,2023,2,San Juan,3,3,6,Forecast
+111,2023,3,San Juan,3,3,6,Forecast
+111,2023,4,San Juan,3,3,6,Forecast
+113,2023,0,San Miguel,47,45,91,Forecast
+113,2023,1,San Miguel,47,46,93,Forecast
+113,2023,2,San Miguel,48,47,95,Forecast
+113,2023,3,San Miguel,49,47,96,Forecast
+113,2023,4,San Miguel,51,49,100,Forecast
+115,2023,0,Sedgwick,13,12,25,Forecast
+115,2023,1,Sedgwick,13,12,25,Forecast
+115,2023,2,Sedgwick,13,12,25,Forecast
+115,2023,3,Sedgwick,13,13,26,Forecast
+115,2023,4,Sedgwick,14,13,27,Forecast
+117,2023,0,Summit,152,145,296,Forecast
+117,2023,1,Summit,144,138,282,Forecast
+117,2023,2,Summit,137,131,268,Forecast
+117,2023,3,Summit,132,126,258,Forecast
+117,2023,4,Summit,129,124,253,Forecast
+119,2023,0,Teller,106,102,208,Forecast
+119,2023,1,Teller,106,102,208,Forecast
+119,2023,2,Teller,107,103,210,Forecast
+119,2023,3,Teller,109,105,213,Forecast
+119,2023,4,Teller,112,108,220,Forecast
+121,2023,0,Washington,23,22,44,Forecast
+121,2023,1,Washington,24,23,46,Forecast
+121,2023,2,Washington,24,23,47,Forecast
+121,2023,3,Washington,24,24,48,Forecast
+121,2023,4,Washington,26,25,51,Forecast
+123,2023,0,Weld,2541,2431,4972,Forecast
+123,2023,1,Weld,2520,2415,4935,Forecast
+123,2023,2,Weld,2499,2398,4897,Forecast
+123,2023,3,Weld,2467,2370,4837,Forecast
+123,2023,4,Weld,2513,2418,4931,Forecast
+125,2023,0,Yuma,75,72,146,Forecast
+125,2023,1,Yuma,75,72,147,Forecast
+125,2023,2,Yuma,75,72,148,Forecast
+125,2023,3,Yuma,76,73,149,Forecast
+125,2023,4,Yuma,79,75,154,Forecast
+1,2024,0,Adams,4194,4024,8218,Forecast
+1,2024,1,Adams,4098,3924,8023,Forecast
+1,2024,2,Adams,4012,3838,7850,Forecast
+1,2024,3,Adams,3892,3728,7620,Forecast
+1,2024,4,Adams,3770,3617,7387,Forecast
+3,2024,0,Alamosa,113,108,220,Forecast
+3,2024,1,Alamosa,111,106,217,Forecast
+3,2024,2,Alamosa,110,106,216,Forecast
+3,2024,3,Alamosa,108,104,212,Forecast
+3,2024,4,Alamosa,107,103,210,Forecast
+5,2024,0,Arapahoe,4275,4098,8373,Forecast
+5,2024,1,Arapahoe,4229,4048,8277,Forecast
+5,2024,2,Arapahoe,4193,4013,8206,Forecast
+5,2024,3,Arapahoe,4122,3949,8072,Forecast
+5,2024,4,Arapahoe,4037,3872,7909,Forecast
+7,2024,0,Archuleta,69,66,135,Forecast
+7,2024,1,Archuleta,68,65,133,Forecast
+7,2024,2,Archuleta,67,64,131,Forecast
+7,2024,3,Archuleta,66,63,129,Forecast
+7,2024,4,Archuleta,65,62,128,Forecast
+9,2024,0,Baca,16,16,32,Forecast
+9,2024,1,Baca,17,16,33,Forecast
+9,2024,2,Baca,18,17,35,Forecast
+9,2024,3,Baca,19,18,37,Forecast
+9,2024,4,Baca,19,18,37,Forecast
+11,2024,0,Bent,24,23,46,Forecast
+11,2024,1,Bent,24,23,47,Forecast
+11,2024,2,Bent,25,24,49,Forecast
+11,2024,3,Bent,25,24,50,Forecast
+11,2024,4,Bent,26,25,50,Forecast
+13,2024,0,Boulder,1626,1556,3182,Forecast
+13,2024,1,Boulder,1587,1518,3105,Forecast
+13,2024,2,Boulder,1559,1491,3049,Forecast
+13,2024,3,Boulder,1522,1458,2979,Forecast
+13,2024,4,Boulder,1498,1435,2933,Forecast
+14,2024,0,Broomfield,445,426,872,Forecast
+14,2024,1,Broomfield,442,424,866,Forecast
+14,2024,2,Broomfield,440,422,862,Forecast
+14,2024,3,Broomfield,430,414,845,Forecast
+14,2024,4,Broomfield,423,407,830,Forecast
+15,2024,0,Chaffee,86,82,168,Forecast
+15,2024,1,Chaffee,87,84,171,Forecast
+15,2024,2,Chaffee,89,85,174,Forecast
+15,2024,3,Chaffee,90,87,177,Forecast
+15,2024,4,Chaffee,91,88,178,Forecast
+17,2024,0,Cheyenne,13,13,26,Forecast
+17,2024,1,Cheyenne,13,13,26,Forecast
+17,2024,2,Cheyenne,13,13,26,Forecast
+17,2024,3,Cheyenne,14,13,26,Forecast
+17,2024,4,Cheyenne,14,13,27,Forecast
+19,2024,0,Clear Creek,45,43,87,Forecast
+19,2024,1,Clear Creek,46,44,89,Forecast
+19,2024,2,Clear Creek,47,45,92,Forecast
+19,2024,3,Clear Creek,48,46,94,Forecast
+19,2024,4,Clear Creek,48,47,95,Forecast
+21,2024,0,Conejos,57,55,112,Forecast
+21,2024,1,Conejos,56,54,110,Forecast
+21,2024,2,Conejos,56,53,109,Forecast
+21,2024,3,Conejos,55,52,107,Forecast
+21,2024,4,Conejos,54,52,106,Forecast
+23,2024,0,Costilla,16,15,32,Forecast
+23,2024,1,Costilla,17,16,33,Forecast
+23,2024,2,Costilla,17,16,34,Forecast
+23,2024,3,Costilla,18,17,35,Forecast
+23,2024,4,Costilla,18,17,35,Forecast
+25,2024,0,Crowley,16,16,32,Forecast
+25,2024,1,Crowley,16,15,31,Forecast
+25,2024,2,Crowley,15,15,30,Forecast
+25,2024,3,Crowley,15,14,29,Forecast
+25,2024,4,Crowley,14,14,28,Forecast
+27,2024,0,Custer,17,16,33,Forecast
+27,2024,1,Custer,16,15,32,Forecast
+27,2024,2,Custer,16,15,31,Forecast
+27,2024,3,Custer,15,15,30,Forecast
+27,2024,4,Custer,15,14,29,Forecast
+29,2024,0,Delta,146,139,285,Forecast
+29,2024,1,Delta,145,139,285,Forecast
+29,2024,2,Delta,146,139,285,Forecast
+29,2024,3,Delta,145,139,284,Forecast
+29,2024,4,Delta,145,139,284,Forecast
+31,2024,0,Denver,4972,4761,9733,Forecast
+31,2024,1,Denver,4713,4510,9223,Forecast
+31,2024,2,Denver,4475,4282,8757,Forecast
+31,2024,3,Denver,4204,4025,8228,Forecast
+31,2024,4,Denver,3965,3798,7763,Forecast
+33,2024,0,Dolores,7,7,13,Forecast
+33,2024,1,Dolores,7,7,14,Forecast
+33,2024,2,Dolores,7,7,14,Forecast
+33,2024,3,Dolores,7,7,14,Forecast
+33,2024,4,Dolores,8,7,15,Forecast
+35,2024,0,Douglas,2146,2051,4197,Forecast
+35,2024,1,Douglas,2095,2005,4100,Forecast
+35,2024,2,Douglas,2052,1964,4016,Forecast
+35,2024,3,Douglas,1992,1908,3900,Forecast
+35,2024,4,Douglas,1933,1852,3785,Forecast
+37,2024,0,Eagle,313,299,612,Forecast
+37,2024,1,Eagle,307,294,602,Forecast
+37,2024,2,Eagle,304,291,595,Forecast
+37,2024,3,Eagle,298,287,585,Forecast
+37,2024,4,Eagle,293,283,576,Forecast
+39,2024,0,Elbert,192,184,376,Forecast
+39,2024,1,Elbert,193,185,378,Forecast
+39,2024,2,Elbert,195,188,383,Forecast
+39,2024,3,Elbert,195,188,382,Forecast
+39,2024,4,Elbert,194,188,382,Forecast
+41,2024,0,El Paso,5413,5171,10584,Forecast
+41,2024,1,El Paso,5258,5028,10286,Forecast
+41,2024,2,El Paso,5128,4905,10033,Forecast
+41,2024,3,El Paso,4960,4745,9705,Forecast
+41,2024,4,El Paso,4802,4595,9397,Forecast
+43,2024,0,Fremont,202,194,396,Forecast
+43,2024,1,Fremont,202,194,396,Forecast
+43,2024,2,Fremont,204,196,400,Forecast
+43,2024,3,Fremont,203,195,397,Forecast
+43,2024,4,Fremont,203,195,397,Forecast
+45,2024,0,Garfield,433,413,846,Forecast
+45,2024,1,Garfield,424,405,829,Forecast
+45,2024,2,Garfield,417,399,817,Forecast
+45,2024,3,Garfield,409,391,800,Forecast
+45,2024,4,Garfield,399,382,781,Forecast
+47,2024,0,Gilpin,22,21,43,Forecast
+47,2024,1,Gilpin,22,21,44,Forecast
+47,2024,2,Gilpin,23,22,45,Forecast
+47,2024,3,Gilpin,23,22,46,Forecast
+47,2024,4,Gilpin,24,23,47,Forecast
+49,2024,0,Grand,77,74,151,Forecast
+49,2024,1,Grand,79,76,155,Forecast
+49,2024,2,Grand,82,79,160,Forecast
+49,2024,3,Grand,83,80,162,Forecast
+49,2024,4,Grand,85,82,166,Forecast
+51,2024,0,Gunnison,79,75,154,Forecast
+51,2024,1,Gunnison,81,78,159,Forecast
+51,2024,2,Gunnison,84,81,164,Forecast
+51,2024,3,Gunnison,86,83,169,Forecast
+51,2024,4,Gunnison,88,84,172,Forecast
+53,2024,0,Hinsdale,4,3,7,Forecast
+53,2024,1,Hinsdale,4,4,7,Forecast
+53,2024,2,Hinsdale,4,4,8,Forecast
+53,2024,3,Hinsdale,4,4,8,Forecast
+53,2024,4,Hinsdale,4,4,8,Forecast
+55,2024,0,Huerfano,28,27,55,Forecast
+55,2024,1,Huerfano,28,27,55,Forecast
+55,2024,2,Huerfano,28,27,55,Forecast
+55,2024,3,Huerfano,28,27,55,Forecast
+55,2024,4,Huerfano,28,27,55,Forecast
+57,2024,0,Jackson,7,7,14,Forecast
+57,2024,1,Jackson,7,7,14,Forecast
+57,2024,2,Jackson,7,7,14,Forecast
+57,2024,3,Jackson,7,7,14,Forecast
+57,2024,4,Jackson,7,7,14,Forecast
+59,2024,0,Jefferson,3209,3070,6279,Forecast
+59,2024,1,Jefferson,3212,3073,6285,Forecast
+59,2024,2,Jefferson,3230,3092,6323,Forecast
+59,2024,3,Jefferson,3221,3085,6305,Forecast
+59,2024,4,Jefferson,3219,3086,6304,Forecast
+61,2024,0,Kiowa,8,7,15,Forecast
+61,2024,1,Kiowa,8,8,16,Forecast
+61,2024,2,Kiowa,9,8,17,Forecast
+61,2024,3,Kiowa,9,9,19,Forecast
+61,2024,4,Kiowa,10,9,19,Forecast
+63,2024,0,Kit Carson,52,50,102,Forecast
+63,2024,1,Kit Carson,52,50,101,Forecast
+63,2024,2,Kit Carson,51,49,101,Forecast
+63,2024,3,Kit Carson,51,49,100,Forecast
+63,2024,4,Kit Carson,51,48,99,Forecast
+65,2024,0,Lake,57,54,111,Forecast
+65,2024,1,Lake,55,52,107,Forecast
+65,2024,2,Lake,53,51,103,Forecast
+65,2024,3,Lake,51,49,100,Forecast
+65,2024,4,Lake,50,48,97,Forecast
+67,2024,0,La Plata,304,291,595,Forecast
+67,2024,1,La Plata,293,280,574,Forecast
+67,2024,2,La Plata,284,272,556,Forecast
+67,2024,3,La Plata,274,262,536,Forecast
+67,2024,4,La Plata,266,254,520,Forecast
+69,2024,0,Larimer,2058,1970,4028,Forecast
+69,2024,1,Larimer,2060,1974,4034,Forecast
+69,2024,2,Larimer,2068,1985,4053,Forecast
+69,2024,3,Larimer,2055,1974,4030,Forecast
+69,2024,4,Larimer,2044,1966,4009,Forecast
+71,2024,0,Las Animas,64,61,125,Forecast
+71,2024,1,Las Animas,66,63,129,Forecast
+71,2024,2,Las Animas,68,65,133,Forecast
+71,2024,3,Las Animas,70,67,137,Forecast
+71,2024,4,Las Animas,71,68,139,Forecast
+73,2024,0,Lincoln,34,32,66,Forecast
+73,2024,1,Lincoln,34,32,66,Forecast
+73,2024,2,Lincoln,34,33,67,Forecast
+73,2024,3,Lincoln,34,33,66,Forecast
+73,2024,4,Lincoln,34,33,66,Forecast
+75,2024,0,Logan,119,114,233,Forecast
+75,2024,1,Logan,118,113,230,Forecast
+75,2024,2,Logan,117,112,229,Forecast
+75,2024,3,Logan,116,111,226,Forecast
+75,2024,4,Logan,115,111,226,Forecast
+77,2024,0,Mesa,863,824,1687,Forecast
+77,2024,1,Mesa,841,804,1645,Forecast
+77,2024,2,Mesa,826,790,1616,Forecast
+77,2024,3,Mesa,809,774,1582,Forecast
+77,2024,4,Mesa,798,764,1562,Forecast
+79,2024,0,Mineral,4,4,8,Forecast
+79,2024,1,Mineral,4,4,8,Forecast
+79,2024,2,Mineral,4,4,8,Forecast
+79,2024,3,Mineral,4,4,8,Forecast
+79,2024,4,Mineral,4,4,8,Forecast
+81,2024,0,Moffat,100,95,195,Forecast
+81,2024,1,Moffat,99,94,193,Forecast
+81,2024,2,Moffat,98,94,192,Forecast
+81,2024,3,Moffat,97,93,190,Forecast
+81,2024,4,Moffat,97,93,190,Forecast
+83,2024,0,Montezuma,168,161,328,Forecast
+83,2024,1,Montezuma,165,158,323,Forecast
+83,2024,2,Montezuma,163,157,320,Forecast
+83,2024,3,Montezuma,160,154,314,Forecast
+83,2024,4,Montezuma,158,152,311,Forecast
+85,2024,0,Montrose,252,241,492,Forecast
+85,2024,1,Montrose,244,233,478,Forecast
+85,2024,2,Montrose,238,228,466,Forecast
+85,2024,3,Montrose,231,221,452,Forecast
+85,2024,4,Montrose,226,216,442,Forecast
+87,2024,0,Morgan,246,235,481,Forecast
+87,2024,1,Morgan,241,230,471,Forecast
+87,2024,2,Morgan,238,228,466,Forecast
+87,2024,3,Morgan,233,223,456,Forecast
+87,2024,4,Morgan,229,219,448,Forecast
+89,2024,0,Otero,93,89,182,Forecast
+89,2024,1,Otero,97,93,190,Forecast
+89,2024,2,Otero,103,98,201,Forecast
+89,2024,3,Otero,107,103,211,Forecast
+89,2024,4,Otero,111,106,217,Forecast
+91,2024,0,Ouray,24,23,47,Forecast
+91,2024,1,Ouray,24,23,47,Forecast
+91,2024,2,Ouray,24,23,48,Forecast
+91,2024,3,Ouray,25,24,48,Forecast
+91,2024,4,Ouray,25,24,48,Forecast
+93,2024,0,Park,84,80,164,Forecast
+93,2024,1,Park,85,82,167,Forecast
+93,2024,2,Park,87,84,171,Forecast
+93,2024,3,Park,89,86,175,Forecast
+93,2024,4,Park,89,86,176,Forecast
+95,2024,0,Phillips,32,31,63,Forecast
+95,2024,1,Phillips,33,31,64,Forecast
+95,2024,2,Phillips,34,32,66,Forecast
+95,2024,3,Phillips,34,33,67,Forecast
+95,2024,4,Phillips,34,33,67,Forecast
+97,2024,0,Pitkin,87,83,171,Forecast
+97,2024,1,Pitkin,83,79,162,Forecast
+97,2024,2,Pitkin,78,75,153,Forecast
+97,2024,3,Pitkin,74,70,144,Forecast
+97,2024,4,Pitkin,70,67,137,Forecast
+99,2024,0,Prowers,78,74,152,Forecast
+99,2024,1,Prowers,80,77,157,Forecast
+99,2024,2,Prowers,83,80,163,Forecast
+99,2024,3,Prowers,86,82,169,Forecast
+99,2024,4,Prowers,88,84,173,Forecast
+101,2024,0,Pueblo,976,934,1909,Forecast
+101,2024,1,Pueblo,962,920,1883,Forecast
+101,2024,2,Pueblo,953,913,1866,Forecast
+101,2024,3,Pueblo,940,900,1839,Forecast
+101,2024,4,Pueblo,931,892,1823,Forecast
+103,2024,0,Rio Blanco,40,38,78,Forecast
+103,2024,1,Rio Blanco,40,38,78,Forecast
+103,2024,2,Rio Blanco,40,38,78,Forecast
+103,2024,3,Rio Blanco,39,38,77,Forecast
+103,2024,4,Rio Blanco,40,38,78,Forecast
+105,2024,0,Rio Grande,66,63,129,Forecast
+105,2024,1,Rio Grande,67,64,131,Forecast
+105,2024,2,Rio Grande,69,66,135,Forecast
+105,2024,3,Rio Grande,70,67,137,Forecast
+105,2024,4,Rio Grande,71,68,139,Forecast
+107,2024,0,Routt,127,121,248,Forecast
+107,2024,1,Routt,130,125,255,Forecast
+107,2024,2,Routt,134,129,264,Forecast
+107,2024,3,Routt,137,132,269,Forecast
+107,2024,4,Routt,139,135,274,Forecast
+109,2024,0,Saguache,38,36,74,Forecast
+109,2024,1,Saguache,39,37,76,Forecast
+109,2024,2,Saguache,40,38,79,Forecast
+109,2024,3,Saguache,42,40,81,Forecast
+109,2024,4,Saguache,42,40,82,Forecast
+111,2024,0,San Juan,3,3,6,Forecast
+111,2024,1,San Juan,3,3,6,Forecast
+111,2024,2,San Juan,3,3,6,Forecast
+111,2024,3,San Juan,3,3,6,Forecast
+111,2024,4,San Juan,3,3,6,Forecast
+113,2024,0,San Miguel,48,46,94,Forecast
+113,2024,1,San Miguel,49,47,96,Forecast
+113,2024,2,San Miguel,50,48,98,Forecast
+113,2024,3,San Miguel,51,49,100,Forecast
+113,2024,4,San Miguel,51,50,101,Forecast
+115,2024,0,Sedgwick,13,12,25,Forecast
+115,2024,1,Sedgwick,13,12,25,Forecast
+115,2024,2,Sedgwick,13,13,26,Forecast
+115,2024,3,Sedgwick,13,13,26,Forecast
+115,2024,4,Sedgwick,13,13,26,Forecast
+117,2024,0,Summit,155,149,304,Forecast
+117,2024,1,Summit,148,142,290,Forecast
+117,2024,2,Summit,141,135,276,Forecast
+117,2024,3,Summit,134,128,263,Forecast
+117,2024,4,Summit,129,123,253,Forecast
+119,2024,0,Teller,108,103,211,Forecast
+119,2024,1,Teller,111,106,217,Forecast
+119,2024,2,Teller,111,107,218,Forecast
+119,2024,3,Teller,112,108,221,Forecast
+119,2024,4,Teller,114,110,224,Forecast
+121,2024,0,Washington,23,22,44,Forecast
+121,2024,1,Washington,24,23,46,Forecast
+121,2024,2,Washington,25,24,48,Forecast
+121,2024,3,Washington,25,24,49,Forecast
+121,2024,4,Washington,25,25,50,Forecast
+123,2024,0,Weld,2628,2515,5142,Forecast
+123,2024,1,Weld,2605,2497,5102,Forecast
+123,2024,2,Weld,2597,2492,5089,Forecast
+123,2024,3,Weld,2579,2478,5057,Forecast
+123,2024,4,Weld,2549,2453,5002,Forecast
+125,2024,0,Yuma,75,72,147,Forecast
+125,2024,1,Yuma,76,72,148,Forecast
+125,2024,2,Yuma,76,73,150,Forecast
+125,2024,3,Yuma,77,73,150,Forecast
+125,2024,4,Yuma,77,74,151,Forecast
+1,2025,0,Adams,4289,4116,8405,Forecast
+1,2025,1,Adams,4198,4020,8218,Forecast
+1,2025,2,Adams,4115,3937,8053,Forecast
+1,2025,3,Adams,4025,3856,7881,Forecast
+1,2025,4,Adams,3899,3740,7639,Forecast
+3,2025,0,Alamosa,117,111,228,Forecast
+3,2025,1,Alamosa,114,109,223,Forecast
+3,2025,2,Alamosa,113,108,221,Forecast
+3,2025,3,Alamosa,112,108,220,Forecast
+3,2025,4,Alamosa,110,106,217,Forecast
+5,2025,0,Arapahoe,4345,4166,8511,Forecast
+5,2025,1,Arapahoe,4299,4115,8413,Forecast
+5,2025,2,Arapahoe,4263,4080,8343,Forecast
+5,2025,3,Arapahoe,4226,4048,8273,Forecast
+5,2025,4,Arapahoe,4150,3981,8131,Forecast
+7,2025,0,Archuleta,70,67,137,Forecast
+7,2025,1,Archuleta,69,66,135,Forecast
+7,2025,2,Archuleta,68,65,133,Forecast
+7,2025,3,Archuleta,68,65,132,Forecast
+7,2025,4,Archuleta,67,64,131,Forecast
+9,2025,0,Baca,16,15,31,Forecast
+9,2025,1,Baca,16,16,32,Forecast
+9,2025,2,Baca,17,16,34,Forecast
+9,2025,3,Baca,18,17,35,Forecast
+9,2025,4,Baca,19,18,37,Forecast
+11,2025,0,Bent,24,23,46,Forecast
+11,2025,1,Bent,24,23,47,Forecast
+11,2025,2,Bent,25,24,48,Forecast
+11,2025,3,Bent,25,24,49,Forecast
+11,2025,4,Bent,26,25,51,Forecast
+13,2025,0,Boulder,1674,1602,3276,Forecast
+13,2025,1,Boulder,1633,1562,3196,Forecast
+13,2025,2,Boulder,1604,1534,3138,Forecast
+13,2025,3,Boulder,1577,1511,3088,Forecast
+13,2025,4,Boulder,1543,1479,3022,Forecast
+14,2025,0,Broomfield,461,441,903,Forecast
+14,2025,1,Broomfield,459,440,899,Forecast
+14,2025,2,Broomfield,457,439,897,Forecast
+14,2025,3,Broomfield,455,438,893,Forecast
+14,2025,4,Broomfield,446,430,876,Forecast
+15,2025,0,Chaffee,88,84,172,Forecast
+15,2025,1,Chaffee,89,85,174,Forecast
+15,2025,2,Chaffee,91,87,178,Forecast
+15,2025,3,Chaffee,92,89,182,Forecast
+15,2025,4,Chaffee,94,91,184,Forecast
+17,2025,0,Cheyenne,13,13,26,Forecast
+17,2025,1,Cheyenne,13,13,26,Forecast
+17,2025,2,Cheyenne,13,13,26,Forecast
+17,2025,3,Cheyenne,13,13,26,Forecast
+17,2025,4,Cheyenne,14,13,27,Forecast
+19,2025,0,Clear Creek,45,43,88,Forecast
+19,2025,1,Clear Creek,46,44,90,Forecast
+19,2025,2,Clear Creek,47,45,92,Forecast
+19,2025,3,Clear Creek,48,47,95,Forecast
+19,2025,4,Clear Creek,49,48,97,Forecast
+21,2025,0,Conejos,58,56,114,Forecast
+21,2025,1,Conejos,57,55,112,Forecast
+21,2025,2,Conejos,57,54,111,Forecast
+21,2025,3,Conejos,56,54,110,Forecast
+21,2025,4,Conejos,55,53,108,Forecast
+23,2025,0,Costilla,16,15,31,Forecast
+23,2025,1,Costilla,17,16,32,Forecast
+23,2025,2,Costilla,17,16,33,Forecast
+23,2025,3,Costilla,18,17,35,Forecast
+23,2025,4,Costilla,18,17,36,Forecast
+25,2025,0,Crowley,17,16,33,Forecast
+25,2025,1,Crowley,16,16,32,Forecast
+25,2025,2,Crowley,16,15,31,Forecast
+25,2025,3,Crowley,15,15,30,Forecast
+25,2025,4,Crowley,15,14,29,Forecast
+27,2025,0,Custer,17,17,34,Forecast
+27,2025,1,Custer,17,16,33,Forecast
+27,2025,2,Custer,16,16,32,Forecast
+27,2025,3,Custer,16,15,31,Forecast
+27,2025,4,Custer,16,15,31,Forecast
+29,2025,0,Delta,147,140,287,Forecast
+29,2025,1,Delta,146,139,285,Forecast
+29,2025,2,Delta,146,140,286,Forecast
+29,2025,3,Delta,147,140,287,Forecast
+29,2025,4,Delta,147,141,288,Forecast
+31,2025,0,Denver,5048,4834,9882,Forecast
+31,2025,1,Denver,4777,4572,9349,Forecast
+31,2025,2,Denver,4538,4342,8880,Forecast
+31,2025,3,Denver,4305,4121,8426,Forecast
+31,2025,4,Denver,4036,3866,7902,Forecast
+33,2025,0,Dolores,7,7,14,Forecast
+33,2025,1,Dolores,7,7,14,Forecast
+33,2025,2,Dolores,7,7,14,Forecast
+33,2025,3,Dolores,7,7,15,Forecast
+33,2025,4,Dolores,8,7,15,Forecast
+35,2025,0,Douglas,2208,2111,4319,Forecast
+35,2025,1,Douglas,2157,2064,4221,Forecast
+35,2025,2,Douglas,2113,2023,4136,Forecast
+35,2025,3,Douglas,2068,1980,4048,Forecast
+35,2025,4,Douglas,2008,1924,3933,Forecast
+37,2025,0,Eagle,324,309,633,Forecast
+37,2025,1,Eagle,317,304,621,Forecast
+37,2025,2,Eagle,313,300,613,Forecast
+37,2025,3,Eagle,309,297,607,Forecast
+37,2025,4,Eagle,304,293,597,Forecast
+39,2025,0,Elbert,200,191,391,Forecast
+39,2025,1,Elbert,202,194,395,Forecast
+39,2025,2,Elbert,205,197,402,Forecast
+39,2025,3,Elbert,206,199,406,Forecast
+39,2025,4,Elbert,206,199,405,Forecast
+41,2025,0,El Paso,5539,5292,10832,Forecast
+41,2025,1,El Paso,5382,5146,10528,Forecast
+41,2025,2,El Paso,5252,5024,10276,Forecast
+41,2025,3,El Paso,5126,4904,10030,Forecast
+41,2025,4,El Paso,4959,4744,9703,Forecast
+43,2025,0,Fremont,205,196,401,Forecast
+43,2025,1,Fremont,205,196,401,Forecast
+43,2025,2,Fremont,207,198,405,Forecast
+43,2025,3,Fremont,208,200,408,Forecast
+43,2025,4,Fremont,207,199,405,Forecast
+45,2025,0,Garfield,441,421,863,Forecast
+45,2025,1,Garfield,431,412,842,Forecast
+45,2025,2,Garfield,423,405,828,Forecast
+45,2025,3,Garfield,417,399,816,Forecast
+45,2025,4,Garfield,409,391,800,Forecast
+47,2025,0,Gilpin,22,21,44,Forecast
+47,2025,1,Gilpin,23,22,44,Forecast
+47,2025,2,Gilpin,23,22,45,Forecast
+47,2025,3,Gilpin,24,23,46,Forecast
+47,2025,4,Gilpin,24,23,47,Forecast
+49,2025,0,Grand,79,76,155,Forecast
+49,2025,1,Grand,81,78,159,Forecast
+49,2025,2,Grand,84,80,164,Forecast
+49,2025,3,Grand,86,83,170,Forecast
+49,2025,4,Grand,87,84,172,Forecast
+51,2025,0,Gunnison,78,75,153,Forecast
+51,2025,1,Gunnison,81,77,158,Forecast
+51,2025,2,Gunnison,83,80,164,Forecast
+51,2025,3,Gunnison,86,83,169,Forecast
+51,2025,4,Gunnison,89,85,174,Forecast
+53,2025,0,Hinsdale,4,3,7,Forecast
+53,2025,1,Hinsdale,4,4,7,Forecast
+53,2025,2,Hinsdale,4,4,8,Forecast
+53,2025,3,Hinsdale,4,4,8,Forecast
+53,2025,4,Hinsdale,4,4,8,Forecast
+55,2025,0,Huerfano,29,28,57,Forecast
+55,2025,1,Huerfano,29,28,56,Forecast
+55,2025,2,Huerfano,29,28,57,Forecast
+55,2025,3,Huerfano,29,28,57,Forecast
+55,2025,4,Huerfano,29,28,57,Forecast
+57,2025,0,Jackson,7,7,15,Forecast
+57,2025,1,Jackson,7,7,14,Forecast
+57,2025,2,Jackson,7,7,14,Forecast
+57,2025,3,Jackson,7,7,14,Forecast
+57,2025,4,Jackson,7,7,14,Forecast
+59,2025,0,Jefferson,3220,3080,6301,Forecast
+59,2025,1,Jefferson,3221,3081,6303,Forecast
+59,2025,2,Jefferson,3246,3107,6353,Forecast
+59,2025,3,Jefferson,3265,3127,6392,Forecast
+59,2025,4,Jefferson,3254,3120,6374,Forecast
+61,2025,0,Kiowa,7,7,14,Forecast
+61,2025,1,Kiowa,8,7,15,Forecast
+61,2025,2,Kiowa,8,8,16,Forecast
+61,2025,3,Kiowa,9,9,18,Forecast
+61,2025,4,Kiowa,10,9,19,Forecast
+63,2025,0,Kit Carson,53,51,103,Forecast
+63,2025,1,Kit Carson,52,50,103,Forecast
+63,2025,2,Kit Carson,52,50,102,Forecast
+63,2025,3,Kit Carson,52,50,102,Forecast
+63,2025,4,Kit Carson,51,49,101,Forecast
+65,2025,0,Lake,59,57,116,Forecast
+65,2025,1,Lake,57,55,111,Forecast
+65,2025,2,Lake,55,53,108,Forecast
+65,2025,3,Lake,53,51,104,Forecast
+65,2025,4,Lake,52,49,101,Forecast
+67,2025,0,La Plata,315,301,616,Forecast
+67,2025,1,La Plata,303,290,593,Forecast
+67,2025,2,La Plata,293,280,573,Forecast
+67,2025,3,La Plata,284,272,556,Forecast
+67,2025,4,La Plata,274,262,536,Forecast
+69,2025,0,Larimer,2100,2010,4110,Forecast
+69,2025,1,Larimer,2103,2015,4118,Forecast
+69,2025,2,Larimer,2114,2029,4143,Forecast
+69,2025,3,Larimer,2125,2042,4167,Forecast
+69,2025,4,Larimer,2113,2032,4145,Forecast
+71,2025,0,Las Animas,63,61,124,Forecast
+71,2025,1,Las Animas,65,62,127,Forecast
+71,2025,2,Las Animas,67,64,131,Forecast
+71,2025,3,Las Animas,69,67,136,Forecast
+71,2025,4,Las Animas,71,68,139,Forecast
+73,2025,0,Lincoln,34,33,67,Forecast
+73,2025,1,Lincoln,35,33,68,Forecast
+73,2025,2,Lincoln,35,34,69,Forecast
+73,2025,3,Lincoln,35,34,69,Forecast
+73,2025,4,Lincoln,35,34,69,Forecast
+75,2025,0,Logan,120,115,235,Forecast
+75,2025,1,Logan,118,113,232,Forecast
+75,2025,2,Logan,118,113,230,Forecast
+75,2025,3,Logan,117,112,229,Forecast
+75,2025,4,Logan,115,111,227,Forecast
+77,2025,0,Mesa,887,847,1734,Forecast
+77,2025,1,Mesa,860,823,1683,Forecast
+77,2025,2,Mesa,843,806,1649,Forecast
+77,2025,3,Mesa,830,794,1623,Forecast
+77,2025,4,Mesa,815,780,1594,Forecast
+79,2025,0,Mineral,4,4,8,Forecast
+79,2025,1,Mineral,4,4,8,Forecast
+79,2025,2,Mineral,4,4,8,Forecast
+79,2025,3,Mineral,4,4,9,Forecast
+79,2025,4,Mineral,5,4,9,Forecast
+81,2025,0,Moffat,101,97,198,Forecast
+81,2025,1,Moffat,100,95,195,Forecast
+81,2025,2,Moffat,99,95,194,Forecast
+81,2025,3,Moffat,99,95,193,Forecast
+81,2025,4,Moffat,98,94,192,Forecast
+83,2025,0,Montezuma,175,168,343,Forecast
+83,2025,1,Montezuma,172,165,337,Forecast
+83,2025,2,Montezuma,170,164,334,Forecast
+83,2025,3,Montezuma,169,162,331,Forecast
+83,2025,4,Montezuma,166,160,326,Forecast
+85,2025,0,Montrose,262,250,513,Forecast
+85,2025,1,Montrose,252,241,492,Forecast
+85,2025,2,Montrose,245,235,480,Forecast
+85,2025,3,Montrose,240,230,470,Forecast
+85,2025,4,Montrose,234,224,459,Forecast
+87,2025,0,Morgan,250,239,490,Forecast
+87,2025,1,Morgan,244,234,478,Forecast
+87,2025,2,Morgan,242,231,473,Forecast
+87,2025,3,Morgan,238,228,466,Forecast
+87,2025,4,Morgan,233,223,455,Forecast
+89,2025,0,Otero,90,86,177,Forecast
+89,2025,1,Otero,94,90,184,Forecast
+89,2025,2,Otero,100,95,194,Forecast
+89,2025,3,Otero,105,101,206,Forecast
+89,2025,4,Otero,109,105,214,Forecast
+91,2025,0,Ouray,24,23,48,Forecast
+91,2025,1,Ouray,25,24,48,Forecast
+91,2025,2,Ouray,25,24,49,Forecast
+91,2025,3,Ouray,25,24,50,Forecast
+91,2025,4,Ouray,26,25,50,Forecast
+93,2025,0,Park,85,82,167,Forecast
+93,2025,1,Park,87,83,170,Forecast
+93,2025,2,Park,89,86,175,Forecast
+93,2025,3,Park,91,88,179,Forecast
+93,2025,4,Park,93,90,183,Forecast
+95,2025,0,Phillips,32,30,62,Forecast
+95,2025,1,Phillips,32,31,63,Forecast
+95,2025,2,Phillips,33,32,65,Forecast
+95,2025,3,Phillips,34,33,67,Forecast
+95,2025,4,Phillips,35,33,68,Forecast
+97,2025,0,Pitkin,90,86,176,Forecast
+97,2025,1,Pitkin,85,82,167,Forecast
+97,2025,2,Pitkin,81,77,158,Forecast
+97,2025,3,Pitkin,77,73,150,Forecast
+97,2025,4,Pitkin,72,69,141,Forecast
+99,2025,0,Prowers,76,73,149,Forecast
+99,2025,1,Prowers,78,75,153,Forecast
+99,2025,2,Prowers,81,78,159,Forecast
+99,2025,3,Prowers,84,81,165,Forecast
+99,2025,4,Prowers,87,83,170,Forecast
+101,2025,0,Pueblo,994,951,1946,Forecast
+101,2025,1,Pueblo,975,933,1908,Forecast
+101,2025,2,Pueblo,965,924,1889,Forecast
+101,2025,3,Pueblo,958,917,1876,Forecast
+101,2025,4,Pueblo,946,906,1852,Forecast
+103,2025,0,Rio Blanco,41,39,81,Forecast
+103,2025,1,Rio Blanco,41,39,80,Forecast
+103,2025,2,Rio Blanco,41,39,80,Forecast
+103,2025,3,Rio Blanco,41,39,80,Forecast
+103,2025,4,Rio Blanco,40,39,79,Forecast
+105,2025,0,Rio Grande,66,64,130,Forecast
+105,2025,1,Rio Grande,67,64,131,Forecast
+105,2025,2,Rio Grande,69,66,134,Forecast
+105,2025,3,Rio Grande,70,68,138,Forecast
+105,2025,4,Rio Grande,71,68,140,Forecast
+107,2025,0,Routt,131,126,257,Forecast
+107,2025,1,Routt,134,129,263,Forecast
+107,2025,2,Routt,138,133,271,Forecast
+107,2025,3,Routt,143,138,281,Forecast
+107,2025,4,Routt,146,141,287,Forecast
+109,2025,0,Saguache,37,36,73,Forecast
+109,2025,1,Saguache,38,36,74,Forecast
+109,2025,2,Saguache,39,37,77,Forecast
+109,2025,3,Saguache,40,39,79,Forecast
+109,2025,4,Saguache,42,40,82,Forecast
+111,2025,0,San Juan,3,3,6,Forecast
+111,2025,1,San Juan,3,3,6,Forecast
+111,2025,2,San Juan,3,3,6,Forecast
+111,2025,3,San Juan,3,3,6,Forecast
+111,2025,4,San Juan,3,3,6,Forecast
+113,2025,0,San Miguel,50,48,97,Forecast
+113,2025,1,San Miguel,50,48,99,Forecast
+113,2025,2,San Miguel,51,49,101,Forecast
+113,2025,3,San Miguel,53,51,103,Forecast
+113,2025,4,San Miguel,54,52,105,Forecast
+115,2025,0,Sedgwick,13,12,25,Forecast
+115,2025,1,Sedgwick,13,12,25,Forecast
+115,2025,2,Sedgwick,13,13,26,Forecast
+115,2025,3,Sedgwick,14,13,27,Forecast
+115,2025,4,Sedgwick,14,13,27,Forecast
+117,2025,0,Summit,159,152,311,Forecast
+117,2025,1,Summit,152,145,297,Forecast
+117,2025,2,Summit,145,139,284,Forecast
+117,2025,3,Summit,138,132,270,Forecast
+117,2025,4,Summit,132,126,258,Forecast
+119,2025,0,Teller,110,105,216,Forecast
+119,2025,1,Teller,112,107,219,Forecast
+119,2025,2,Teller,115,111,226,Forecast
+119,2025,3,Teller,116,112,228,Forecast
+119,2025,4,Teller,117,113,230,Forecast
+121,2025,0,Washington,22,21,44,Forecast
+121,2025,1,Washington,23,22,46,Forecast
+121,2025,2,Washington,24,23,48,Forecast
+121,2025,3,Washington,26,25,50,Forecast
+121,2025,4,Washington,26,25,51,Forecast
+123,2025,0,Weld,2719,2602,5321,Forecast
+123,2025,1,Weld,2692,2580,5271,Forecast
+123,2025,2,Weld,2682,2574,5255,Forecast
+123,2025,3,Weld,2677,2572,5249,Forecast
+123,2025,4,Weld,2661,2561,5221,Forecast
+125,2025,0,Yuma,76,73,149,Forecast
+125,2025,1,Yuma,76,73,149,Forecast
+125,2025,2,Yuma,77,73,150,Forecast
+125,2025,3,Yuma,78,74,152,Forecast
+125,2025,4,Yuma,78,75,152,Forecast

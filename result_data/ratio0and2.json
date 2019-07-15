@@ -1,0 +1,2403 @@
+[
+  {
+    "ZIP": 80002,
+    "CAPACITY_I": 1162,
+    "NUMBER_OF_PROVIDERS_I": 10,
+    "POPULATION_I": 682,
+    "RATIO_I": 0.6
+  },
+  {
+    "ZIP": 80003,
+    "CAPACITY_I": 406,
+    "NUMBER_OF_PROVIDERS_I": 19,
+    "POPULATION_I": 1610,
+    "RATIO_I": 4
+  },
+  {
+    "ZIP": 80004,
+    "CAPACITY_I": 1074,
+    "NUMBER_OF_PROVIDERS_I": 25,
+    "POPULATION_I": 1311,
+    "RATIO_I": 1.2
+  },
+  {
+    "ZIP": 80005,
+    "CAPACITY_I": 382,
+    "NUMBER_OF_PROVIDERS_I": 18,
+    "POPULATION_I": 1005,
+    "RATIO_I": 2.6
+  },
+  {
+    "ZIP": 80007,
+    "CAPACITY_I": 313,
+    "NUMBER_OF_PROVIDERS_I": 4,
+    "POPULATION_I": 497,
+    "RATIO_I": 1.6
+  },
+  {
+    "ZIP": 80010,
+    "CAPACITY_I": 909,
+    "NUMBER_OF_PROVIDERS_I": 17,
+    "POPULATION_I": 2195,
+    "RATIO_I": 2.4
+  },
+  {
+    "ZIP": 80011,
+    "CAPACITY_I": 824,
+    "NUMBER_OF_PROVIDERS_I": 20,
+    "POPULATION_I": 2442,
+    "RATIO_I": 3
+  },
+  {
+    "ZIP": 80012,
+    "CAPACITY_I": 1031,
+    "NUMBER_OF_PROVIDERS_I": 22,
+    "POPULATION_I": 2164,
+    "RATIO_I": 2.1
+  },
+  {
+    "ZIP": 80013,
+    "CAPACITY_I": 947,
+    "NUMBER_OF_PROVIDERS_I": 56,
+    "POPULATION_I": 2740,
+    "RATIO_I": 2.9
+  },
+  {
+    "ZIP": 80014,
+    "CAPACITY_I": 1028,
+    "NUMBER_OF_PROVIDERS_I": 14,
+    "POPULATION_I": 1002,
+    "RATIO_I": 1
+  },
+  {
+    "ZIP": 80015,
+    "CAPACITY_I": 1862,
+    "NUMBER_OF_PROVIDERS_I": 60,
+    "POPULATION_I": 2352,
+    "RATIO_I": 1.3
+  },
+  {
+    "ZIP": 80016,
+    "CAPACITY_I": 1271,
+    "NUMBER_OF_PROVIDERS_I": 23,
+    "POPULATION_I": 1890,
+    "RATIO_I": 1.5
+  },
+  {
+    "ZIP": 80017,
+    "CAPACITY_I": 359,
+    "NUMBER_OF_PROVIDERS_I": 20,
+    "POPULATION_I": 1808,
+    "RATIO_I": 5
+  },
+  {
+    "ZIP": 80018,
+    "CAPACITY_I": 373,
+    "NUMBER_OF_PROVIDERS_I": 7,
+    "POPULATION_I": 629,
+    "RATIO_I": 1.7
+  },
+  {
+    "ZIP": 80019,
+    "CAPACITY_I": 75,
+    "NUMBER_OF_PROVIDERS_I": 2,
+    "POPULATION_I": 238,
+    "RATIO_I": 3.2
+  },
+  {
+    "ZIP": 80020,
+    "CAPACITY_I": 1962,
+    "NUMBER_OF_PROVIDERS_I": 37,
+    "POPULATION_I": 1773,
+    "RATIO_I": 0.9
+  },
+  {
+    "ZIP": 80021,
+    "CAPACITY_I": 1260,
+    "NUMBER_OF_PROVIDERS_I": 18,
+    "POPULATION_I": 1093,
+    "RATIO_I": 0.9
+  },
+  {
+    "ZIP": 80022,
+    "CAPACITY_I": 1071,
+    "NUMBER_OF_PROVIDERS_I": 23,
+    "POPULATION_I": 2856,
+    "RATIO_I": 2.7
+  },
+  {
+    "ZIP": 80023,
+    "CAPACITY_I": 336,
+    "NUMBER_OF_PROVIDERS_I": 5,
+    "POPULATION_I": 641,
+    "RATIO_I": 1.9
+  },
+  {
+    "ZIP": 80026,
+    "CAPACITY_I": 1280,
+    "NUMBER_OF_PROVIDERS_I": 26,
+    "POPULATION_I": 916,
+    "RATIO_I": 0.7
+  },
+  {
+    "ZIP": 80027,
+    "CAPACITY_I": 1544,
+    "NUMBER_OF_PROVIDERS_I": 27,
+    "POPULATION_I": 956,
+    "RATIO_I": 0.6
+  },
+  {
+    "ZIP": 80030,
+    "CAPACITY_I": 406,
+    "NUMBER_OF_PROVIDERS_I": 13,
+    "POPULATION_I": 549,
+    "RATIO_I": 1.4
+  },
+  {
+    "ZIP": 80031,
+    "CAPACITY_I": 735,
+    "NUMBER_OF_PROVIDERS_I": 10,
+    "POPULATION_I": 1430,
+    "RATIO_I": 1.9
+  },
+  {
+    "ZIP": 80033,
+    "CAPACITY_I": 875,
+    "NUMBER_OF_PROVIDERS_I": 24,
+    "POPULATION_I": 800,
+    "RATIO_I": 0.9
+  },
+  {
+    "ZIP": 80045,
+    "CAPACITY_I": 272,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 22,
+    "RATIO_I": 0.1
+  },
+  {
+    "ZIP": 80102,
+    "CAPACITY_I": 18,
+    "NUMBER_OF_PROVIDERS_I": 2,
+    "POPULATION_I": 144,
+    "RATIO_I": 8
+  },
+  {
+    "ZIP": 80103,
+    "CAPACITY_I": 50,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 61,
+    "RATIO_I": 1.2
+  },
+  {
+    "ZIP": 80104,
+    "CAPACITY_I": 760,
+    "NUMBER_OF_PROVIDERS_I": 19,
+    "POPULATION_I": 1217,
+    "RATIO_I": 1.6
+  },
+  {
+    "ZIP": 80107,
+    "CAPACITY_I": 50,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 452,
+    "RATIO_I": 9
+  },
+  {
+    "ZIP": 80108,
+    "CAPACITY_I": 693,
+    "NUMBER_OF_PROVIDERS_I": 10,
+    "POPULATION_I": 888,
+    "RATIO_I": 1.3
+  },
+  {
+    "ZIP": 80109,
+    "CAPACITY_I": 551,
+    "NUMBER_OF_PROVIDERS_I": 10,
+    "POPULATION_I": 1040,
+    "RATIO_I": 1.9
+  },
+  {
+    "ZIP": 80110,
+    "CAPACITY_I": 939,
+    "NUMBER_OF_PROVIDERS_I": 8,
+    "POPULATION_I": 844,
+    "RATIO_I": 0.9
+  },
+  {
+    "ZIP": 80111,
+    "CAPACITY_I": 1588,
+    "NUMBER_OF_PROVIDERS_I": 14,
+    "POPULATION_I": 927,
+    "RATIO_I": 0.6
+  },
+  {
+    "ZIP": 80112,
+    "CAPACITY_I": 2283,
+    "NUMBER_OF_PROVIDERS_I": 24,
+    "POPULATION_I": 1071,
+    "RATIO_I": 0.5
+  },
+  {
+    "ZIP": 80113,
+    "CAPACITY_I": 464,
+    "NUMBER_OF_PROVIDERS_I": 9,
+    "POPULATION_I": 815,
+    "RATIO_I": 1.8
+  },
+  {
+    "ZIP": 80116,
+    "CAPACITY_I": 60,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 84,
+    "RATIO_I": 1.4
+  },
+  {
+    "ZIP": 80117,
+    "CAPACITY_I": 16,
+    "NUMBER_OF_PROVIDERS_I": 2,
+    "POPULATION_I": 97,
+    "RATIO_I": 6.1
+  },
+  {
+    "ZIP": 80120,
+    "CAPACITY_I": 1303,
+    "NUMBER_OF_PROVIDERS_I": 17,
+    "POPULATION_I": 859,
+    "RATIO_I": 0.7
+  },
+  {
+    "ZIP": 80121,
+    "CAPACITY_I": 338,
+    "NUMBER_OF_PROVIDERS_I": 12,
+    "POPULATION_I": 548,
+    "RATIO_I": 1.6
+  },
+  {
+    "ZIP": 80122,
+    "CAPACITY_I": 510,
+    "NUMBER_OF_PROVIDERS_I": 14,
+    "POPULATION_I": 960,
+    "RATIO_I": 1.9
+  },
+  {
+    "ZIP": 80123,
+    "CAPACITY_I": 1551,
+    "NUMBER_OF_PROVIDERS_I": 27,
+    "POPULATION_I": 1479,
+    "RATIO_I": 1
+  },
+  {
+    "ZIP": 80124,
+    "CAPACITY_I": 1278,
+    "NUMBER_OF_PROVIDERS_I": 12,
+    "POPULATION_I": 633,
+    "RATIO_I": 0.5
+  },
+  {
+    "ZIP": 80125,
+    "CAPACITY_I": 175,
+    "NUMBER_OF_PROVIDERS_I": 5,
+    "POPULATION_I": 337,
+    "RATIO_I": 1.9
+  },
+  {
+    "ZIP": 80126,
+    "CAPACITY_I": 1506,
+    "NUMBER_OF_PROVIDERS_I": 26,
+    "POPULATION_I": 1576,
+    "RATIO_I": 1
+  },
+  {
+    "ZIP": 80127,
+    "CAPACITY_I": 1688,
+    "NUMBER_OF_PROVIDERS_I": 31,
+    "POPULATION_I": 1325,
+    "RATIO_I": 0.8
+  },
+  {
+    "ZIP": 80128,
+    "CAPACITY_I": 1193,
+    "NUMBER_OF_PROVIDERS_I": 26,
+    "POPULATION_I": 1357,
+    "RATIO_I": 1.1
+  },
+  {
+    "ZIP": 80129,
+    "CAPACITY_I": 1165,
+    "NUMBER_OF_PROVIDERS_I": 25,
+    "POPULATION_I": 857,
+    "RATIO_I": 0.7
+  },
+  {
+    "ZIP": 80130,
+    "CAPACITY_I": 302,
+    "NUMBER_OF_PROVIDERS_I": 12,
+    "POPULATION_I": 1168,
+    "RATIO_I": 3.9
+  },
+  {
+    "ZIP": 80132,
+    "CAPACITY_I": 535,
+    "NUMBER_OF_PROVIDERS_I": 11,
+    "POPULATION_I": 582,
+    "RATIO_I": 1.1
+  },
+  {
+    "ZIP": 80133,
+    "CAPACITY_I": 8,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 128,
+    "RATIO_I": 16
+  },
+  {
+    "ZIP": 80134,
+    "CAPACITY_I": 2185,
+    "NUMBER_OF_PROVIDERS_I": 41,
+    "POPULATION_I": 2792,
+    "RATIO_I": 1.3
+  },
+  {
+    "ZIP": 80136,
+    "CAPACITY_I": 157,
+    "NUMBER_OF_PROVIDERS_I": 7,
+    "POPULATION_I": 166,
+    "RATIO_I": 1.1
+  },
+  {
+    "ZIP": 80138,
+    "CAPACITY_I": 1303,
+    "NUMBER_OF_PROVIDERS_I": 18,
+    "POPULATION_I": 915,
+    "RATIO_I": 0.7
+  },
+  {
+    "ZIP": 80202,
+    "CAPACITY_I": 210,
+    "NUMBER_OF_PROVIDERS_I": 2,
+    "POPULATION_I": 86,
+    "RATIO_I": 0.4
+  },
+  {
+    "ZIP": 80203,
+    "CAPACITY_I": 15,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 138,
+    "RATIO_I": 9.2
+  },
+  {
+    "ZIP": 80204,
+    "CAPACITY_I": 1439,
+    "NUMBER_OF_PROVIDERS_I": 20,
+    "POPULATION_I": 1683,
+    "RATIO_I": 1.2
+  },
+  {
+    "ZIP": 80205,
+    "CAPACITY_I": 1739,
+    "NUMBER_OF_PROVIDERS_I": 29,
+    "POPULATION_I": 1078,
+    "RATIO_I": 0.6
+  },
+  {
+    "ZIP": 80206,
+    "CAPACITY_I": 667,
+    "NUMBER_OF_PROVIDERS_I": 13,
+    "POPULATION_I": 585,
+    "RATIO_I": 0.9
+  },
+  {
+    "ZIP": 80207,
+    "CAPACITY_I": 783,
+    "NUMBER_OF_PROVIDERS_I": 16,
+    "POPULATION_I": 1334,
+    "RATIO_I": 1.7
+  },
+  {
+    "ZIP": 80208,
+    "CAPACITY_I": 192,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": "",
+    "RATIO_I": ""
+  },
+  {
+    "ZIP": 80209,
+    "CAPACITY_I": 1046,
+    "NUMBER_OF_PROVIDERS_I": 13,
+    "POPULATION_I": 706,
+    "RATIO_I": 0.7
+  },
+  {
+    "ZIP": 80210,
+    "CAPACITY_I": 1371,
+    "NUMBER_OF_PROVIDERS_I": 22,
+    "POPULATION_I": 1199,
+    "RATIO_I": 0.9
+  },
+  {
+    "ZIP": 80211,
+    "CAPACITY_I": 1855,
+    "NUMBER_OF_PROVIDERS_I": 25,
+    "POPULATION_I": 1213,
+    "RATIO_I": 0.7
+  },
+  {
+    "ZIP": 80212,
+    "CAPACITY_I": 478,
+    "NUMBER_OF_PROVIDERS_I": 9,
+    "POPULATION_I": 656,
+    "RATIO_I": 1.4
+  },
+  {
+    "ZIP": 80214,
+    "CAPACITY_I": 757,
+    "NUMBER_OF_PROVIDERS_I": 14,
+    "POPULATION_I": 911,
+    "RATIO_I": 1.2
+  },
+  {
+    "ZIP": 80215,
+    "CAPACITY_I": 285,
+    "NUMBER_OF_PROVIDERS_I": 7,
+    "POPULATION_I": 667,
+    "RATIO_I": 2.3
+  },
+  {
+    "ZIP": 80216,
+    "CAPACITY_I": 276,
+    "NUMBER_OF_PROVIDERS_I": 3,
+    "POPULATION_I": 486,
+    "RATIO_I": 1.8
+  },
+  {
+    "ZIP": 80218,
+    "CAPACITY_I": 343,
+    "NUMBER_OF_PROVIDERS_I": 4,
+    "POPULATION_I": 371,
+    "RATIO_I": 1.1
+  },
+  {
+    "ZIP": 80219,
+    "CAPACITY_I": 2017,
+    "NUMBER_OF_PROVIDERS_I": 35,
+    "POPULATION_I": 3238,
+    "RATIO_I": 1.6
+  },
+  {
+    "ZIP": 80220,
+    "CAPACITY_I": 1570,
+    "NUMBER_OF_PROVIDERS_I": 21,
+    "POPULATION_I": 1495,
+    "RATIO_I": 1
+  },
+  {
+    "ZIP": 80221,
+    "CAPACITY_I": 550,
+    "NUMBER_OF_PROVIDERS_I": 16,
+    "POPULATION_I": 1253,
+    "RATIO_I": 2.3
+  },
+  {
+    "ZIP": 80222,
+    "CAPACITY_I": 1682,
+    "NUMBER_OF_PROVIDERS_I": 21,
+    "POPULATION_I": 896,
+    "RATIO_I": 0.5
+  },
+  {
+    "ZIP": 80223,
+    "CAPACITY_I": 506,
+    "NUMBER_OF_PROVIDERS_I": 11,
+    "POPULATION_I": 791,
+    "RATIO_I": 1.6
+  },
+  {
+    "ZIP": 80224,
+    "CAPACITY_I": 452,
+    "NUMBER_OF_PROVIDERS_I": 8,
+    "POPULATION_I": 667,
+    "RATIO_I": 1.5
+  },
+  {
+    "ZIP": 80225,
+    "CAPACITY_I": 120,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": "",
+    "RATIO_I": ""
+  },
+  {
+    "ZIP": 80226,
+    "CAPACITY_I": 819,
+    "NUMBER_OF_PROVIDERS_I": 20,
+    "POPULATION_I": 956,
+    "RATIO_I": 1.2
+  },
+  {
+    "ZIP": 80227,
+    "CAPACITY_I": 639,
+    "NUMBER_OF_PROVIDERS_I": 11,
+    "POPULATION_I": 1131,
+    "RATIO_I": 1.8
+  },
+  {
+    "ZIP": 80228,
+    "CAPACITY_I": 935,
+    "NUMBER_OF_PROVIDERS_I": 21,
+    "POPULATION_I": 1201,
+    "RATIO_I": 1.3
+  },
+  {
+    "ZIP": 80229,
+    "CAPACITY_I": 1076,
+    "NUMBER_OF_PROVIDERS_I": 27,
+    "POPULATION_I": 2911,
+    "RATIO_I": 2.7
+  },
+  {
+    "ZIP": 80230,
+    "CAPACITY_I": 575,
+    "NUMBER_OF_PROVIDERS_I": 5,
+    "POPULATION_I": 245,
+    "RATIO_I": 0.4
+  },
+  {
+    "ZIP": 80231,
+    "CAPACITY_I": 381,
+    "NUMBER_OF_PROVIDERS_I": 14,
+    "POPULATION_I": 1578,
+    "RATIO_I": 4.1
+  },
+  {
+    "ZIP": 80232,
+    "CAPACITY_I": 245,
+    "NUMBER_OF_PROVIDERS_I": 13,
+    "POPULATION_I": 690,
+    "RATIO_I": 2.8
+  },
+  {
+    "ZIP": 80233,
+    "CAPACITY_I": 659,
+    "NUMBER_OF_PROVIDERS_I": 31,
+    "POPULATION_I": 2155,
+    "RATIO_I": 3.3
+  },
+  {
+    "ZIP": 80234,
+    "CAPACITY_I": 779,
+    "NUMBER_OF_PROVIDERS_I": 14,
+    "POPULATION_I": 1102,
+    "RATIO_I": 1.4
+  },
+  {
+    "ZIP": 80235,
+    "CAPACITY_I": 206,
+    "NUMBER_OF_PROVIDERS_I": 7,
+    "POPULATION_I": 268,
+    "RATIO_I": 1.3
+  },
+  {
+    "ZIP": 80236,
+    "CAPACITY_I": 260,
+    "NUMBER_OF_PROVIDERS_I": 8,
+    "POPULATION_I": 927,
+    "RATIO_I": 3.6
+  },
+  {
+    "ZIP": 80237,
+    "CAPACITY_I": 542,
+    "NUMBER_OF_PROVIDERS_I": 10,
+    "POPULATION_I": 488,
+    "RATIO_I": 0.9
+  },
+  {
+    "ZIP": 80238,
+    "CAPACITY_I": 1090,
+    "NUMBER_OF_PROVIDERS_I": 15,
+    "POPULATION_I": 1350,
+    "RATIO_I": 1.2
+  },
+  {
+    "ZIP": 80239,
+    "CAPACITY_I": 1285,
+    "NUMBER_OF_PROVIDERS_I": 30,
+    "POPULATION_I": 2006,
+    "RATIO_I": 1.6
+  },
+  {
+    "ZIP": 80241,
+    "CAPACITY_I": 1412,
+    "NUMBER_OF_PROVIDERS_I": 29,
+    "POPULATION_I": 1368,
+    "RATIO_I": 1
+  },
+  {
+    "ZIP": 80246,
+    "CAPACITY_I": 174,
+    "NUMBER_OF_PROVIDERS_I": 4,
+    "POPULATION_I": 333,
+    "RATIO_I": 1.9
+  },
+  {
+    "ZIP": 80247,
+    "CAPACITY_I": 246,
+    "NUMBER_OF_PROVIDERS_I": 2,
+    "POPULATION_I": 1207,
+    "RATIO_I": 4.9
+  },
+  {
+    "ZIP": 80249,
+    "CAPACITY_I": 704,
+    "NUMBER_OF_PROVIDERS_I": 21,
+    "POPULATION_I": 1444,
+    "RATIO_I": 2.1
+  },
+  {
+    "ZIP": 80260,
+    "CAPACITY_I": 167,
+    "NUMBER_OF_PROVIDERS_I": 7,
+    "POPULATION_I": 1854,
+    "RATIO_I": 11.1
+  },
+  {
+    "ZIP": 80265,
+    "CAPACITY_I": 138,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": "",
+    "RATIO_I": ""
+  },
+  {
+    "ZIP": 80301,
+    "CAPACITY_I": 878,
+    "NUMBER_OF_PROVIDERS_I": 13,
+    "POPULATION_I": 469,
+    "RATIO_I": 0.5
+  },
+  {
+    "ZIP": 80302,
+    "CAPACITY_I": 247,
+    "NUMBER_OF_PROVIDERS_I": 7,
+    "POPULATION_I": 338,
+    "RATIO_I": 1.4
+  },
+  {
+    "ZIP": 80303,
+    "CAPACITY_I": 490,
+    "NUMBER_OF_PROVIDERS_I": 12,
+    "POPULATION_I": 359,
+    "RATIO_I": 0.7
+  },
+  {
+    "ZIP": 80304,
+    "CAPACITY_I": 1085,
+    "NUMBER_OF_PROVIDERS_I": 17,
+    "POPULATION_I": 845,
+    "RATIO_I": 0.8
+  },
+  {
+    "ZIP": 80305,
+    "CAPACITY_I": 602,
+    "NUMBER_OF_PROVIDERS_I": 12,
+    "POPULATION_I": 419,
+    "RATIO_I": 0.7
+  },
+  {
+    "ZIP": 80309,
+    "CAPACITY_I": 15,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": "",
+    "RATIO_I": ""
+  },
+  {
+    "ZIP": 80401,
+    "CAPACITY_I": 923,
+    "NUMBER_OF_PROVIDERS_I": 15,
+    "POPULATION_I": 1153,
+    "RATIO_I": 1.2
+  },
+  {
+    "ZIP": 80403,
+    "CAPACITY_I": 545,
+    "NUMBER_OF_PROVIDERS_I": 13,
+    "POPULATION_I": 583,
+    "RATIO_I": 1.1
+  },
+  {
+    "ZIP": 80404,
+    "CAPACITY_I": 33,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": "",
+    "RATIO_I": ""
+  },
+  {
+    "ZIP": 80409,
+    "CAPACITY_I": 69,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": "",
+    "RATIO_I": ""
+  },
+  {
+    "ZIP": 80420,
+    "CAPACITY_I": 15,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 33,
+    "RATIO_I": 2.2
+  },
+  {
+    "ZIP": 80421,
+    "CAPACITY_I": 118,
+    "NUMBER_OF_PROVIDERS_I": 5,
+    "POPULATION_I": 250,
+    "RATIO_I": 2.1
+  },
+  {
+    "ZIP": 80422,
+    "CAPACITY_I": 110,
+    "NUMBER_OF_PROVIDERS_I": 2,
+    "POPULATION_I": 109,
+    "RATIO_I": 1
+  },
+  {
+    "ZIP": 80424,
+    "CAPACITY_I": 385,
+    "NUMBER_OF_PROVIDERS_I": 8,
+    "POPULATION_I": 141,
+    "RATIO_I": 0.4
+  },
+  {
+    "ZIP": 80428,
+    "CAPACITY_I": 30,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 20,
+    "RATIO_I": 0.7
+  },
+  {
+    "ZIP": 80433,
+    "CAPACITY_I": 180,
+    "NUMBER_OF_PROVIDERS_I": 3,
+    "POPULATION_I": 235,
+    "RATIO_I": 1.3
+  },
+  {
+    "ZIP": 80435,
+    "CAPACITY_I": 241,
+    "NUMBER_OF_PROVIDERS_I": 9,
+    "POPULATION_I": 360,
+    "RATIO_I": 1.5
+  },
+  {
+    "ZIP": 80439,
+    "CAPACITY_I": 580,
+    "NUMBER_OF_PROVIDERS_I": 12,
+    "POPULATION_I": 504,
+    "RATIO_I": 0.9
+  },
+  {
+    "ZIP": 80440,
+    "CAPACITY_I": 72,
+    "NUMBER_OF_PROVIDERS_I": 2,
+    "POPULATION_I": 64,
+    "RATIO_I": 0.9
+  },
+  {
+    "ZIP": 80442,
+    "CAPACITY_I": 83,
+    "NUMBER_OF_PROVIDERS_I": 3,
+    "POPULATION_I": 78,
+    "RATIO_I": 0.9
+  },
+  {
+    "ZIP": 80443,
+    "CAPACITY_I": 109,
+    "NUMBER_OF_PROVIDERS_I": 4,
+    "POPULATION_I": 78,
+    "RATIO_I": 0.7
+  },
+  {
+    "ZIP": 80444,
+    "CAPACITY_I": 81,
+    "NUMBER_OF_PROVIDERS_I": 2,
+    "POPULATION_I": 19,
+    "RATIO_I": 0.2
+  },
+  {
+    "ZIP": 80446,
+    "CAPACITY_I": 100,
+    "NUMBER_OF_PROVIDERS_I": 5,
+    "POPULATION_I": 154,
+    "RATIO_I": 1.5
+  },
+  {
+    "ZIP": 80452,
+    "CAPACITY_I": 50,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 113,
+    "RATIO_I": 2.3
+  },
+  {
+    "ZIP": 80454,
+    "CAPACITY_I": 15,
+    "NUMBER_OF_PROVIDERS_I": 2,
+    "POPULATION_I": 53,
+    "RATIO_I": 3.5
+  },
+  {
+    "ZIP": 80459,
+    "CAPACITY_I": 40,
+    "NUMBER_OF_PROVIDERS_I": 2,
+    "POPULATION_I": 98,
+    "RATIO_I": 2.4
+  },
+  {
+    "ZIP": 80461,
+    "CAPACITY_I": 157,
+    "NUMBER_OF_PROVIDERS_I": 2,
+    "POPULATION_I": 222,
+    "RATIO_I": 1.4
+  },
+  {
+    "ZIP": 80465,
+    "CAPACITY_I": 186,
+    "NUMBER_OF_PROVIDERS_I": 11,
+    "POPULATION_I": 432,
+    "RATIO_I": 2.3
+  },
+  {
+    "ZIP": 80466,
+    "CAPACITY_I": 97,
+    "NUMBER_OF_PROVIDERS_I": 4,
+    "POPULATION_I": 72,
+    "RATIO_I": 0.7
+  },
+  {
+    "ZIP": 80467,
+    "CAPACITY_I": 6,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 73,
+    "RATIO_I": 12.2
+  },
+  {
+    "ZIP": 80469,
+    "CAPACITY_I": 32,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 0,
+    "RATIO_I": 0
+  },
+  {
+    "ZIP": 80470,
+    "CAPACITY_I": 49,
+    "NUMBER_OF_PROVIDERS_I": 2,
+    "POPULATION_I": 69,
+    "RATIO_I": 1.4
+  },
+  {
+    "ZIP": 80477,
+    "CAPACITY_I": 139,
+    "NUMBER_OF_PROVIDERS_I": 5,
+    "POPULATION_I": 0,
+    "RATIO_I": 0
+  },
+  {
+    "ZIP": 80478,
+    "CAPACITY_I": 39,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 18,
+    "RATIO_I": 0.5
+  },
+  {
+    "ZIP": 80483,
+    "CAPACITY_I": 36,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 34,
+    "RATIO_I": 0.9
+  },
+  {
+    "ZIP": 80487,
+    "CAPACITY_I": 437,
+    "NUMBER_OF_PROVIDERS_I": 17,
+    "POPULATION_I": 424,
+    "RATIO_I": 1
+  },
+  {
+    "ZIP": 80498,
+    "CAPACITY_I": 96,
+    "NUMBER_OF_PROVIDERS_I": 6,
+    "POPULATION_I": 209,
+    "RATIO_I": 2.2
+  },
+  {
+    "ZIP": 80501,
+    "CAPACITY_I": 1983,
+    "NUMBER_OF_PROVIDERS_I": 44,
+    "POPULATION_I": 1643,
+    "RATIO_I": 0.8
+  },
+  {
+    "ZIP": 80503,
+    "CAPACITY_I": 424,
+    "NUMBER_OF_PROVIDERS_I": 9,
+    "POPULATION_I": 848,
+    "RATIO_I": 2
+  },
+  {
+    "ZIP": 80504,
+    "CAPACITY_I": 855,
+    "NUMBER_OF_PROVIDERS_I": 35,
+    "POPULATION_I": 2363,
+    "RATIO_I": 2.8
+  },
+  {
+    "ZIP": 80511,
+    "CAPACITY_I": 60,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 0,
+    "RATIO_I": 0
+  },
+  {
+    "ZIP": 80513,
+    "CAPACITY_I": 90,
+    "NUMBER_OF_PROVIDERS_I": 6,
+    "POPULATION_I": 384,
+    "RATIO_I": 4.3
+  },
+  {
+    "ZIP": 80516,
+    "CAPACITY_I": 818,
+    "NUMBER_OF_PROVIDERS_I": 20,
+    "POPULATION_I": 1164,
+    "RATIO_I": 1.4
+  },
+  {
+    "ZIP": 80517,
+    "CAPACITY_I": 74,
+    "NUMBER_OF_PROVIDERS_I": 6,
+    "POPULATION_I": 221,
+    "RATIO_I": 3
+  },
+  {
+    "ZIP": 80521,
+    "CAPACITY_I": 464,
+    "NUMBER_OF_PROVIDERS_I": 15,
+    "POPULATION_I": 765,
+    "RATIO_I": 1.6
+  },
+  {
+    "ZIP": 80524,
+    "CAPACITY_I": 522,
+    "NUMBER_OF_PROVIDERS_I": 10,
+    "POPULATION_I": 1332,
+    "RATIO_I": 2.6
+  },
+  {
+    "ZIP": 80525,
+    "CAPACITY_I": 2125,
+    "NUMBER_OF_PROVIDERS_I": 49,
+    "POPULATION_I": 1732,
+    "RATIO_I": 0.8
+  },
+  {
+    "ZIP": 80526,
+    "CAPACITY_I": 1315,
+    "NUMBER_OF_PROVIDERS_I": 52,
+    "POPULATION_I": 1519,
+    "RATIO_I": 1.2
+  },
+  {
+    "ZIP": 80528,
+    "CAPACITY_I": 424,
+    "NUMBER_OF_PROVIDERS_I": 11,
+    "POPULATION_I": 738,
+    "RATIO_I": 1.7
+  },
+  {
+    "ZIP": 80530,
+    "CAPACITY_I": 219,
+    "NUMBER_OF_PROVIDERS_I": 5,
+    "POPULATION_I": 257,
+    "RATIO_I": 1.2
+  },
+  {
+    "ZIP": 80534,
+    "CAPACITY_I": 204,
+    "NUMBER_OF_PROVIDERS_I": 17,
+    "POPULATION_I": 928,
+    "RATIO_I": 4.5
+  },
+  {
+    "ZIP": 80535,
+    "CAPACITY_I": 8,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 58,
+    "RATIO_I": 7.2
+  },
+  {
+    "ZIP": 80537,
+    "CAPACITY_I": 588,
+    "NUMBER_OF_PROVIDERS_I": 32,
+    "POPULATION_I": 1424,
+    "RATIO_I": 2.4
+  },
+  {
+    "ZIP": 80538,
+    "CAPACITY_I": 882,
+    "NUMBER_OF_PROVIDERS_I": 31,
+    "POPULATION_I": 1257,
+    "RATIO_I": 1.4
+  },
+  {
+    "ZIP": 80540,
+    "CAPACITY_I": 15,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 116,
+    "RATIO_I": 7.7
+  },
+  {
+    "ZIP": 80542,
+    "CAPACITY_I": 6,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 293,
+    "RATIO_I": 48.8
+  },
+  {
+    "ZIP": 80543,
+    "CAPACITY_I": 56,
+    "NUMBER_OF_PROVIDERS_I": 5,
+    "POPULATION_I": 309,
+    "RATIO_I": 5.5
+  },
+  {
+    "ZIP": 80547,
+    "CAPACITY_I": 18,
+    "NUMBER_OF_PROVIDERS_I": 2,
+    "POPULATION_I": 132,
+    "RATIO_I": 7.3
+  },
+  {
+    "ZIP": 80549,
+    "CAPACITY_I": 223,
+    "NUMBER_OF_PROVIDERS_I": 19,
+    "POPULATION_I": 592,
+    "RATIO_I": 2.7
+  },
+  {
+    "ZIP": 80550,
+    "CAPACITY_I": 495,
+    "NUMBER_OF_PROVIDERS_I": 25,
+    "POPULATION_I": 1243,
+    "RATIO_I": 2.5
+  },
+  {
+    "ZIP": 80601,
+    "CAPACITY_I": 674,
+    "NUMBER_OF_PROVIDERS_I": 21,
+    "POPULATION_I": 1414,
+    "RATIO_I": 2.1
+  },
+  {
+    "ZIP": 80602,
+    "CAPACITY_I": 313,
+    "NUMBER_OF_PROVIDERS_I": 23,
+    "POPULATION_I": 1510,
+    "RATIO_I": 4.8
+  },
+  {
+    "ZIP": 80603,
+    "CAPACITY_I": 80,
+    "NUMBER_OF_PROVIDERS_I": 6,
+    "POPULATION_I": 718,
+    "RATIO_I": 9
+  },
+  {
+    "ZIP": 80610,
+    "CAPACITY_I": 109,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 184,
+    "RATIO_I": 1.7
+  },
+  {
+    "ZIP": 80614,
+    "CAPACITY_I": 30,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": "",
+    "RATIO_I": ""
+  },
+  {
+    "ZIP": 80615,
+    "CAPACITY_I": 193,
+    "NUMBER_OF_PROVIDERS_I": 8,
+    "POPULATION_I": 368,
+    "RATIO_I": 1.9
+  },
+  {
+    "ZIP": 80620,
+    "CAPACITY_I": 188,
+    "NUMBER_OF_PROVIDERS_I": 8,
+    "POPULATION_I": 1030,
+    "RATIO_I": 5.5
+  },
+  {
+    "ZIP": 80621,
+    "CAPACITY_I": 62,
+    "NUMBER_OF_PROVIDERS_I": 4,
+    "POPULATION_I": 557,
+    "RATIO_I": 9
+  },
+  {
+    "ZIP": 80631,
+    "CAPACITY_I": 1127,
+    "NUMBER_OF_PROVIDERS_I": 24,
+    "POPULATION_I": 2735,
+    "RATIO_I": 2.4
+  },
+  {
+    "ZIP": 80634,
+    "CAPACITY_I": 1363,
+    "NUMBER_OF_PROVIDERS_I": 52,
+    "POPULATION_I": 2284,
+    "RATIO_I": 1.7
+  },
+  {
+    "ZIP": 80640,
+    "CAPACITY_I": 30,
+    "NUMBER_OF_PROVIDERS_I": 5,
+    "POPULATION_I": 695,
+    "RATIO_I": 23.2
+  },
+  {
+    "ZIP": 80642,
+    "CAPACITY_I": 6,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 143,
+    "RATIO_I": 23.8
+  },
+  {
+    "ZIP": 80643,
+    "CAPACITY_I": 12,
+    "NUMBER_OF_PROVIDERS_I": 2,
+    "POPULATION_I": 125,
+    "RATIO_I": 10.4
+  },
+  {
+    "ZIP": 80644,
+    "CAPACITY_I": 102,
+    "NUMBER_OF_PROVIDERS_I": 3,
+    "POPULATION_I": 134,
+    "RATIO_I": 1.3
+  },
+  {
+    "ZIP": 80645,
+    "CAPACITY_I": 21,
+    "NUMBER_OF_PROVIDERS_I": 2,
+    "POPULATION_I": 214,
+    "RATIO_I": 10.2
+  },
+  {
+    "ZIP": 80651,
+    "CAPACITY_I": 12,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 113,
+    "RATIO_I": 9.4
+  },
+  {
+    "ZIP": 80653,
+    "CAPACITY_I": 30,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 23,
+    "RATIO_I": 0.8
+  },
+  {
+    "ZIP": 80654,
+    "CAPACITY_I": 66,
+    "NUMBER_OF_PROVIDERS_I": 2,
+    "POPULATION_I": 118,
+    "RATIO_I": 1.8
+  },
+  {
+    "ZIP": 80701,
+    "CAPACITY_I": 331,
+    "NUMBER_OF_PROVIDERS_I": 16,
+    "POPULATION_I": 498,
+    "RATIO_I": 1.5
+  },
+  {
+    "ZIP": 80720,
+    "CAPACITY_I": 141,
+    "NUMBER_OF_PROVIDERS_I": 6,
+    "POPULATION_I": 98,
+    "RATIO_I": 0.7
+  },
+  {
+    "ZIP": 80723,
+    "CAPACITY_I": 242,
+    "NUMBER_OF_PROVIDERS_I": 7,
+    "POPULATION_I": 539,
+    "RATIO_I": 2.2
+  },
+  {
+    "ZIP": 80728,
+    "CAPACITY_I": 12,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 52,
+    "RATIO_I": 4.3
+  },
+  {
+    "ZIP": 80731,
+    "CAPACITY_I": 84,
+    "NUMBER_OF_PROVIDERS_I": 3,
+    "POPULATION_I": 61,
+    "RATIO_I": 0.7
+  },
+  {
+    "ZIP": 80734,
+    "CAPACITY_I": 30,
+    "NUMBER_OF_PROVIDERS_I": 3,
+    "POPULATION_I": 161,
+    "RATIO_I": 5.4
+  },
+  {
+    "ZIP": 80735,
+    "CAPACITY_I": 30,
+    "NUMBER_OF_PROVIDERS_I": 2,
+    "POPULATION_I": 27,
+    "RATIO_I": 0.9
+  },
+  {
+    "ZIP": 80736,
+    "CAPACITY_I": 133,
+    "NUMBER_OF_PROVIDERS_I": 2,
+    "POPULATION_I": 15,
+    "RATIO_I": 0.1
+  },
+  {
+    "ZIP": 80737,
+    "CAPACITY_I": 46,
+    "NUMBER_OF_PROVIDERS_I": 2,
+    "POPULATION_I": 74,
+    "RATIO_I": 1.6
+  },
+  {
+    "ZIP": 80741,
+    "CAPACITY_I": 21,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 27,
+    "RATIO_I": 1.3
+  },
+  {
+    "ZIP": 80743,
+    "CAPACITY_I": 28,
+    "NUMBER_OF_PROVIDERS_I": 3,
+    "POPULATION_I": 18,
+    "RATIO_I": 0.6
+  },
+  {
+    "ZIP": 80744,
+    "CAPACITY_I": 51,
+    "NUMBER_OF_PROVIDERS_I": 2,
+    "POPULATION_I": 7,
+    "RATIO_I": 0.1
+  },
+  {
+    "ZIP": 80747,
+    "CAPACITY_I": 16,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 7,
+    "RATIO_I": 0.4
+  },
+  {
+    "ZIP": 80751,
+    "CAPACITY_I": 390,
+    "NUMBER_OF_PROVIDERS_I": 22,
+    "POPULATION_I": 895,
+    "RATIO_I": 2.3
+  },
+  {
+    "ZIP": 80757,
+    "CAPACITY_I": 15,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 15,
+    "RATIO_I": 1
+  },
+  {
+    "ZIP": 80758,
+    "CAPACITY_I": 126,
+    "NUMBER_OF_PROVIDERS_I": 6,
+    "POPULATION_I": 158,
+    "RATIO_I": 1.3
+  },
+  {
+    "ZIP": 80759,
+    "CAPACITY_I": 42,
+    "NUMBER_OF_PROVIDERS_I": 6,
+    "POPULATION_I": 190,
+    "RATIO_I": 4.5
+  },
+  {
+    "ZIP": 80801,
+    "CAPACITY_I": 15,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 1,
+    "RATIO_I": 0.1
+  },
+  {
+    "ZIP": 80805,
+    "CAPACITY_I": 15,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 10,
+    "RATIO_I": 0.7
+  },
+  {
+    "ZIP": 80807,
+    "CAPACITY_I": 48,
+    "NUMBER_OF_PROVIDERS_I": 5,
+    "POPULATION_I": 209,
+    "RATIO_I": 4.4
+  },
+  {
+    "ZIP": 80808,
+    "CAPACITY_I": 12,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 249,
+    "RATIO_I": 20.8
+  },
+  {
+    "ZIP": 80810,
+    "CAPACITY_I": 18,
+    "NUMBER_OF_PROVIDERS_I": 2,
+    "POPULATION_I": 65,
+    "RATIO_I": 3.6
+  },
+  {
+    "ZIP": 80813,
+    "CAPACITY_I": 56,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 85,
+    "RATIO_I": 1.5
+  },
+  {
+    "ZIP": 80814,
+    "CAPACITY_I": 40,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 43,
+    "RATIO_I": 1.1
+  },
+  {
+    "ZIP": 80815,
+    "CAPACITY_I": 20,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 21,
+    "RATIO_I": 1
+  },
+  {
+    "ZIP": 80816,
+    "CAPACITY_I": 22,
+    "NUMBER_OF_PROVIDERS_I": 2,
+    "POPULATION_I": 130,
+    "RATIO_I": 5.9
+  },
+  {
+    "ZIP": 80817,
+    "CAPACITY_I": 228,
+    "NUMBER_OF_PROVIDERS_I": 18,
+    "POPULATION_I": 1888,
+    "RATIO_I": 8.3
+  },
+  {
+    "ZIP": 80822,
+    "CAPACITY_I": 15,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 0,
+    "RATIO_I": 0
+  },
+  {
+    "ZIP": 80827,
+    "CAPACITY_I": 6,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 4,
+    "RATIO_I": 0.7
+  },
+  {
+    "ZIP": 80828,
+    "CAPACITY_I": 131,
+    "NUMBER_OF_PROVIDERS_I": 2,
+    "POPULATION_I": 60,
+    "RATIO_I": 0.5
+  },
+  {
+    "ZIP": 80829,
+    "CAPACITY_I": 15,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 120,
+    "RATIO_I": 8
+  },
+  {
+    "ZIP": 80831,
+    "CAPACITY_I": 326,
+    "NUMBER_OF_PROVIDERS_I": 18,
+    "POPULATION_I": 675,
+    "RATIO_I": 2.1
+  },
+  {
+    "ZIP": 80833,
+    "CAPACITY_I": 30,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 19,
+    "RATIO_I": 0.6
+  },
+  {
+    "ZIP": 80834,
+    "CAPACITY_I": 15,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 5,
+    "RATIO_I": 0.3
+  },
+  {
+    "ZIP": 80835,
+    "CAPACITY_I": 6,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 58,
+    "RATIO_I": 9.7
+  },
+  {
+    "ZIP": 80863,
+    "CAPACITY_I": 263,
+    "NUMBER_OF_PROVIDERS_I": 8,
+    "POPULATION_I": 279,
+    "RATIO_I": 1.1
+  },
+  {
+    "ZIP": 80864,
+    "CAPACITY_I": 15,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 31,
+    "RATIO_I": 2.1
+  },
+  {
+    "ZIP": 80866,
+    "CAPACITY_I": 100,
+    "NUMBER_OF_PROVIDERS_I": 2,
+    "POPULATION_I": "",
+    "RATIO_I": ""
+  },
+  {
+    "ZIP": 80903,
+    "CAPACITY_I": 684,
+    "NUMBER_OF_PROVIDERS_I": 12,
+    "POPULATION_I": 340,
+    "RATIO_I": 0.5
+  },
+  {
+    "ZIP": 80904,
+    "CAPACITY_I": 336,
+    "NUMBER_OF_PROVIDERS_I": 6,
+    "POPULATION_I": 421,
+    "RATIO_I": 1.3
+  },
+  {
+    "ZIP": 80905,
+    "CAPACITY_I": 293,
+    "NUMBER_OF_PROVIDERS_I": 8,
+    "POPULATION_I": 734,
+    "RATIO_I": 2.5
+  },
+  {
+    "ZIP": 80906,
+    "CAPACITY_I": 797,
+    "NUMBER_OF_PROVIDERS_I": 20,
+    "POPULATION_I": 1239,
+    "RATIO_I": 1.6
+  },
+  {
+    "ZIP": 80907,
+    "CAPACITY_I": 462,
+    "NUMBER_OF_PROVIDERS_I": 14,
+    "POPULATION_I": 639,
+    "RATIO_I": 1.4
+  },
+  {
+    "ZIP": 80908,
+    "CAPACITY_I": 40,
+    "NUMBER_OF_PROVIDERS_I": 5,
+    "POPULATION_I": 567,
+    "RATIO_I": 14.2
+  },
+  {
+    "ZIP": 80909,
+    "CAPACITY_I": 759,
+    "NUMBER_OF_PROVIDERS_I": 18,
+    "POPULATION_I": 1613,
+    "RATIO_I": 2.1
+  },
+  {
+    "ZIP": 80910,
+    "CAPACITY_I": 312,
+    "NUMBER_OF_PROVIDERS_I": 15,
+    "POPULATION_I": 1416,
+    "RATIO_I": 4.5
+  },
+  {
+    "ZIP": 80911,
+    "CAPACITY_I": 535,
+    "NUMBER_OF_PROVIDERS_I": 35,
+    "POPULATION_I": 1469,
+    "RATIO_I": 2.7
+  },
+  {
+    "ZIP": 80913,
+    "CAPACITY_I": 98,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 21,
+    "RATIO_I": 0.2
+  },
+  {
+    "ZIP": 80915,
+    "CAPACITY_I": 121,
+    "NUMBER_OF_PROVIDERS_I": 10,
+    "POPULATION_I": 786,
+    "RATIO_I": 6.5
+  },
+  {
+    "ZIP": 80916,
+    "CAPACITY_I": 670,
+    "NUMBER_OF_PROVIDERS_I": 19,
+    "POPULATION_I": 2804,
+    "RATIO_I": 4.2
+  },
+  {
+    "ZIP": 80917,
+    "CAPACITY_I": 553,
+    "NUMBER_OF_PROVIDERS_I": 16,
+    "POPULATION_I": 1086,
+    "RATIO_I": 2
+  },
+  {
+    "ZIP": 80918,
+    "CAPACITY_I": 1278,
+    "NUMBER_OF_PROVIDERS_I": 29,
+    "POPULATION_I": 1699,
+    "RATIO_I": 1.3
+  },
+  {
+    "ZIP": 80919,
+    "CAPACITY_I": 639,
+    "NUMBER_OF_PROVIDERS_I": 12,
+    "POPULATION_I": 862,
+    "RATIO_I": 1.3
+  },
+  {
+    "ZIP": 80920,
+    "CAPACITY_I": 974,
+    "NUMBER_OF_PROVIDERS_I": 24,
+    "POPULATION_I": 1592,
+    "RATIO_I": 1.6
+  },
+  {
+    "ZIP": 80921,
+    "CAPACITY_I": 482,
+    "NUMBER_OF_PROVIDERS_I": 3,
+    "POPULATION_I": 854,
+    "RATIO_I": 1.8
+  },
+  {
+    "ZIP": 80922,
+    "CAPACITY_I": 1096,
+    "NUMBER_OF_PROVIDERS_I": 26,
+    "POPULATION_I": 1395,
+    "RATIO_I": 1.3
+  },
+  {
+    "ZIP": 80923,
+    "CAPACITY_I": 810,
+    "NUMBER_OF_PROVIDERS_I": 20,
+    "POPULATION_I": 1538,
+    "RATIO_I": 1.9
+  },
+  {
+    "ZIP": 80924,
+    "CAPACITY_I": 6,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 305,
+    "RATIO_I": 50.8
+  },
+  {
+    "ZIP": 80925,
+    "CAPACITY_I": 234,
+    "NUMBER_OF_PROVIDERS_I": 11,
+    "POPULATION_I": 674,
+    "RATIO_I": 2.9
+  },
+  {
+    "ZIP": 80927,
+    "CAPACITY_I": 18,
+    "NUMBER_OF_PROVIDERS_I": 3,
+    "POPULATION_I": 171,
+    "RATIO_I": 9.5
+  },
+  {
+    "ZIP": 80951,
+    "CAPACITY_I": 14,
+    "NUMBER_OF_PROVIDERS_I": 2,
+    "POPULATION_I": 402,
+    "RATIO_I": 28.7
+  },
+  {
+    "ZIP": 81001,
+    "CAPACITY_I": 464,
+    "NUMBER_OF_PROVIDERS_I": 21,
+    "POPULATION_I": 1417,
+    "RATIO_I": 3.1
+  },
+  {
+    "ZIP": 81003,
+    "CAPACITY_I": 261,
+    "NUMBER_OF_PROVIDERS_I": 7,
+    "POPULATION_I": 373,
+    "RATIO_I": 1.4
+  },
+  {
+    "ZIP": 81004,
+    "CAPACITY_I": 778,
+    "NUMBER_OF_PROVIDERS_I": 15,
+    "POPULATION_I": 1029,
+    "RATIO_I": 1.3
+  },
+  {
+    "ZIP": 81005,
+    "CAPACITY_I": 477,
+    "NUMBER_OF_PROVIDERS_I": 22,
+    "POPULATION_I": 1003,
+    "RATIO_I": 2.1
+  },
+  {
+    "ZIP": 81006,
+    "CAPACITY_I": 105,
+    "NUMBER_OF_PROVIDERS_I": 12,
+    "POPULATION_I": 306,
+    "RATIO_I": 2.9
+  },
+  {
+    "ZIP": 81007,
+    "CAPACITY_I": 405,
+    "NUMBER_OF_PROVIDERS_I": 19,
+    "POPULATION_I": 922,
+    "RATIO_I": 2.3
+  },
+  {
+    "ZIP": 81008,
+    "CAPACITY_I": 166,
+    "NUMBER_OF_PROVIDERS_I": 5,
+    "POPULATION_I": 414,
+    "RATIO_I": 2.5
+  },
+  {
+    "ZIP": 81017,
+    "CAPACITY_I": 15,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": "",
+    "RATIO_I": ""
+  },
+  {
+    "ZIP": 81020,
+    "CAPACITY_I": 15,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 9,
+    "RATIO_I": 0.6
+  },
+  {
+    "ZIP": 81025,
+    "CAPACITY_I": 133,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 31,
+    "RATIO_I": 0.2
+  },
+  {
+    "ZIP": 81029,
+    "CAPACITY_I": 15,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 6,
+    "RATIO_I": 0.4
+  },
+  {
+    "ZIP": 81030,
+    "CAPACITY_I": 15,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 5,
+    "RATIO_I": 0.3
+  },
+  {
+    "ZIP": 81039,
+    "CAPACITY_I": 20,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 61,
+    "RATIO_I": 3
+  },
+  {
+    "ZIP": 81047,
+    "CAPACITY_I": 44,
+    "NUMBER_OF_PROVIDERS_I": 2,
+    "POPULATION_I": 96,
+    "RATIO_I": 2.2
+  },
+  {
+    "ZIP": 81050,
+    "CAPACITY_I": 309,
+    "NUMBER_OF_PROVIDERS_I": 6,
+    "POPULATION_I": 325,
+    "RATIO_I": 1.1
+  },
+  {
+    "ZIP": 81052,
+    "CAPACITY_I": 241,
+    "NUMBER_OF_PROVIDERS_I": 7,
+    "POPULATION_I": 357,
+    "RATIO_I": 1.5
+  },
+  {
+    "ZIP": 81054,
+    "CAPACITY_I": 128,
+    "NUMBER_OF_PROVIDERS_I": 4,
+    "POPULATION_I": 104,
+    "RATIO_I": 0.8
+  },
+  {
+    "ZIP": 81055,
+    "CAPACITY_I": 19,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 12,
+    "RATIO_I": 0.6
+  },
+  {
+    "ZIP": 81057,
+    "CAPACITY_I": 35,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 19,
+    "RATIO_I": 0.5
+  },
+  {
+    "ZIP": 81058,
+    "CAPACITY_I": 65,
+    "NUMBER_OF_PROVIDERS_I": 2,
+    "POPULATION_I": 22,
+    "RATIO_I": 0.3
+  },
+  {
+    "ZIP": 81063,
+    "CAPACITY_I": 74,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 38,
+    "RATIO_I": 0.5
+  },
+  {
+    "ZIP": 81067,
+    "CAPACITY_I": 154,
+    "NUMBER_OF_PROVIDERS_I": 4,
+    "POPULATION_I": 211,
+    "RATIO_I": 1.4
+  },
+  {
+    "ZIP": 81073,
+    "CAPACITY_I": 90,
+    "NUMBER_OF_PROVIDERS_I": 2,
+    "POPULATION_I": 59,
+    "RATIO_I": 0.7
+  },
+  {
+    "ZIP": 81077,
+    "CAPACITY_I": 9,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 36,
+    "RATIO_I": 4
+  },
+  {
+    "ZIP": 81082,
+    "CAPACITY_I": 296,
+    "NUMBER_OF_PROVIDERS_I": 4,
+    "POPULATION_I": 374,
+    "RATIO_I": 1.3
+  },
+  {
+    "ZIP": 81089,
+    "CAPACITY_I": 91,
+    "NUMBER_OF_PROVIDERS_I": 2,
+    "POPULATION_I": 18,
+    "RATIO_I": 0.2
+  },
+  {
+    "ZIP": 81091,
+    "CAPACITY_I": 21,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 9,
+    "RATIO_I": 0.4
+  },
+  {
+    "ZIP": 81092,
+    "CAPACITY_I": 30,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 32,
+    "RATIO_I": 1.1
+  },
+  {
+    "ZIP": 81101,
+    "CAPACITY_I": 403,
+    "NUMBER_OF_PROVIDERS_I": 12,
+    "POPULATION_I": 544,
+    "RATIO_I": 1.3
+  },
+  {
+    "ZIP": 81102,
+    "CAPACITY_I": 87,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": "",
+    "RATIO_I": ""
+  },
+  {
+    "ZIP": 81120,
+    "CAPACITY_I": 6,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 58,
+    "RATIO_I": 9.7
+  },
+  {
+    "ZIP": 81121,
+    "CAPACITY_I": 30,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 9,
+    "RATIO_I": 0.3
+  },
+  {
+    "ZIP": 81122,
+    "CAPACITY_I": 109,
+    "NUMBER_OF_PROVIDERS_I": 6,
+    "POPULATION_I": 269,
+    "RATIO_I": 2.5
+  },
+  {
+    "ZIP": 81123,
+    "CAPACITY_I": 55,
+    "NUMBER_OF_PROVIDERS_I": 2,
+    "POPULATION_I": 63,
+    "RATIO_I": 1.1
+  },
+  {
+    "ZIP": 81125,
+    "CAPACITY_I": 274,
+    "NUMBER_OF_PROVIDERS_I": 4,
+    "POPULATION_I": 159,
+    "RATIO_I": 0.6
+  },
+  {
+    "ZIP": 81129,
+    "CAPACITY_I": 57,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 8,
+    "RATIO_I": 0.1
+  },
+  {
+    "ZIP": 81130,
+    "CAPACITY_I": 35,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 10,
+    "RATIO_I": 0.3
+  },
+  {
+    "ZIP": 81132,
+    "CAPACITY_I": 109,
+    "NUMBER_OF_PROVIDERS_I": 2,
+    "POPULATION_I": 59,
+    "RATIO_I": 0.5
+  },
+  {
+    "ZIP": 81137,
+    "CAPACITY_I": 46,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 220,
+    "RATIO_I": 4.8
+  },
+  {
+    "ZIP": 81140,
+    "CAPACITY_I": 90,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 108,
+    "RATIO_I": 1.2
+  },
+  {
+    "ZIP": 81143,
+    "CAPACITY_I": 20,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 12,
+    "RATIO_I": 0.6
+  },
+  {
+    "ZIP": 81144,
+    "CAPACITY_I": 288,
+    "NUMBER_OF_PROVIDERS_I": 9,
+    "POPULATION_I": 293,
+    "RATIO_I": 1
+  },
+  {
+    "ZIP": 81147,
+    "CAPACITY_I": 221,
+    "NUMBER_OF_PROVIDERS_I": 9,
+    "POPULATION_I": 362,
+    "RATIO_I": 1.6
+  },
+  {
+    "ZIP": 81149,
+    "CAPACITY_I": 15,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 16,
+    "RATIO_I": 1.1
+  },
+  {
+    "ZIP": 81151,
+    "CAPACITY_I": 68,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 76,
+    "RATIO_I": 1.1
+  },
+  {
+    "ZIP": 81152,
+    "CAPACITY_I": 24,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 18,
+    "RATIO_I": 0.8
+  },
+  {
+    "ZIP": 81201,
+    "CAPACITY_I": 219,
+    "NUMBER_OF_PROVIDERS_I": 6,
+    "POPULATION_I": 205,
+    "RATIO_I": 0.9
+  },
+  {
+    "ZIP": 81211,
+    "CAPACITY_I": 232,
+    "NUMBER_OF_PROVIDERS_I": 6,
+    "POPULATION_I": 130,
+    "RATIO_I": 0.6
+  },
+  {
+    "ZIP": 81212,
+    "CAPACITY_I": 641,
+    "NUMBER_OF_PROVIDERS_I": 13,
+    "POPULATION_I": 736,
+    "RATIO_I": 1.1
+  },
+  {
+    "ZIP": 81223,
+    "CAPACITY_I": 30,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 0,
+    "RATIO_I": 0
+  },
+  {
+    "ZIP": 81224,
+    "CAPACITY_I": 150,
+    "NUMBER_OF_PROVIDERS_I": 3,
+    "POPULATION_I": 198,
+    "RATIO_I": 1.3
+  },
+  {
+    "ZIP": 81226,
+    "CAPACITY_I": 104,
+    "NUMBER_OF_PROVIDERS_I": 2,
+    "POPULATION_I": 124,
+    "RATIO_I": 1.2
+  },
+  {
+    "ZIP": 81230,
+    "CAPACITY_I": 261,
+    "NUMBER_OF_PROVIDERS_I": 8,
+    "POPULATION_I": 232,
+    "RATIO_I": 0.9
+  },
+  {
+    "ZIP": 81235,
+    "CAPACITY_I": 15,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 15,
+    "RATIO_I": 1
+  },
+  {
+    "ZIP": 81240,
+    "CAPACITY_I": 96,
+    "NUMBER_OF_PROVIDERS_I": 2,
+    "POPULATION_I": 143,
+    "RATIO_I": 1.5
+  },
+  {
+    "ZIP": 81252,
+    "CAPACITY_I": 15,
+    "NUMBER_OF_PROVIDERS_I": 2,
+    "POPULATION_I": 94,
+    "RATIO_I": 6.3
+  },
+  {
+    "ZIP": 81301,
+    "CAPACITY_I": 1035,
+    "NUMBER_OF_PROVIDERS_I": 29,
+    "POPULATION_I": 821,
+    "RATIO_I": 0.8
+  },
+  {
+    "ZIP": 81303,
+    "CAPACITY_I": 42,
+    "NUMBER_OF_PROVIDERS_I": 3,
+    "POPULATION_I": 234,
+    "RATIO_I": 5.6
+  },
+  {
+    "ZIP": 81321,
+    "CAPACITY_I": 423,
+    "NUMBER_OF_PROVIDERS_I": 9,
+    "POPULATION_I": 443,
+    "RATIO_I": 1
+  },
+  {
+    "ZIP": 81323,
+    "CAPACITY_I": 95,
+    "NUMBER_OF_PROVIDERS_I": 2,
+    "POPULATION_I": 109,
+    "RATIO_I": 1.1
+  },
+  {
+    "ZIP": 81324,
+    "CAPACITY_I": 20,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 25,
+    "RATIO_I": 1.2
+  },
+  {
+    "ZIP": 81326,
+    "CAPACITY_I": 16,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 48,
+    "RATIO_I": 3
+  },
+  {
+    "ZIP": 81328,
+    "CAPACITY_I": 60,
+    "NUMBER_OF_PROVIDERS_I": 2,
+    "POPULATION_I": 123,
+    "RATIO_I": 2
+  },
+  {
+    "ZIP": 81401,
+    "CAPACITY_I": 740,
+    "NUMBER_OF_PROVIDERS_I": 19,
+    "POPULATION_I": 750,
+    "RATIO_I": 1
+  },
+  {
+    "ZIP": 81402,
+    "CAPACITY_I": 6,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": "",
+    "RATIO_I": ""
+  },
+  {
+    "ZIP": 81403,
+    "CAPACITY_I": 36,
+    "NUMBER_OF_PROVIDERS_I": 4,
+    "POPULATION_I": 309,
+    "RATIO_I": 8.6
+  },
+  {
+    "ZIP": 81410,
+    "CAPACITY_I": 12,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 37,
+    "RATIO_I": 3.1
+  },
+  {
+    "ZIP": 81415,
+    "CAPACITY_I": 46,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 37,
+    "RATIO_I": 0.8
+  },
+  {
+    "ZIP": 81416,
+    "CAPACITY_I": 264,
+    "NUMBER_OF_PROVIDERS_I": 9,
+    "POPULATION_I": 520,
+    "RATIO_I": 2
+  },
+  {
+    "ZIP": 81418,
+    "CAPACITY_I": 6,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 48,
+    "RATIO_I": 8
+  },
+  {
+    "ZIP": 81419,
+    "CAPACITY_I": 6,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 90,
+    "RATIO_I": 15
+  },
+  {
+    "ZIP": 81422,
+    "CAPACITY_I": 30,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 22,
+    "RATIO_I": 0.7
+  },
+  {
+    "ZIP": 81423,
+    "CAPACITY_I": 67,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 85,
+    "RATIO_I": 1.3
+  },
+  {
+    "ZIP": 81425,
+    "CAPACITY_I": 53,
+    "NUMBER_OF_PROVIDERS_I": 2,
+    "POPULATION_I": 238,
+    "RATIO_I": 4.5
+  },
+  {
+    "ZIP": 81427,
+    "CAPACITY_I": 15,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 27,
+    "RATIO_I": 1.8
+  },
+  {
+    "ZIP": 81428,
+    "CAPACITY_I": 27,
+    "NUMBER_OF_PROVIDERS_I": 2,
+    "POPULATION_I": 87,
+    "RATIO_I": 3.2
+  },
+  {
+    "ZIP": 81432,
+    "CAPACITY_I": 53,
+    "NUMBER_OF_PROVIDERS_I": 3,
+    "POPULATION_I": 55,
+    "RATIO_I": 1
+  },
+  {
+    "ZIP": 81433,
+    "CAPACITY_I": 30,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 19,
+    "RATIO_I": 0.6
+  },
+  {
+    "ZIP": 81435,
+    "CAPACITY_I": 231,
+    "NUMBER_OF_PROVIDERS_I": 8,
+    "POPULATION_I": 123,
+    "RATIO_I": 0.5
+  },
+  {
+    "ZIP": 81501,
+    "CAPACITY_I": 803,
+    "NUMBER_OF_PROVIDERS_I": 17,
+    "POPULATION_I": 849,
+    "RATIO_I": 1.1
+  },
+  {
+    "ZIP": 81503,
+    "CAPACITY_I": 141,
+    "NUMBER_OF_PROVIDERS_I": 13,
+    "POPULATION_I": 625,
+    "RATIO_I": 4.4
+  },
+  {
+    "ZIP": 81504,
+    "CAPACITY_I": 483,
+    "NUMBER_OF_PROVIDERS_I": 25,
+    "POPULATION_I": 1063,
+    "RATIO_I": 2.2
+  },
+  {
+    "ZIP": 81505,
+    "CAPACITY_I": 36,
+    "NUMBER_OF_PROVIDERS_I": 3,
+    "POPULATION_I": 218,
+    "RATIO_I": 6.1
+  },
+  {
+    "ZIP": 81506,
+    "CAPACITY_I": 469,
+    "NUMBER_OF_PROVIDERS_I": 8,
+    "POPULATION_I": 323,
+    "RATIO_I": 0.7
+  },
+  {
+    "ZIP": 81507,
+    "CAPACITY_I": 195,
+    "NUMBER_OF_PROVIDERS_I": 5,
+    "POPULATION_I": 308,
+    "RATIO_I": 1.6
+  },
+  {
+    "ZIP": 81520,
+    "CAPACITY_I": 136,
+    "NUMBER_OF_PROVIDERS_I": 9,
+    "POPULATION_I": 456,
+    "RATIO_I": 3.4
+  },
+  {
+    "ZIP": 81521,
+    "CAPACITY_I": 261,
+    "NUMBER_OF_PROVIDERS_I": 10,
+    "POPULATION_I": 358,
+    "RATIO_I": 1.4
+  },
+  {
+    "ZIP": 81526,
+    "CAPACITY_I": 52,
+    "NUMBER_OF_PROVIDERS_I": 2,
+    "POPULATION_I": 121,
+    "RATIO_I": 2.3
+  },
+  {
+    "ZIP": 81601,
+    "CAPACITY_I": 479,
+    "NUMBER_OF_PROVIDERS_I": 14,
+    "POPULATION_I": 604,
+    "RATIO_I": 1.3
+  },
+  {
+    "ZIP": 81611,
+    "CAPACITY_I": 350,
+    "NUMBER_OF_PROVIDERS_I": 7,
+    "POPULATION_I": 280,
+    "RATIO_I": 0.8
+  },
+  {
+    "ZIP": 81615,
+    "CAPACITY_I": 130,
+    "NUMBER_OF_PROVIDERS_I": 3,
+    "POPULATION_I": 0,
+    "RATIO_I": 0
+  },
+  {
+    "ZIP": 81620,
+    "CAPACITY_I": 376,
+    "NUMBER_OF_PROVIDERS_I": 10,
+    "POPULATION_I": 502,
+    "RATIO_I": 1.3
+  },
+  {
+    "ZIP": 81621,
+    "CAPACITY_I": 175,
+    "NUMBER_OF_PROVIDERS_I": 7,
+    "POPULATION_I": 158,
+    "RATIO_I": 0.9
+  },
+  {
+    "ZIP": 81623,
+    "CAPACITY_I": 454,
+    "NUMBER_OF_PROVIDERS_I": 11,
+    "POPULATION_I": 665,
+    "RATIO_I": 1.5
+  },
+  {
+    "ZIP": 81624,
+    "CAPACITY_I": 20,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 47,
+    "RATIO_I": 2.4
+  },
+  {
+    "ZIP": 81625,
+    "CAPACITY_I": 253,
+    "NUMBER_OF_PROVIDERS_I": 9,
+    "POPULATION_I": 470,
+    "RATIO_I": 1.9
+  },
+  {
+    "ZIP": 81631,
+    "CAPACITY_I": 280,
+    "NUMBER_OF_PROVIDERS_I": 11,
+    "POPULATION_I": 303,
+    "RATIO_I": 1.1
+  },
+  {
+    "ZIP": 81632,
+    "CAPACITY_I": 397,
+    "NUMBER_OF_PROVIDERS_I": 7,
+    "POPULATION_I": 284,
+    "RATIO_I": 0.7
+  },
+  {
+    "ZIP": 81635,
+    "CAPACITY_I": 162,
+    "NUMBER_OF_PROVIDERS_I": 7,
+    "POPULATION_I": 315,
+    "RATIO_I": 1.9
+  },
+  {
+    "ZIP": 81637,
+    "CAPACITY_I": 244,
+    "NUMBER_OF_PROVIDERS_I": 8,
+    "POPULATION_I": 322,
+    "RATIO_I": 1.3
+  },
+  {
+    "ZIP": 81639,
+    "CAPACITY_I": 117,
+    "NUMBER_OF_PROVIDERS_I": 4,
+    "POPULATION_I": 70,
+    "RATIO_I": 0.6
+  },
+  {
+    "ZIP": 81641,
+    "CAPACITY_I": 6,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 101,
+    "RATIO_I": 16.8
+  },
+  {
+    "ZIP": 81645,
+    "CAPACITY_I": 40,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 13,
+    "RATIO_I": 0.3
+  },
+  {
+    "ZIP": 81647,
+    "CAPACITY_I": 45,
+    "NUMBER_OF_PROVIDERS_I": 4,
+    "POPULATION_I": 345,
+    "RATIO_I": 7.7
+  },
+  {
+    "ZIP": 81648,
+    "CAPACITY_I": 27,
+    "NUMBER_OF_PROVIDERS_I": 3,
+    "POPULATION_I": 104,
+    "RATIO_I": 3.9
+  },
+  {
+    "ZIP": 81650,
+    "CAPACITY_I": 185,
+    "NUMBER_OF_PROVIDERS_I": 11,
+    "POPULATION_I": 469,
+    "RATIO_I": 2.5
+  },
+  {
+    "ZIP": 81652,
+    "CAPACITY_I": 53,
+    "NUMBER_OF_PROVIDERS_I": 7,
+    "POPULATION_I": 259,
+    "RATIO_I": 4.9
+  },
+  {
+    "ZIP": 81656,
+    "CAPACITY_I": 30,
+    "NUMBER_OF_PROVIDERS_I": 1,
+    "POPULATION_I": 0,
+    "RATIO_I": 0
+  },
+  {
+    "ZIP": 81657,
+    "CAPACITY_I": 148,
+    "NUMBER_OF_PROVIDERS_I": 4,
+    "POPULATION_I": 59,
+    "RATIO_I": 0.4
+  }
+]

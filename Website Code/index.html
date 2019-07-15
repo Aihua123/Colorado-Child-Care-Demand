@@ -1,0 +1,391 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A layout example that shows off a responsive product landing page.">
+    <title>Colorado Child Care Demand</title>
+
+    <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.1/build/pure-min.css" integrity="sha384-"
+        crossorigin="anonymous">
+
+    <!--[if lte IE 8]>
+        <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.1/build/grids-responsive-old-ie-min.css">
+    <![endif]-->
+    <!--[if gt IE 8]><!-->
+    <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.1/build/grids-responsive-min.css">
+    <!--<![endif]-->
+
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
+
+    <!--[if lte IE 8]>
+            <link rel="stylesheet" href="css/layouts/marketing-old-ie.css">
+        <![endif]-->
+    <!--[if gt IE 8]><!-->
+    <link rel="stylesheet" href="css/layouts/marketing.css">
+    <!--<![endif]-->
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js"></script>
+
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- <link rel="stylesheet" type="text/css" href="style.css"> -->
+
+
+    <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+
+
+</head>
+
+<body>
+
+    <script type="text/javascript" src="config.js"></script>
+
+
+    <div class="header">
+        <div class="home-menu pure-menu pure-menu-horizontal pure-menu-fixed">
+
+
+
+            <div id="icon">
+                <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="32" height="32" viewBox="0 0 48 48"
+                    style=" fill:#659dbd;">
+                    <path fill="#90a4ae"
+                        d="M11 21c-.288 0-.575.151-.725.449L0 42h22L11.725 21.449C11.575 21.151 11.288 21 11 21zM40.206 30.475L34 42h14l-6.206-11.525C41.624 30.159 41.312 30 41 30 40.688 30 40.376 30.159 40.206 30.475z">
+                    </path>
+                    <path fill="#546e7a" d="M43 42L7 42 16.732 22 21 16 29 16 33.68 22.85z"></path>
+                    <path fill="#81d4fa"
+                        d="M33.746,23L31,21l1,7l-6-11l-3,7l-2-6l-4.268,4L21,13.23l3.24-6.78c0.04-0.08,0.1-0.15,0.16-0.21 C24.57,6.08,24.78,6,24.99,6c0.27,0,0.53,0.13,0.68,0.37c0.03,0.03,0.04,0.06,0.06,0.09L33.746,23z">
+                    </path>
+                </svg>
+                &nbsp;CHILD CARE DEMAND IN COLORADO
+            </div>
+
+
+            <!-- <ul class="pure-menu-list">
+                <li class="pure-menu-item pure-menu-selected"><a href="#" class="pure-menu-link">Methodology</a></li> -->
+
+            </ul>
+        </div>
+    </div>
+
+    <div class="splash-container">
+        <div class="splash">
+            <h1 class="splash-head">Child Care Demand in Colorado</h1>
+            <p style="color:white;font-size:18px; opacity:.8">
+                This analysis examines child care capacity vs infant and preschool-aged child population to determine
+                current and future areas of sufficient and insufficient child care in Colorado.
+            </p>
+            <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="32" height="32" viewBox="0 0 50 50"
+                style=" fill:#ffffff;">
+                <g id="surface1">
+                    <path style=" "
+                        d="M 41.324219 18 L 25 35.101563 L 8.675781 18 L 41.324219 18 M 46 16 L 4 16 L 25 38 Z "></path>
+                </g>
+            </svg>
+        </div>
+    </div>
+
+    <div class="content-wrapper">
+        <div class="content">
+            <!-- <h2 class="content-head is-center">THE MAPS</h2> -->
+
+            <div class="pure-g">
+                <div class="l-box pure-u-1">
+
+                    <h2 class="content-subhead">
+                        <!-- <i class="fa fa-rocket"></i> -->
+                        <div id="icon">
+
+                            <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="30" height="30"
+                                viewBox="0 0 172 172" style=" fill:#000000;">
+                                <g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt"
+                                    stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray=""
+                                    stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none"
+                                    text-anchor="none" style="mix-blend-mode: normal">
+                                    <path d="M0,172v-172h172v172z" fill="none"></path>
+                                    <g fill="#ff7474">
+                                        <path
+                                            d="M57.33333,34.4c-0.19062,-0.00203 -0.38122,0.00544 -0.57109,0.0224c-23.37692,0.2598 -42.80794,16.2657 -48.82292,37.84896c-4.5526,3.10629 -7.93932,7.85052 -7.93932,13.72864c0,5.87812 3.38672,10.62235 7.93932,13.72864c6.06441,21.76063 25.76015,37.87136 49.39401,37.87136c10.59677,0 20.39269,-3.25558 28.53229,-8.79036c8.22037,5.55127 18.15574,8.79036 28.80104,8.79036c23.63387,0 43.3296,-16.11073 49.39401,-37.87136c4.5526,-3.10629 7.93933,-7.85052 7.93933,-13.72864c0,-5.87812 -3.38672,-10.62235 -7.93933,-13.72864c-6.0644,-21.76062 -25.76014,-37.87136 -49.39401,-37.87136c-0.19062,-0.00203 -0.38122,0.00544 -0.57109,0.0224c-10.42735,0.11485 -20.15807,3.31698 -28.22995,8.76797c-8.1396,-5.53479 -17.93552,-8.79036 -28.53229,-8.79036zM57.33333,45.86667c3.23951,0 5.73333,2.49383 5.73333,5.73333c0,3.23951 -2.49383,5.73333 -5.73333,5.73333c-2.06765,-0.02924 -3.99087,1.05709 -5.03322,2.843c-1.04236,1.78592 -1.04236,3.99474 0,5.78066c1.04236,1.78592 2.96558,2.87225 5.03322,2.843c9.43116,0 17.2,-7.76884 17.2,-17.2c0,-0.61616 -0.11455,-1.2026 -0.17917,-1.80286c10.91014,5.14798 19.15992,14.95568 21.99271,26.95339c0.42014,1.77964 1.66389,3.25217 3.34817,3.96406c2.05217,0.86889 3.50495,2.85625 3.50495,5.28542c0,2.42917 -1.45278,4.41653 -3.50495,5.28542c-1.68429,0.71189 -2.92804,2.18443 -3.34817,3.96406c-4.17662,17.68917 -19.9806,30.88386 -39.01354,30.88386c-19.03294,0 -34.83693,-13.19468 -39.01354,-30.88386c-0.42014,-1.77964 -1.66389,-3.25217 -3.34818,-3.96406c-2.05217,-0.86889 -3.50495,-2.85625 -3.50495,-5.28542c0,-2.42917 1.45278,-4.41653 3.50495,-5.28542c1.68429,-0.71189 2.92804,-2.18443 3.34818,-3.96406c4.17661,-17.68917 19.9806,-30.88386 39.01354,-30.88386zM114.66667,45.86667c3.23951,0 5.73333,2.49383 5.73333,5.73333c0,3.23951 -2.49383,5.73333 -5.73333,5.73333c-2.06765,-0.02924 -3.99087,1.05709 -5.03322,2.843c-1.04236,1.78592 -1.04236,3.99474 0,5.78066c1.04236,1.78592 2.96558,2.87225 5.03322,2.843c9.43116,0 17.2,-7.76884 17.2,-17.2c0,-0.61616 -0.11455,-1.2026 -0.17917,-1.80286c10.91014,5.14798 19.15992,14.95568 21.99271,26.95339c0.42014,1.77964 1.66389,3.25217 3.34817,3.96406c2.05217,0.86889 3.50495,2.85625 3.50495,5.28542c0,2.42917 -1.45278,4.41653 -3.50495,5.28542c-1.68429,0.71189 -2.92804,2.18443 -3.34817,3.96406c-4.17662,17.68917 -19.9806,30.88386 -39.01354,30.88386c-7.19601,0 -13.89707,-1.89511 -19.70833,-5.19583c3.28489,-3.59399 6.05577,-7.66564 8.24167,-12.08255c2.61205,3.50894 6.75358,5.81172 11.46667,5.81172c6.93733,0 12.71206,-4.92493 14.04219,-11.46667h-23.1013c0.40632,-1.14246 0.79172,-2.29416 1.11979,-3.47136c4.5526,-3.10629 7.93933,-7.85052 7.93933,-13.72864c0,-5.87812 -3.38672,-10.62235 -7.93933,-13.72864c-2.23319,-8.01327 -6.32289,-15.25027 -11.76901,-21.20886c5.81127,-3.30072 12.51232,-5.19583 19.70833,-5.19583zM40.13333,80.26667c-3.16643,0 -5.73333,2.5669 -5.73333,5.73333c0,3.16643 2.5669,5.73333 5.73333,5.73333c3.16643,0 5.73333,-2.5669 5.73333,-5.73333c0,-3.16643 -2.5669,-5.73333 -5.73333,-5.73333zM74.53333,80.26667c-3.16643,0 -5.73333,2.5669 -5.73333,5.73333c0,3.16643 2.5669,5.73333 5.73333,5.73333c3.16643,0 5.73333,-2.5669 5.73333,-5.73333c0,-3.16643 -2.5669,-5.73333 -5.73333,-5.73333zM131.86667,80.26667c-3.16643,0 -5.73333,2.5669 -5.73333,5.73333c0,3.16643 2.5669,5.73333 5.73333,5.73333c3.16643,0 5.73333,-2.5669 5.73333,-5.73333c0,-3.16643 -2.5669,-5.73333 -5.73333,-5.73333zM43.29115,103.2c1.33013,6.54173 7.10485,11.46667 14.04219,11.46667c6.93733,0 12.71206,-4.92493 14.04219,-11.46667z">
+                                        </path>
+                                    </g>
+                                </g>
+                            </svg>
+                            &nbsp;Children per Licensed Child Care Facility
+                        </div>
+                        </h3>
+                        <p>
+                            According to the Center for American Progress, a ratio of more than three children to one
+                            child care facility indicates a geography that provides insufficient child care
+                            opportunities. <b>We found that year-to-date, 18.3 percent of children under age 3 are
+                                estimated to live in zip codes with insufficient child care capacity and 7.8 percent of
+                                children between ages 3 to 5 are estimated to live in zip codes with insufficient child
+                                care capacity.</b>
+                            <div id="map"></div>
+                        </p>
+
+                </div>
+
+                <div class="l-box pure-u-1-2">
+
+                    <h2 class="content-subhead">
+                        <div id="icon">
+                            <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="24" height="24"
+                                viewBox="0 0 172 172" style=" fill:#000000;">
+                                <g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt"
+                                    stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray=""
+                                    stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none"
+                                    text-anchor="none" style="mix-blend-mode: normal">
+                                    <path d="M0,172v-172h172v172z" fill="none"></path>
+                                    <g id="original-icon" fill="#ff7474">
+                                        <path
+                                            d="M91.73333,17.2v63.06667h63.06667c0,-34.83 -28.23667,-63.06667 -63.06667,-63.06667zM80.26667,28.66667c-34.83,0 -63.06667,28.23667 -63.06667,63.06667c0,34.83 28.23667,63.06667 63.06667,63.06667c34.83,0 63.06667,-28.23667 63.06667,-63.06667h-63.06667z">
+                                        </path>
+                                    </g>
+                                </g>
+                            </svg>
+
+                            &nbsp;Population Distribution: Ages 0-3
+                        </div>
+                        </h3>
+                        <div id="chart1"></div>
+                </div>
+
+                <div class="l-box pure-u-1-2">
+                    <h2 class="content-subhead">
+                        <div id="icon">
+                            <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="24" height="24"
+                                viewBox="0 0 172 172" style=" fill:#000000;">
+                                <g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt"
+                                    stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray=""
+                                    stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none"
+                                    text-anchor="none" style="mix-blend-mode: normal">
+                                    <path d="M0,172v-172h172v172z" fill="none"></path>
+                                    <g id="original-icon" fill="#ff7474">
+                                        <path
+                                            d="M91.73333,17.2v63.06667h63.06667c0,-34.83 -28.23667,-63.06667 -63.06667,-63.06667zM80.26667,28.66667c-34.83,0 -63.06667,28.23667 -63.06667,63.06667c0,34.83 28.23667,63.06667 63.06667,63.06667c34.83,0 63.06667,-28.23667 63.06667,-63.06667h-63.06667z">
+                                        </path>
+                                    </g>
+                                </g>
+                            </svg>
+
+                            &nbsp;Population Distribution: Ages 3-5
+                        </div>
+                        </h3>
+                        <div id="chart2"></div>
+                </div>
+
+            </div>
+        </div>
+
+
+
+
+        <hr>
+
+        <div class="content">
+            <!-- <h2 class="content-head is-center">THE MAPS</h2> -->
+
+            <div class="pure-g">
+                <div class="l-box pure-u-1">
+
+                    <h2 class="content-subhead">
+                        <div id="icon">
+
+                            <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="30" height="30"
+                                viewBox="0 0 172 172" style=" fill:#000000;">
+                                <g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt"
+                                    stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray=""
+                                    stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none"
+                                    text-anchor="none" style="mix-blend-mode: normal">
+                                    <path d="M0,172v-172h172v172z" fill="none"></path>
+                                    <g fill="#ff7474">
+                                        <path
+                                            d="M57.33333,34.4c-0.19062,-0.00203 -0.38122,0.00544 -0.57109,0.0224c-23.37692,0.2598 -42.80794,16.2657 -48.82292,37.84896c-4.5526,3.10629 -7.93932,7.85052 -7.93932,13.72864c0,5.87812 3.38672,10.62235 7.93932,13.72864c6.06441,21.76063 25.76015,37.87136 49.39401,37.87136c10.59677,0 20.39269,-3.25558 28.53229,-8.79036c8.22037,5.55127 18.15574,8.79036 28.80104,8.79036c23.63387,0 43.3296,-16.11073 49.39401,-37.87136c4.5526,-3.10629 7.93933,-7.85052 7.93933,-13.72864c0,-5.87812 -3.38672,-10.62235 -7.93933,-13.72864c-6.0644,-21.76062 -25.76014,-37.87136 -49.39401,-37.87136c-0.19062,-0.00203 -0.38122,0.00544 -0.57109,0.0224c-10.42735,0.11485 -20.15807,3.31698 -28.22995,8.76797c-8.1396,-5.53479 -17.93552,-8.79036 -28.53229,-8.79036zM57.33333,45.86667c3.23951,0 5.73333,2.49383 5.73333,5.73333c0,3.23951 -2.49383,5.73333 -5.73333,5.73333c-2.06765,-0.02924 -3.99087,1.05709 -5.03322,2.843c-1.04236,1.78592 -1.04236,3.99474 0,5.78066c1.04236,1.78592 2.96558,2.87225 5.03322,2.843c9.43116,0 17.2,-7.76884 17.2,-17.2c0,-0.61616 -0.11455,-1.2026 -0.17917,-1.80286c10.91014,5.14798 19.15992,14.95568 21.99271,26.95339c0.42014,1.77964 1.66389,3.25217 3.34817,3.96406c2.05217,0.86889 3.50495,2.85625 3.50495,5.28542c0,2.42917 -1.45278,4.41653 -3.50495,5.28542c-1.68429,0.71189 -2.92804,2.18443 -3.34817,3.96406c-4.17662,17.68917 -19.9806,30.88386 -39.01354,30.88386c-19.03294,0 -34.83693,-13.19468 -39.01354,-30.88386c-0.42014,-1.77964 -1.66389,-3.25217 -3.34818,-3.96406c-2.05217,-0.86889 -3.50495,-2.85625 -3.50495,-5.28542c0,-2.42917 1.45278,-4.41653 3.50495,-5.28542c1.68429,-0.71189 2.92804,-2.18443 3.34818,-3.96406c4.17661,-17.68917 19.9806,-30.88386 39.01354,-30.88386zM114.66667,45.86667c3.23951,0 5.73333,2.49383 5.73333,5.73333c0,3.23951 -2.49383,5.73333 -5.73333,5.73333c-2.06765,-0.02924 -3.99087,1.05709 -5.03322,2.843c-1.04236,1.78592 -1.04236,3.99474 0,5.78066c1.04236,1.78592 2.96558,2.87225 5.03322,2.843c9.43116,0 17.2,-7.76884 17.2,-17.2c0,-0.61616 -0.11455,-1.2026 -0.17917,-1.80286c10.91014,5.14798 19.15992,14.95568 21.99271,26.95339c0.42014,1.77964 1.66389,3.25217 3.34817,3.96406c2.05217,0.86889 3.50495,2.85625 3.50495,5.28542c0,2.42917 -1.45278,4.41653 -3.50495,5.28542c-1.68429,0.71189 -2.92804,2.18443 -3.34817,3.96406c-4.17662,17.68917 -19.9806,30.88386 -39.01354,30.88386c-7.19601,0 -13.89707,-1.89511 -19.70833,-5.19583c3.28489,-3.59399 6.05577,-7.66564 8.24167,-12.08255c2.61205,3.50894 6.75358,5.81172 11.46667,5.81172c6.93733,0 12.71206,-4.92493 14.04219,-11.46667h-23.1013c0.40632,-1.14246 0.79172,-2.29416 1.11979,-3.47136c4.5526,-3.10629 7.93933,-7.85052 7.93933,-13.72864c0,-5.87812 -3.38672,-10.62235 -7.93933,-13.72864c-2.23319,-8.01327 -6.32289,-15.25027 -11.76901,-21.20886c5.81127,-3.30072 12.51232,-5.19583 19.70833,-5.19583zM40.13333,80.26667c-3.16643,0 -5.73333,2.5669 -5.73333,5.73333c0,3.16643 2.5669,5.73333 5.73333,5.73333c3.16643,0 5.73333,-2.5669 5.73333,-5.73333c0,-3.16643 -2.5669,-5.73333 -5.73333,-5.73333zM74.53333,80.26667c-3.16643,0 -5.73333,2.5669 -5.73333,5.73333c0,3.16643 2.5669,5.73333 5.73333,5.73333c3.16643,0 5.73333,-2.5669 5.73333,-5.73333c0,-3.16643 -2.5669,-5.73333 -5.73333,-5.73333zM131.86667,80.26667c-3.16643,0 -5.73333,2.5669 -5.73333,5.73333c0,3.16643 2.5669,5.73333 5.73333,5.73333c3.16643,0 5.73333,-2.5669 5.73333,-5.73333c0,-3.16643 -2.5669,-5.73333 -5.73333,-5.73333zM43.29115,103.2c1.33013,6.54173 7.10485,11.46667 14.04219,11.46667c6.93733,0 12.71206,-4.92493 14.04219,-11.46667z">
+                                        </path>
+                                    </g>
+                                </g>
+                            </svg>
+                            &nbsp;Growth Rate Comparison
+                        </div>
+                        </h3>
+                        <p>
+                            We found that for both infants and preschool-aged children, over 50 percent of evaluated
+                            Colorado zip
+                            codes exhibited child care facility capacity growth slower than the population growth for
+                            the relevant child population.
+                            <div id="map2"></div>
+                        </p>
+
+                </div>
+
+                <div class="l-box pure-u-1-2">
+                    <h2 class="content-subhead">
+
+                        <div id="icon">
+                            <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="24" height="24"
+                                viewBox="0 0 172 172" style=" fill:#000000;">
+                                <g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt"
+                                    stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray=""
+                                    stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none"
+                                    text-anchor="none" style="mix-blend-mode: normal">
+                                    <path d="M0,172v-172h172v172z" fill="none"></path>
+                                    <g id="original-icon" fill="#ff7474">
+                                        <path
+                                            d="M91.73333,17.2v63.06667h63.06667c0,-34.83 -28.23667,-63.06667 -63.06667,-63.06667zM80.26667,28.66667c-34.83,0 -63.06667,28.23667 -63.06667,63.06667c0,34.83 28.23667,63.06667 63.06667,63.06667c34.83,0 63.06667,-28.23667 63.06667,-63.06667h-63.06667z">
+                                        </path>
+                                    </g>
+                                </g>
+                            </svg>
+
+                            &nbsp;Child Care Availability vs Demand: Ages 0-3
+                        </div>
+
+                        </h3>
+                        <div id="chart3"></div>
+                </div>
+
+                <div class="l-box pure-u-1-2">
+                    <h2 class="content-subhead">
+
+
+
+                        <div id="icon">
+                            <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="24" height="24"
+                                viewBox="0 0 172 172" style=" fill:#000000;">
+                                <g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt"
+                                    stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray=""
+                                    stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none"
+                                    text-anchor="none" style="mix-blend-mode: normal">
+                                    <path d="M0,172v-172h172v172z" fill="none"></path>
+                                    <g id="original-icon" fill="#ff7474">
+                                        <path
+                                            d="M91.73333,17.2v63.06667h63.06667c0,-34.83 -28.23667,-63.06667 -63.06667,-63.06667zM80.26667,28.66667c-34.83,0 -63.06667,28.23667 -63.06667,63.06667c0,34.83 28.23667,63.06667 63.06667,63.06667c34.83,0 63.06667,-28.23667 63.06667,-63.06667h-63.06667z">
+                                        </path>
+                                    </g>
+                                </g>
+                            </svg>
+
+                            &nbsp;Child Care Availability vs Demand: Ages 3-5
+                        </div>
+
+                        </h3>
+                        <div id="chart4"></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="ribbon l-box-lrg pure-g">
+            <div class="l-box-lrg">
+            </div>
+            <div class="pure-u-1">
+
+                <h3 class="content-head content-head-ribbon">Methodology</h3>
+
+                <p>
+                    <ol>
+                        <li>
+                            We examined the ratio of children age 0-3 and age 3-5 to the cumulative child care capacity
+                            at the zip code level.
+                            The State of Colorado maintains a dataset of licensed child care facilities in Colorado. Our
+                            team utilized the most current dataset (May 2019), to calculate the total capacity in each
+                            zip code for licensed child care facilites. Additionally, our team examined capacity for
+                            different ages of young children, which was divided into two groups – one for toddlers and
+                            infants (0-3 years old) and one for preschool-aged children (3-5 years old). In order to
+                            calulate the total capacity for different ages of young children, we categorized the
+                            “Provider Service Type” from the dataset into the following categories: infant/toddler
+                            facility, preschool facility, family child care/day care/child care center, and school-age
+                            facility. Total capacity for toddler and infant children measures the sum of capacity among
+                            infant/toddler facilities and family child care/day care/child care center. Total capacity
+                            for preschool age children measures the sum of capacity among preschool facilities and
+                            family child care/day care/child care center.
+                            The Colorado State Demography Office (SDO) provides estimated and forecasted population by
+                            single year of age at the county level. The US Census Bureau (ACS) provides estimates for
+                            population under 5 years old at the zip code level for the 2012-2017 period. Because there
+                            is no public zip code level population data for the two age groups on our project scope, we
+                            adopted the assumption that the population growth rate in each zip code will mirror the
+                            county level rate. Using this assumption, we computed the 2019 forecasted population for
+                            children aged 0-3 and aged 3-5.
+                            To understand whether there is insufficient supply of the two types of licensed child care
+                            in different geographies, we compared the total capacity to its respective population.
+                        </li>
+                        <br>
+                        <li>
+
+                            We compared the annual facility capacity growth rate to the annual population growth rate.
+                            The dataset for licensed child care facilities dates back to June 2016. Considering that the
+                            ACS population data is a 5 year estimate, our team decided to compute an annual growth rate
+                            between 2017 and 2019 using compound annual growth rates. For capacity, data from the last
+                            months of 2017 and 2019 is used to calculate the annual growth since these months reflect
+                            the most current data for the year. For population, the annual growth rate in each zip code
+                            is assumed to match the growth rate in its county consistent with the methodology used to
+                            compute the forecasted population for 2019. Once both annual growth rates are calculated, we
+                            used the capacity growth rate and the populaton growth rate in order to determine whether
+                            the capacity or the population is more likely to grow faster in certain zip code areas and
+                            within the two age groups.
+
+
+                        </li>
+
+                    </ol>
+
+                </p>
+
+            </div>
+
+        </div>
+
+
+
+        <div id="content1">
+            <!-- <h2 class="content-head is-center"> -->
+
+                    <p class="tab"><b>DATA SOURCES</b></p> 
+            <ul>
+                <li>
+                    <a
+                        href="https://data.colorado.gov/Early-childhood/Colorado-Licensed-Child-Care-Facilities-Report/a9rr-k8mu">Colorado
+                        Department of Human Services - Office of Early Childhood</a>
+                </li>
+                <li>
+                    <a
+                        href="https://demography.dola.colorado.gov/population/data/sya-county/#county-population-by-single-year-of-age">Colorado
+                        State Demographic Office</a>
+                </li>
+
+                </li>
+
+                <li>
+                    <a href="https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml">US Census Bureau</a>
+                </li>
+
+            </ul>
+
+            </h2>
+
+        </div>
+    </div>
+
+    </div>
+
+    <!-- <div class="footer l-box is-center">
+        View the source of this layout to learn more. Made with love by the YUI Team.
+    </div> -->
+
+    </div>
+
+
+    <script type="text/javascript" src="final2.json"></script>
+    <script type="text/javascript" src="logic.js"></script>
+    <script type="text/javascript" src="pie.js"></script>
+    <!-- <script type="text/javascript" src="logic2.js"></script> -->
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,2634 @@
+[
+  {
+    "ZIP": 80002,
+    "CAPACITY_II": 1245,
+    "NUMBER_OF_PROVIDERS_II": 13,
+    "POPULATION_II": 452,
+    "RATIO_II": 0.4
+  },
+  {
+    "ZIP": 80003,
+    "CAPACITY_II": 525,
+    "NUMBER_OF_PROVIDERS_II": 18,
+    "POPULATION_II": 1066,
+    "RATIO_II": 2
+  },
+  {
+    "ZIP": 80004,
+    "CAPACITY_II": 1236,
+    "NUMBER_OF_PROVIDERS_II": 27,
+    "POPULATION_II": 868,
+    "RATIO_II": 0.7
+  },
+  {
+    "ZIP": 80005,
+    "CAPACITY_II": 450,
+    "NUMBER_OF_PROVIDERS_II": 18,
+    "POPULATION_II": 666,
+    "RATIO_II": 1.5
+  },
+  {
+    "ZIP": 80007,
+    "CAPACITY_II": 389,
+    "NUMBER_OF_PROVIDERS_II": 5,
+    "POPULATION_II": 330,
+    "RATIO_II": 0.8
+  },
+  {
+    "ZIP": 80010,
+    "CAPACITY_II": 1208,
+    "NUMBER_OF_PROVIDERS_II": 26,
+    "POPULATION_II": 1562,
+    "RATIO_II": 1.3
+  },
+  {
+    "ZIP": 80011,
+    "CAPACITY_II": 1084,
+    "NUMBER_OF_PROVIDERS_II": 30,
+    "POPULATION_II": 1737,
+    "RATIO_II": 1.6
+  },
+  {
+    "ZIP": 80012,
+    "CAPACITY_II": 1186,
+    "NUMBER_OF_PROVIDERS_II": 25,
+    "POPULATION_II": 1540,
+    "RATIO_II": 1.3
+  },
+  {
+    "ZIP": 80013,
+    "CAPACITY_II": 1445,
+    "NUMBER_OF_PROVIDERS_II": 61,
+    "POPULATION_II": 1949,
+    "RATIO_II": 1.3
+  },
+  {
+    "ZIP": 80014,
+    "CAPACITY_II": 1418,
+    "NUMBER_OF_PROVIDERS_II": 19,
+    "POPULATION_II": 712,
+    "RATIO_II": 0.5
+  },
+  {
+    "ZIP": 80015,
+    "CAPACITY_II": 2527,
+    "NUMBER_OF_PROVIDERS_II": 64,
+    "POPULATION_II": 1675,
+    "RATIO_II": 0.7
+  },
+  {
+    "ZIP": 80016,
+    "CAPACITY_II": 1744,
+    "NUMBER_OF_PROVIDERS_II": 29,
+    "POPULATION_II": 1345,
+    "RATIO_II": 0.8
+  },
+  {
+    "ZIP": 80017,
+    "CAPACITY_II": 367,
+    "NUMBER_OF_PROVIDERS_II": 18,
+    "POPULATION_II": 1287,
+    "RATIO_II": 3.5
+  },
+  {
+    "ZIP": 80018,
+    "CAPACITY_II": 433,
+    "NUMBER_OF_PROVIDERS_II": 8,
+    "POPULATION_II": 447,
+    "RATIO_II": 1
+  },
+  {
+    "ZIP": 80019,
+    "CAPACITY_II": 75,
+    "NUMBER_OF_PROVIDERS_II": 2,
+    "POPULATION_II": 161,
+    "RATIO_II": 2.1
+  },
+  {
+    "ZIP": 80020,
+    "CAPACITY_II": 2375,
+    "NUMBER_OF_PROVIDERS_II": 42,
+    "POPULATION_II": 1325,
+    "RATIO_II": 0.6
+  },
+  {
+    "ZIP": 80021,
+    "CAPACITY_II": 1330,
+    "NUMBER_OF_PROVIDERS_II": 17,
+    "POPULATION_II": 724,
+    "RATIO_II": 0.5
+  },
+  {
+    "ZIP": 80022,
+    "CAPACITY_II": 1478,
+    "NUMBER_OF_PROVIDERS_II": 31,
+    "POPULATION_II": 1920,
+    "RATIO_II": 1.3
+  },
+  {
+    "ZIP": 80023,
+    "CAPACITY_II": 440,
+    "NUMBER_OF_PROVIDERS_II": 7,
+    "POPULATION_II": 478,
+    "RATIO_II": 1.1
+  },
+  {
+    "ZIP": 80026,
+    "CAPACITY_II": 1411,
+    "NUMBER_OF_PROVIDERS_II": 30,
+    "POPULATION_II": 654,
+    "RATIO_II": 0.5
+  },
+  {
+    "ZIP": 80027,
+    "CAPACITY_II": 1627,
+    "NUMBER_OF_PROVIDERS_II": 28,
+    "POPULATION_II": 683,
+    "RATIO_II": 0.4
+  },
+  {
+    "ZIP": 80030,
+    "CAPACITY_II": 591,
+    "NUMBER_OF_PROVIDERS_II": 16,
+    "POPULATION_II": 370,
+    "RATIO_II": 0.6
+  },
+  {
+    "ZIP": 80031,
+    "CAPACITY_II": 738,
+    "NUMBER_OF_PROVIDERS_II": 9,
+    "POPULATION_II": 961,
+    "RATIO_II": 1.3
+  },
+  {
+    "ZIP": 80033,
+    "CAPACITY_II": 912,
+    "NUMBER_OF_PROVIDERS_II": 23,
+    "POPULATION_II": 530,
+    "RATIO_II": 0.6
+  },
+  {
+    "ZIP": 80045,
+    "CAPACITY_II": 272,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 15,
+    "RATIO_II": 0.1
+  },
+  {
+    "ZIP": 80102,
+    "CAPACITY_II": 63,
+    "NUMBER_OF_PROVIDERS_II": 3,
+    "POPULATION_II": 96,
+    "RATIO_II": 1.5
+  },
+  {
+    "ZIP": 80103,
+    "CAPACITY_II": 50,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 44,
+    "RATIO_II": 0.9
+  },
+  {
+    "ZIP": 80104,
+    "CAPACITY_II": 1072,
+    "NUMBER_OF_PROVIDERS_II": 28,
+    "POPULATION_II": 807,
+    "RATIO_II": 0.8
+  },
+  {
+    "ZIP": 80105,
+    "CAPACITY_II": 15,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 25,
+    "RATIO_II": 1.7
+  },
+  {
+    "ZIP": 80106,
+    "CAPACITY_II": 15,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 127,
+    "RATIO_II": 8.5
+  },
+  {
+    "ZIP": 80107,
+    "CAPACITY_II": 50,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 319,
+    "RATIO_II": 6.4
+  },
+  {
+    "ZIP": 80108,
+    "CAPACITY_II": 734,
+    "NUMBER_OF_PROVIDERS_II": 11,
+    "POPULATION_II": 589,
+    "RATIO_II": 0.8
+  },
+  {
+    "ZIP": 80109,
+    "CAPACITY_II": 718,
+    "NUMBER_OF_PROVIDERS_II": 12,
+    "POPULATION_II": 689,
+    "RATIO_II": 1
+  },
+  {
+    "ZIP": 80110,
+    "CAPACITY_II": 939,
+    "NUMBER_OF_PROVIDERS_II": 8,
+    "POPULATION_II": 601,
+    "RATIO_II": 0.6
+  },
+  {
+    "ZIP": 80111,
+    "CAPACITY_II": 1729,
+    "NUMBER_OF_PROVIDERS_II": 15,
+    "POPULATION_II": 660,
+    "RATIO_II": 0.4
+  },
+  {
+    "ZIP": 80112,
+    "CAPACITY_II": 2415,
+    "NUMBER_OF_PROVIDERS_II": 22,
+    "POPULATION_II": 763,
+    "RATIO_II": 0.3
+  },
+  {
+    "ZIP": 80113,
+    "CAPACITY_II": 446,
+    "NUMBER_OF_PROVIDERS_II": 6,
+    "POPULATION_II": 580,
+    "RATIO_II": 1.3
+  },
+  {
+    "ZIP": 80116,
+    "CAPACITY_II": 76,
+    "NUMBER_OF_PROVIDERS_II": 2,
+    "POPULATION_II": 55,
+    "RATIO_II": 0.7
+  },
+  {
+    "ZIP": 80117,
+    "CAPACITY_II": 31,
+    "NUMBER_OF_PROVIDERS_II": 3,
+    "POPULATION_II": 69,
+    "RATIO_II": 2.2
+  },
+  {
+    "ZIP": 80118,
+    "CAPACITY_II": 30,
+    "NUMBER_OF_PROVIDERS_II": 2,
+    "POPULATION_II": 109,
+    "RATIO_II": 3.6
+  },
+  {
+    "ZIP": 80120,
+    "CAPACITY_II": 1325,
+    "NUMBER_OF_PROVIDERS_II": 16,
+    "POPULATION_II": 611,
+    "RATIO_II": 0.5
+  },
+  {
+    "ZIP": 80121,
+    "CAPACITY_II": 500,
+    "NUMBER_OF_PROVIDERS_II": 11,
+    "POPULATION_II": 390,
+    "RATIO_II": 0.8
+  },
+  {
+    "ZIP": 80122,
+    "CAPACITY_II": 559,
+    "NUMBER_OF_PROVIDERS_II": 13,
+    "POPULATION_II": 683,
+    "RATIO_II": 1.2
+  },
+  {
+    "ZIP": 80123,
+    "CAPACITY_II": 1625,
+    "NUMBER_OF_PROVIDERS_II": 26,
+    "POPULATION_II": 980,
+    "RATIO_II": 0.6
+  },
+  {
+    "ZIP": 80124,
+    "CAPACITY_II": 1355,
+    "NUMBER_OF_PROVIDERS_II": 16,
+    "POPULATION_II": 419,
+    "RATIO_II": 0.3
+  },
+  {
+    "ZIP": 80125,
+    "CAPACITY_II": 207,
+    "NUMBER_OF_PROVIDERS_II": 6,
+    "POPULATION_II": 223,
+    "RATIO_II": 1.1
+  },
+  {
+    "ZIP": 80126,
+    "CAPACITY_II": 1612,
+    "NUMBER_OF_PROVIDERS_II": 30,
+    "POPULATION_II": 1045,
+    "RATIO_II": 0.6
+  },
+  {
+    "ZIP": 80127,
+    "CAPACITY_II": 1785,
+    "NUMBER_OF_PROVIDERS_II": 32,
+    "POPULATION_II": 878,
+    "RATIO_II": 0.5
+  },
+  {
+    "ZIP": 80128,
+    "CAPACITY_II": 1223,
+    "NUMBER_OF_PROVIDERS_II": 23,
+    "POPULATION_II": 898,
+    "RATIO_II": 0.7
+  },
+  {
+    "ZIP": 80129,
+    "CAPACITY_II": 1396,
+    "NUMBER_OF_PROVIDERS_II": 28,
+    "POPULATION_II": 569,
+    "RATIO_II": 0.4
+  },
+  {
+    "ZIP": 80130,
+    "CAPACITY_II": 400,
+    "NUMBER_OF_PROVIDERS_II": 14,
+    "POPULATION_II": 774,
+    "RATIO_II": 1.9
+  },
+  {
+    "ZIP": 80132,
+    "CAPACITY_II": 612,
+    "NUMBER_OF_PROVIDERS_II": 13,
+    "POPULATION_II": 393,
+    "RATIO_II": 0.6
+  },
+  {
+    "ZIP": 80133,
+    "CAPACITY_II": 8,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 86,
+    "RATIO_II": 10.8
+  },
+  {
+    "ZIP": 80134,
+    "CAPACITY_II": 2642,
+    "NUMBER_OF_PROVIDERS_II": 50,
+    "POPULATION_II": 1851,
+    "RATIO_II": 0.7
+  },
+  {
+    "ZIP": 80135,
+    "CAPACITY_II": 15,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 62,
+    "RATIO_II": 4.1
+  },
+  {
+    "ZIP": 80136,
+    "CAPACITY_II": 215,
+    "NUMBER_OF_PROVIDERS_II": 7,
+    "POPULATION_II": 112,
+    "RATIO_II": 0.5
+  },
+  {
+    "ZIP": 80138,
+    "CAPACITY_II": 1318,
+    "NUMBER_OF_PROVIDERS_II": 19,
+    "POPULATION_II": 607,
+    "RATIO_II": 0.5
+  },
+  {
+    "ZIP": 80202,
+    "CAPACITY_II": 210,
+    "NUMBER_OF_PROVIDERS_II": 2,
+    "POPULATION_II": 57,
+    "RATIO_II": 0.3
+  },
+  {
+    "ZIP": 80203,
+    "CAPACITY_II": 15,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 91,
+    "RATIO_II": 6.1
+  },
+  {
+    "ZIP": 80204,
+    "CAPACITY_II": 1454,
+    "NUMBER_OF_PROVIDERS_II": 21,
+    "POPULATION_II": 1105,
+    "RATIO_II": 0.8
+  },
+  {
+    "ZIP": 80205,
+    "CAPACITY_II": 1733,
+    "NUMBER_OF_PROVIDERS_II": 28,
+    "POPULATION_II": 706,
+    "RATIO_II": 0.4
+  },
+  {
+    "ZIP": 80206,
+    "CAPACITY_II": 661,
+    "NUMBER_OF_PROVIDERS_II": 12,
+    "POPULATION_II": 383,
+    "RATIO_II": 0.6
+  },
+  {
+    "ZIP": 80207,
+    "CAPACITY_II": 777,
+    "NUMBER_OF_PROVIDERS_II": 15,
+    "POPULATION_II": 875,
+    "RATIO_II": 1.1
+  },
+  {
+    "ZIP": 80208,
+    "CAPACITY_II": 192,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": "",
+    "RATIO_II": ""
+  },
+  {
+    "ZIP": 80209,
+    "CAPACITY_II": 1076,
+    "NUMBER_OF_PROVIDERS_II": 14,
+    "POPULATION_II": 462,
+    "RATIO_II": 0.4
+  },
+  {
+    "ZIP": 80210,
+    "CAPACITY_II": 1365,
+    "NUMBER_OF_PROVIDERS_II": 21,
+    "POPULATION_II": 786,
+    "RATIO_II": 0.6
+  },
+  {
+    "ZIP": 80211,
+    "CAPACITY_II": 1866,
+    "NUMBER_OF_PROVIDERS_II": 25,
+    "POPULATION_II": 796,
+    "RATIO_II": 0.4
+  },
+  {
+    "ZIP": 80212,
+    "CAPACITY_II": 478,
+    "NUMBER_OF_PROVIDERS_II": 9,
+    "POPULATION_II": 431,
+    "RATIO_II": 0.9
+  },
+  {
+    "ZIP": 80214,
+    "CAPACITY_II": 911,
+    "NUMBER_OF_PROVIDERS_II": 19,
+    "POPULATION_II": 603,
+    "RATIO_II": 0.7
+  },
+  {
+    "ZIP": 80215,
+    "CAPACITY_II": 285,
+    "NUMBER_OF_PROVIDERS_II": 7,
+    "POPULATION_II": 442,
+    "RATIO_II": 1.6
+  },
+  {
+    "ZIP": 80216,
+    "CAPACITY_II": 276,
+    "NUMBER_OF_PROVIDERS_II": 3,
+    "POPULATION_II": 320,
+    "RATIO_II": 1.2
+  },
+  {
+    "ZIP": 80218,
+    "CAPACITY_II": 343,
+    "NUMBER_OF_PROVIDERS_II": 4,
+    "POPULATION_II": 244,
+    "RATIO_II": 0.7
+  },
+  {
+    "ZIP": 80219,
+    "CAPACITY_II": 2037,
+    "NUMBER_OF_PROVIDERS_II": 36,
+    "POPULATION_II": 2124,
+    "RATIO_II": 1
+  },
+  {
+    "ZIP": 80220,
+    "CAPACITY_II": 1648,
+    "NUMBER_OF_PROVIDERS_II": 20,
+    "POPULATION_II": 981,
+    "RATIO_II": 0.6
+  },
+  {
+    "ZIP": 80221,
+    "CAPACITY_II": 649,
+    "NUMBER_OF_PROVIDERS_II": 17,
+    "POPULATION_II": 842,
+    "RATIO_II": 1.3
+  },
+  {
+    "ZIP": 80222,
+    "CAPACITY_II": 1902,
+    "NUMBER_OF_PROVIDERS_II": 24,
+    "POPULATION_II": 587,
+    "RATIO_II": 0.3
+  },
+  {
+    "ZIP": 80223,
+    "CAPACITY_II": 502,
+    "NUMBER_OF_PROVIDERS_II": 10,
+    "POPULATION_II": 519,
+    "RATIO_II": 1
+  },
+  {
+    "ZIP": 80224,
+    "CAPACITY_II": 467,
+    "NUMBER_OF_PROVIDERS_II": 9,
+    "POPULATION_II": 437,
+    "RATIO_II": 0.9
+  },
+  {
+    "ZIP": 80225,
+    "CAPACITY_II": 120,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": "",
+    "RATIO_II": ""
+  },
+  {
+    "ZIP": 80226,
+    "CAPACITY_II": 877,
+    "NUMBER_OF_PROVIDERS_II": 20,
+    "POPULATION_II": 633,
+    "RATIO_II": 0.7
+  },
+  {
+    "ZIP": 80227,
+    "CAPACITY_II": 653,
+    "NUMBER_OF_PROVIDERS_II": 11,
+    "POPULATION_II": 749,
+    "RATIO_II": 1.1
+  },
+  {
+    "ZIP": 80228,
+    "CAPACITY_II": 961,
+    "NUMBER_OF_PROVIDERS_II": 20,
+    "POPULATION_II": 796,
+    "RATIO_II": 0.8
+  },
+  {
+    "ZIP": 80229,
+    "CAPACITY_II": 1310,
+    "NUMBER_OF_PROVIDERS_II": 30,
+    "POPULATION_II": 1956,
+    "RATIO_II": 1.5
+  },
+  {
+    "ZIP": 80230,
+    "CAPACITY_II": 845,
+    "NUMBER_OF_PROVIDERS_II": 7,
+    "POPULATION_II": 160,
+    "RATIO_II": 0.2
+  },
+  {
+    "ZIP": 80231,
+    "CAPACITY_II": 375,
+    "NUMBER_OF_PROVIDERS_II": 13,
+    "POPULATION_II": 1035,
+    "RATIO_II": 2.8
+  },
+  {
+    "ZIP": 80232,
+    "CAPACITY_II": 437,
+    "NUMBER_OF_PROVIDERS_II": 14,
+    "POPULATION_II": 457,
+    "RATIO_II": 1
+  },
+  {
+    "ZIP": 80233,
+    "CAPACITY_II": 832,
+    "NUMBER_OF_PROVIDERS_II": 35,
+    "POPULATION_II": 1449,
+    "RATIO_II": 1.7
+  },
+  {
+    "ZIP": 80234,
+    "CAPACITY_II": 837,
+    "NUMBER_OF_PROVIDERS_II": 15,
+    "POPULATION_II": 740,
+    "RATIO_II": 0.9
+  },
+  {
+    "ZIP": 80235,
+    "CAPACITY_II": 206,
+    "NUMBER_OF_PROVIDERS_II": 7,
+    "POPULATION_II": 178,
+    "RATIO_II": 0.9
+  },
+  {
+    "ZIP": 80236,
+    "CAPACITY_II": 256,
+    "NUMBER_OF_PROVIDERS_II": 7,
+    "POPULATION_II": 607,
+    "RATIO_II": 2.4
+  },
+  {
+    "ZIP": 80237,
+    "CAPACITY_II": 549,
+    "NUMBER_OF_PROVIDERS_II": 10,
+    "POPULATION_II": 320,
+    "RATIO_II": 0.6
+  },
+  {
+    "ZIP": 80238,
+    "CAPACITY_II": 1155,
+    "NUMBER_OF_PROVIDERS_II": 17,
+    "POPULATION_II": 886,
+    "RATIO_II": 0.8
+  },
+  {
+    "ZIP": 80239,
+    "CAPACITY_II": 1345,
+    "NUMBER_OF_PROVIDERS_II": 31,
+    "POPULATION_II": 1316,
+    "RATIO_II": 1
+  },
+  {
+    "ZIP": 80241,
+    "CAPACITY_II": 1540,
+    "NUMBER_OF_PROVIDERS_II": 30,
+    "POPULATION_II": 920,
+    "RATIO_II": 0.6
+  },
+  {
+    "ZIP": 80246,
+    "CAPACITY_II": 174,
+    "NUMBER_OF_PROVIDERS_II": 4,
+    "POPULATION_II": 219,
+    "RATIO_II": 1.3
+  },
+  {
+    "ZIP": 80247,
+    "CAPACITY_II": 246,
+    "NUMBER_OF_PROVIDERS_II": 2,
+    "POPULATION_II": 859,
+    "RATIO_II": 3.5
+  },
+  {
+    "ZIP": 80249,
+    "CAPACITY_II": 728,
+    "NUMBER_OF_PROVIDERS_II": 22,
+    "POPULATION_II": 947,
+    "RATIO_II": 1.3
+  },
+  {
+    "ZIP": 80260,
+    "CAPACITY_II": 311,
+    "NUMBER_OF_PROVIDERS_II": 11,
+    "POPULATION_II": 1246,
+    "RATIO_II": 4
+  },
+  {
+    "ZIP": 80265,
+    "CAPACITY_II": 138,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": "",
+    "RATIO_II": ""
+  },
+  {
+    "ZIP": 80301,
+    "CAPACITY_II": 909,
+    "NUMBER_OF_PROVIDERS_II": 15,
+    "POPULATION_II": 334,
+    "RATIO_II": 0.4
+  },
+  {
+    "ZIP": 80302,
+    "CAPACITY_II": 354,
+    "NUMBER_OF_PROVIDERS_II": 9,
+    "POPULATION_II": 241,
+    "RATIO_II": 0.7
+  },
+  {
+    "ZIP": 80303,
+    "CAPACITY_II": 599,
+    "NUMBER_OF_PROVIDERS_II": 13,
+    "POPULATION_II": 256,
+    "RATIO_II": 0.4
+  },
+  {
+    "ZIP": 80304,
+    "CAPACITY_II": 1135,
+    "NUMBER_OF_PROVIDERS_II": 18,
+    "POPULATION_II": 603,
+    "RATIO_II": 0.5
+  },
+  {
+    "ZIP": 80305,
+    "CAPACITY_II": 634,
+    "NUMBER_OF_PROVIDERS_II": 13,
+    "POPULATION_II": 299,
+    "RATIO_II": 0.5
+  },
+  {
+    "ZIP": 80309,
+    "CAPACITY_II": 15,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": "",
+    "RATIO_II": ""
+  },
+  {
+    "ZIP": 80401,
+    "CAPACITY_II": 933,
+    "NUMBER_OF_PROVIDERS_II": 15,
+    "POPULATION_II": 763,
+    "RATIO_II": 0.8
+  },
+  {
+    "ZIP": 80403,
+    "CAPACITY_II": 529,
+    "NUMBER_OF_PROVIDERS_II": 10,
+    "POPULATION_II": 387,
+    "RATIO_II": 0.7
+  },
+  {
+    "ZIP": 80404,
+    "CAPACITY_II": 33,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": "",
+    "RATIO_II": ""
+  },
+  {
+    "ZIP": 80409,
+    "CAPACITY_II": 69,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": "",
+    "RATIO_II": ""
+  },
+  {
+    "ZIP": 80420,
+    "CAPACITY_II": 15,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 23,
+    "RATIO_II": 1.5
+  },
+  {
+    "ZIP": 80421,
+    "CAPACITY_II": 118,
+    "NUMBER_OF_PROVIDERS_II": 5,
+    "POPULATION_II": 181,
+    "RATIO_II": 1.5
+  },
+  {
+    "ZIP": 80422,
+    "CAPACITY_II": 110,
+    "NUMBER_OF_PROVIDERS_II": 2,
+    "POPULATION_II": 82,
+    "RATIO_II": 0.7
+  },
+  {
+    "ZIP": 80424,
+    "CAPACITY_II": 385,
+    "NUMBER_OF_PROVIDERS_II": 8,
+    "POPULATION_II": 90,
+    "RATIO_II": 0.2
+  },
+  {
+    "ZIP": 80428,
+    "CAPACITY_II": 30,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 14,
+    "RATIO_II": 0.5
+  },
+  {
+    "ZIP": 80433,
+    "CAPACITY_II": 180,
+    "NUMBER_OF_PROVIDERS_II": 3,
+    "POPULATION_II": 157,
+    "RATIO_II": 0.9
+  },
+  {
+    "ZIP": 80435,
+    "CAPACITY_II": 241,
+    "NUMBER_OF_PROVIDERS_II": 9,
+    "POPULATION_II": 228,
+    "RATIO_II": 0.9
+  },
+  {
+    "ZIP": 80439,
+    "CAPACITY_II": 640,
+    "NUMBER_OF_PROVIDERS_II": 13,
+    "POPULATION_II": 334,
+    "RATIO_II": 0.5
+  },
+  {
+    "ZIP": 80440,
+    "CAPACITY_II": 72,
+    "NUMBER_OF_PROVIDERS_II": 2,
+    "POPULATION_II": 47,
+    "RATIO_II": 0.7
+  },
+  {
+    "ZIP": 80442,
+    "CAPACITY_II": 83,
+    "NUMBER_OF_PROVIDERS_II": 3,
+    "POPULATION_II": 53,
+    "RATIO_II": 0.6
+  },
+  {
+    "ZIP": 80443,
+    "CAPACITY_II": 103,
+    "NUMBER_OF_PROVIDERS_II": 3,
+    "POPULATION_II": 50,
+    "RATIO_II": 0.5
+  },
+  {
+    "ZIP": 80444,
+    "CAPACITY_II": 81,
+    "NUMBER_OF_PROVIDERS_II": 2,
+    "POPULATION_II": 13,
+    "RATIO_II": 0.2
+  },
+  {
+    "ZIP": 80446,
+    "CAPACITY_II": 94,
+    "NUMBER_OF_PROVIDERS_II": 4,
+    "POPULATION_II": 105,
+    "RATIO_II": 1.1
+  },
+  {
+    "ZIP": 80452,
+    "CAPACITY_II": 50,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 72,
+    "RATIO_II": 1.4
+  },
+  {
+    "ZIP": 80454,
+    "CAPACITY_II": 9,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 36,
+    "RATIO_II": 4
+  },
+  {
+    "ZIP": 80459,
+    "CAPACITY_II": 40,
+    "NUMBER_OF_PROVIDERS_II": 2,
+    "POPULATION_II": 66,
+    "RATIO_II": 1.6
+  },
+  {
+    "ZIP": 80461,
+    "CAPACITY_II": 157,
+    "NUMBER_OF_PROVIDERS_II": 2,
+    "POPULATION_II": 138,
+    "RATIO_II": 0.9
+  },
+  {
+    "ZIP": 80465,
+    "CAPACITY_II": 228,
+    "NUMBER_OF_PROVIDERS_II": 11,
+    "POPULATION_II": 287,
+    "RATIO_II": 1.3
+  },
+  {
+    "ZIP": 80466,
+    "CAPACITY_II": 97,
+    "NUMBER_OF_PROVIDERS_II": 4,
+    "POPULATION_II": 52,
+    "RATIO_II": 0.5
+  },
+  {
+    "ZIP": 80467,
+    "CAPACITY_II": 6,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 54,
+    "RATIO_II": 9
+  },
+  {
+    "ZIP": 80469,
+    "CAPACITY_II": 32,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 0,
+    "RATIO_II": 0
+  },
+  {
+    "ZIP": 80470,
+    "CAPACITY_II": 49,
+    "NUMBER_OF_PROVIDERS_II": 2,
+    "POPULATION_II": 46,
+    "RATIO_II": 0.9
+  },
+  {
+    "ZIP": 80477,
+    "CAPACITY_II": 133,
+    "NUMBER_OF_PROVIDERS_II": 4,
+    "POPULATION_II": 0,
+    "RATIO_II": 0
+  },
+  {
+    "ZIP": 80478,
+    "CAPACITY_II": 39,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 12,
+    "RATIO_II": 0.3
+  },
+  {
+    "ZIP": 80480,
+    "CAPACITY_II": 15,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 40,
+    "RATIO_II": 2.7
+  },
+  {
+    "ZIP": 80483,
+    "CAPACITY_II": 36,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 25,
+    "RATIO_II": 0.7
+  },
+  {
+    "ZIP": 80487,
+    "CAPACITY_II": 416,
+    "NUMBER_OF_PROVIDERS_II": 15,
+    "POPULATION_II": 314,
+    "RATIO_II": 0.8
+  },
+  {
+    "ZIP": 80498,
+    "CAPACITY_II": 96,
+    "NUMBER_OF_PROVIDERS_II": 6,
+    "POPULATION_II": 132,
+    "RATIO_II": 1.4
+  },
+  {
+    "ZIP": 80501,
+    "CAPACITY_II": 2151,
+    "NUMBER_OF_PROVIDERS_II": 49,
+    "POPULATION_II": 1173,
+    "RATIO_II": 0.5
+  },
+  {
+    "ZIP": 80503,
+    "CAPACITY_II": 558,
+    "NUMBER_OF_PROVIDERS_II": 14,
+    "POPULATION_II": 605,
+    "RATIO_II": 1.1
+  },
+  {
+    "ZIP": 80504,
+    "CAPACITY_II": 863,
+    "NUMBER_OF_PROVIDERS_II": 32,
+    "POPULATION_II": 1635,
+    "RATIO_II": 1.9
+  },
+  {
+    "ZIP": 80511,
+    "CAPACITY_II": 60,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 0,
+    "RATIO_II": 0
+  },
+  {
+    "ZIP": 80512,
+    "CAPACITY_II": 15,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 16,
+    "RATIO_II": 1.1
+  },
+  {
+    "ZIP": 80513,
+    "CAPACITY_II": 141,
+    "NUMBER_OF_PROVIDERS_II": 9,
+    "POPULATION_II": 275,
+    "RATIO_II": 2
+  },
+  {
+    "ZIP": 80514,
+    "CAPACITY_II": 16,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 163,
+    "RATIO_II": 10.2
+  },
+  {
+    "ZIP": 80516,
+    "CAPACITY_II": 1011,
+    "NUMBER_OF_PROVIDERS_II": 26,
+    "POPULATION_II": 830,
+    "RATIO_II": 0.8
+  },
+  {
+    "ZIP": 80517,
+    "CAPACITY_II": 134,
+    "NUMBER_OF_PROVIDERS_II": 8,
+    "POPULATION_II": 158,
+    "RATIO_II": 1.2
+  },
+  {
+    "ZIP": 80521,
+    "CAPACITY_II": 566,
+    "NUMBER_OF_PROVIDERS_II": 17,
+    "POPULATION_II": 548,
+    "RATIO_II": 1
+  },
+  {
+    "ZIP": 80524,
+    "CAPACITY_II": 684,
+    "NUMBER_OF_PROVIDERS_II": 15,
+    "POPULATION_II": 954,
+    "RATIO_II": 1.4
+  },
+  {
+    "ZIP": 80525,
+    "CAPACITY_II": 2404,
+    "NUMBER_OF_PROVIDERS_II": 54,
+    "POPULATION_II": 1239,
+    "RATIO_II": 0.5
+  },
+  {
+    "ZIP": 80526,
+    "CAPACITY_II": 1372,
+    "NUMBER_OF_PROVIDERS_II": 49,
+    "POPULATION_II": 1087,
+    "RATIO_II": 0.8
+  },
+  {
+    "ZIP": 80528,
+    "CAPACITY_II": 460,
+    "NUMBER_OF_PROVIDERS_II": 9,
+    "POPULATION_II": 527,
+    "RATIO_II": 1.1
+  },
+  {
+    "ZIP": 80530,
+    "CAPACITY_II": 503,
+    "NUMBER_OF_PROVIDERS_II": 6,
+    "POPULATION_II": 178,
+    "RATIO_II": 0.4
+  },
+  {
+    "ZIP": 80534,
+    "CAPACITY_II": 269,
+    "NUMBER_OF_PROVIDERS_II": 16,
+    "POPULATION_II": 643,
+    "RATIO_II": 2.4
+  },
+  {
+    "ZIP": 80535,
+    "CAPACITY_II": 24,
+    "NUMBER_OF_PROVIDERS_II": 2,
+    "POPULATION_II": 42,
+    "RATIO_II": 1.8
+  },
+  {
+    "ZIP": 80537,
+    "CAPACITY_II": 706,
+    "NUMBER_OF_PROVIDERS_II": 32,
+    "POPULATION_II": 1020,
+    "RATIO_II": 1.4
+  },
+  {
+    "ZIP": 80538,
+    "CAPACITY_II": 1026,
+    "NUMBER_OF_PROVIDERS_II": 33,
+    "POPULATION_II": 901,
+    "RATIO_II": 0.9
+  },
+  {
+    "ZIP": 80540,
+    "CAPACITY_II": 35,
+    "NUMBER_OF_PROVIDERS_II": 2,
+    "POPULATION_II": 83,
+    "RATIO_II": 2.4
+  },
+  {
+    "ZIP": 80542,
+    "CAPACITY_II": 36,
+    "NUMBER_OF_PROVIDERS_II": 3,
+    "POPULATION_II": 203,
+    "RATIO_II": 5.6
+  },
+  {
+    "ZIP": 80543,
+    "CAPACITY_II": 163,
+    "NUMBER_OF_PROVIDERS_II": 6,
+    "POPULATION_II": 214,
+    "RATIO_II": 1.3
+  },
+  {
+    "ZIP": 80545,
+    "CAPACITY_II": 15,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 0,
+    "RATIO_II": 0
+  },
+  {
+    "ZIP": 80547,
+    "CAPACITY_II": 34,
+    "NUMBER_OF_PROVIDERS_II": 3,
+    "POPULATION_II": 94,
+    "RATIO_II": 2.8
+  },
+  {
+    "ZIP": 80549,
+    "CAPACITY_II": 258,
+    "NUMBER_OF_PROVIDERS_II": 19,
+    "POPULATION_II": 425,
+    "RATIO_II": 1.6
+  },
+  {
+    "ZIP": 80550,
+    "CAPACITY_II": 597,
+    "NUMBER_OF_PROVIDERS_II": 27,
+    "POPULATION_II": 861,
+    "RATIO_II": 1.4
+  },
+  {
+    "ZIP": 80601,
+    "CAPACITY_II": 986,
+    "NUMBER_OF_PROVIDERS_II": 26,
+    "POPULATION_II": 950,
+    "RATIO_II": 1
+  },
+  {
+    "ZIP": 80602,
+    "CAPACITY_II": 382,
+    "NUMBER_OF_PROVIDERS_II": 23,
+    "POPULATION_II": 1015,
+    "RATIO_II": 2.7
+  },
+  {
+    "ZIP": 80603,
+    "CAPACITY_II": 128,
+    "NUMBER_OF_PROVIDERS_II": 7,
+    "POPULATION_II": 498,
+    "RATIO_II": 3.9
+  },
+  {
+    "ZIP": 80610,
+    "CAPACITY_II": 109,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 127,
+    "RATIO_II": 1.2
+  },
+  {
+    "ZIP": 80611,
+    "CAPACITY_II": 15,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 23,
+    "RATIO_II": 1.5
+  },
+  {
+    "ZIP": 80614,
+    "CAPACITY_II": 30,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": "",
+    "RATIO_II": ""
+  },
+  {
+    "ZIP": 80615,
+    "CAPACITY_II": 187,
+    "NUMBER_OF_PROVIDERS_II": 7,
+    "POPULATION_II": 255,
+    "RATIO_II": 1.4
+  },
+  {
+    "ZIP": 80620,
+    "CAPACITY_II": 222,
+    "NUMBER_OF_PROVIDERS_II": 9,
+    "POPULATION_II": 714,
+    "RATIO_II": 3.2
+  },
+  {
+    "ZIP": 80621,
+    "CAPACITY_II": 210,
+    "NUMBER_OF_PROVIDERS_II": 7,
+    "POPULATION_II": 386,
+    "RATIO_II": 1.8
+  },
+  {
+    "ZIP": 80623,
+    "CAPACITY_II": 16,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 41,
+    "RATIO_II": 2.6
+  },
+  {
+    "ZIP": 80631,
+    "CAPACITY_II": 1231,
+    "NUMBER_OF_PROVIDERS_II": 27,
+    "POPULATION_II": 1893,
+    "RATIO_II": 1.5
+  },
+  {
+    "ZIP": 80634,
+    "CAPACITY_II": 1590,
+    "NUMBER_OF_PROVIDERS_II": 55,
+    "POPULATION_II": 1582,
+    "RATIO_II": 1
+  },
+  {
+    "ZIP": 80640,
+    "CAPACITY_II": 94,
+    "NUMBER_OF_PROVIDERS_II": 6,
+    "POPULATION_II": 468,
+    "RATIO_II": 5
+  },
+  {
+    "ZIP": 80642,
+    "CAPACITY_II": 6,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 98,
+    "RATIO_II": 16.3
+  },
+  {
+    "ZIP": 80643,
+    "CAPACITY_II": 63,
+    "NUMBER_OF_PROVIDERS_II": 4,
+    "POPULATION_II": 87,
+    "RATIO_II": 1.4
+  },
+  {
+    "ZIP": 80644,
+    "CAPACITY_II": 102,
+    "NUMBER_OF_PROVIDERS_II": 3,
+    "POPULATION_II": 92,
+    "RATIO_II": 0.9
+  },
+  {
+    "ZIP": 80645,
+    "CAPACITY_II": 53,
+    "NUMBER_OF_PROVIDERS_II": 3,
+    "POPULATION_II": 147,
+    "RATIO_II": 2.8
+  },
+  {
+    "ZIP": 80651,
+    "CAPACITY_II": 44,
+    "NUMBER_OF_PROVIDERS_II": 2,
+    "POPULATION_II": 78,
+    "RATIO_II": 1.8
+  },
+  {
+    "ZIP": 80653,
+    "CAPACITY_II": 30,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 15,
+    "RATIO_II": 0.5
+  },
+  {
+    "ZIP": 80654,
+    "CAPACITY_II": 66,
+    "NUMBER_OF_PROVIDERS_II": 2,
+    "POPULATION_II": 78,
+    "RATIO_II": 1.2
+  },
+  {
+    "ZIP": 80701,
+    "CAPACITY_II": 611,
+    "NUMBER_OF_PROVIDERS_II": 19,
+    "POPULATION_II": 332,
+    "RATIO_II": 0.5
+  },
+  {
+    "ZIP": 80720,
+    "CAPACITY_II": 135,
+    "NUMBER_OF_PROVIDERS_II": 5,
+    "POPULATION_II": 82,
+    "RATIO_II": 0.6
+  },
+  {
+    "ZIP": 80723,
+    "CAPACITY_II": 242,
+    "NUMBER_OF_PROVIDERS_II": 7,
+    "POPULATION_II": 359,
+    "RATIO_II": 1.5
+  },
+  {
+    "ZIP": 80728,
+    "CAPACITY_II": 27,
+    "NUMBER_OF_PROVIDERS_II": 2,
+    "POPULATION_II": 32,
+    "RATIO_II": 1.2
+  },
+  {
+    "ZIP": 80729,
+    "CAPACITY_II": 15,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 6,
+    "RATIO_II": 0.4
+  },
+  {
+    "ZIP": 80731,
+    "CAPACITY_II": 116,
+    "NUMBER_OF_PROVIDERS_II": 4,
+    "POPULATION_II": 40,
+    "RATIO_II": 0.3
+  },
+  {
+    "ZIP": 80734,
+    "CAPACITY_II": 62,
+    "NUMBER_OF_PROVIDERS_II": 4,
+    "POPULATION_II": 107,
+    "RATIO_II": 1.7
+  },
+  {
+    "ZIP": 80735,
+    "CAPACITY_II": 30,
+    "NUMBER_OF_PROVIDERS_II": 2,
+    "POPULATION_II": 19,
+    "RATIO_II": 0.6
+  },
+  {
+    "ZIP": 80736,
+    "CAPACITY_II": 133,
+    "NUMBER_OF_PROVIDERS_II": 2,
+    "POPULATION_II": 10,
+    "RATIO_II": 0.1
+  },
+  {
+    "ZIP": 80737,
+    "CAPACITY_II": 46,
+    "NUMBER_OF_PROVIDERS_II": 2,
+    "POPULATION_II": 57,
+    "RATIO_II": 1.2
+  },
+  {
+    "ZIP": 80741,
+    "CAPACITY_II": 21,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 16,
+    "RATIO_II": 0.8
+  },
+  {
+    "ZIP": 80742,
+    "CAPACITY_II": 15,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 3,
+    "RATIO_II": 0.2
+  },
+  {
+    "ZIP": 80743,
+    "CAPACITY_II": 28,
+    "NUMBER_OF_PROVIDERS_II": 3,
+    "POPULATION_II": 15,
+    "RATIO_II": 0.5
+  },
+  {
+    "ZIP": 80744,
+    "CAPACITY_II": 51,
+    "NUMBER_OF_PROVIDERS_II": 2,
+    "POPULATION_II": 6,
+    "RATIO_II": 0.1
+  },
+  {
+    "ZIP": 80747,
+    "CAPACITY_II": 16,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 5,
+    "RATIO_II": 0.3
+  },
+  {
+    "ZIP": 80751,
+    "CAPACITY_II": 384,
+    "NUMBER_OF_PROVIDERS_II": 21,
+    "POPULATION_II": 546,
+    "RATIO_II": 1.4
+  },
+  {
+    "ZIP": 80757,
+    "CAPACITY_II": 15,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 12,
+    "RATIO_II": 0.8
+  },
+  {
+    "ZIP": 80758,
+    "CAPACITY_II": 140,
+    "NUMBER_OF_PROVIDERS_II": 6,
+    "POPULATION_II": 104,
+    "RATIO_II": 0.7
+  },
+  {
+    "ZIP": 80759,
+    "CAPACITY_II": 87,
+    "NUMBER_OF_PROVIDERS_II": 7,
+    "POPULATION_II": 125,
+    "RATIO_II": 1.4
+  },
+  {
+    "ZIP": 80801,
+    "CAPACITY_II": 15,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 1,
+    "RATIO_II": 0.1
+  },
+  {
+    "ZIP": 80805,
+    "CAPACITY_II": 15,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 6,
+    "RATIO_II": 0.4
+  },
+  {
+    "ZIP": 80807,
+    "CAPACITY_II": 108,
+    "NUMBER_OF_PROVIDERS_II": 7,
+    "POPULATION_II": 149,
+    "RATIO_II": 1.4
+  },
+  {
+    "ZIP": 80808,
+    "CAPACITY_II": 102,
+    "NUMBER_OF_PROVIDERS_II": 4,
+    "POPULATION_II": 169,
+    "RATIO_II": 1.7
+  },
+  {
+    "ZIP": 80809,
+    "CAPACITY_II": 15,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 12,
+    "RATIO_II": 0.8
+  },
+  {
+    "ZIP": 80810,
+    "CAPACITY_II": 48,
+    "NUMBER_OF_PROVIDERS_II": 3,
+    "POPULATION_II": 50,
+    "RATIO_II": 1
+  },
+  {
+    "ZIP": 80813,
+    "CAPACITY_II": 56,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 67,
+    "RATIO_II": 1.2
+  },
+  {
+    "ZIP": 80814,
+    "CAPACITY_II": 40,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 35,
+    "RATIO_II": 0.9
+  },
+  {
+    "ZIP": 80815,
+    "CAPACITY_II": 20,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 16,
+    "RATIO_II": 0.8
+  },
+  {
+    "ZIP": 80816,
+    "CAPACITY_II": 22,
+    "NUMBER_OF_PROVIDERS_II": 2,
+    "POPULATION_II": 103,
+    "RATIO_II": 4.7
+  },
+  {
+    "ZIP": 80817,
+    "CAPACITY_II": 369,
+    "NUMBER_OF_PROVIDERS_II": 16,
+    "POPULATION_II": 1277,
+    "RATIO_II": 3.5
+  },
+  {
+    "ZIP": 80821,
+    "CAPACITY_II": 15,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 45,
+    "RATIO_II": 3
+  },
+  {
+    "ZIP": 80822,
+    "CAPACITY_II": 15,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 0,
+    "RATIO_II": 0
+  },
+  {
+    "ZIP": 80823,
+    "CAPACITY_II": 15,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 11,
+    "RATIO_II": 0.7
+  },
+  {
+    "ZIP": 80825,
+    "CAPACITY_II": 15,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 20,
+    "RATIO_II": 1.3
+  },
+  {
+    "ZIP": 80827,
+    "CAPACITY_II": 18,
+    "NUMBER_OF_PROVIDERS_II": 2,
+    "POPULATION_II": 3,
+    "RATIO_II": 0.2
+  },
+  {
+    "ZIP": 80828,
+    "CAPACITY_II": 131,
+    "NUMBER_OF_PROVIDERS_II": 2,
+    "POPULATION_II": 45,
+    "RATIO_II": 0.3
+  },
+  {
+    "ZIP": 80829,
+    "CAPACITY_II": 15,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 82,
+    "RATIO_II": 5.5
+  },
+  {
+    "ZIP": 80831,
+    "CAPACITY_II": 483,
+    "NUMBER_OF_PROVIDERS_II": 23,
+    "POPULATION_II": 457,
+    "RATIO_II": 0.9
+  },
+  {
+    "ZIP": 80833,
+    "CAPACITY_II": 30,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 13,
+    "RATIO_II": 0.4
+  },
+  {
+    "ZIP": 80834,
+    "CAPACITY_II": 15,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 4,
+    "RATIO_II": 0.3
+  },
+  {
+    "ZIP": 80835,
+    "CAPACITY_II": 21,
+    "NUMBER_OF_PROVIDERS_II": 2,
+    "POPULATION_II": 41,
+    "RATIO_II": 2
+  },
+  {
+    "ZIP": 80836,
+    "CAPACITY_II": 20,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 41,
+    "RATIO_II": 2
+  },
+  {
+    "ZIP": 80863,
+    "CAPACITY_II": 257,
+    "NUMBER_OF_PROVIDERS_II": 7,
+    "POPULATION_II": 219,
+    "RATIO_II": 0.9
+  },
+  {
+    "ZIP": 80864,
+    "CAPACITY_II": 15,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 22,
+    "RATIO_II": 1.5
+  },
+  {
+    "ZIP": 80866,
+    "CAPACITY_II": 100,
+    "NUMBER_OF_PROVIDERS_II": 2,
+    "POPULATION_II": "",
+    "RATIO_II": ""
+  },
+  {
+    "ZIP": 80902,
+    "CAPACITY_II": 162,
+    "NUMBER_OF_PROVIDERS_II": 2,
+    "POPULATION_II": 810,
+    "RATIO_II": 5
+  },
+  {
+    "ZIP": 80903,
+    "CAPACITY_II": 898,
+    "NUMBER_OF_PROVIDERS_II": 18,
+    "POPULATION_II": 229,
+    "RATIO_II": 0.3
+  },
+  {
+    "ZIP": 80904,
+    "CAPACITY_II": 372,
+    "NUMBER_OF_PROVIDERS_II": 8,
+    "POPULATION_II": 284,
+    "RATIO_II": 0.8
+  },
+  {
+    "ZIP": 80905,
+    "CAPACITY_II": 313,
+    "NUMBER_OF_PROVIDERS_II": 8,
+    "POPULATION_II": 497,
+    "RATIO_II": 1.6
+  },
+  {
+    "ZIP": 80906,
+    "CAPACITY_II": 962,
+    "NUMBER_OF_PROVIDERS_II": 24,
+    "POPULATION_II": 840,
+    "RATIO_II": 0.9
+  },
+  {
+    "ZIP": 80907,
+    "CAPACITY_II": 488,
+    "NUMBER_OF_PROVIDERS_II": 15,
+    "POPULATION_II": 432,
+    "RATIO_II": 0.9
+  },
+  {
+    "ZIP": 80908,
+    "CAPACITY_II": 82,
+    "NUMBER_OF_PROVIDERS_II": 6,
+    "POPULATION_II": 383,
+    "RATIO_II": 4.7
+  },
+  {
+    "ZIP": 80909,
+    "CAPACITY_II": 837,
+    "NUMBER_OF_PROVIDERS_II": 21,
+    "POPULATION_II": 1092,
+    "RATIO_II": 1.3
+  },
+  {
+    "ZIP": 80910,
+    "CAPACITY_II": 456,
+    "NUMBER_OF_PROVIDERS_II": 21,
+    "POPULATION_II": 958,
+    "RATIO_II": 2.1
+  },
+  {
+    "ZIP": 80911,
+    "CAPACITY_II": 857,
+    "NUMBER_OF_PROVIDERS_II": 38,
+    "POPULATION_II": 994,
+    "RATIO_II": 1.2
+  },
+  {
+    "ZIP": 80913,
+    "CAPACITY_II": 98,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 15,
+    "RATIO_II": 0.2
+  },
+  {
+    "ZIP": 80915,
+    "CAPACITY_II": 241,
+    "NUMBER_OF_PROVIDERS_II": 13,
+    "POPULATION_II": 531,
+    "RATIO_II": 2.2
+  },
+  {
+    "ZIP": 80916,
+    "CAPACITY_II": 664,
+    "NUMBER_OF_PROVIDERS_II": 18,
+    "POPULATION_II": 1898,
+    "RATIO_II": 2.9
+  },
+  {
+    "ZIP": 80917,
+    "CAPACITY_II": 683,
+    "NUMBER_OF_PROVIDERS_II": 19,
+    "POPULATION_II": 735,
+    "RATIO_II": 1.1
+  },
+  {
+    "ZIP": 80918,
+    "CAPACITY_II": 1613,
+    "NUMBER_OF_PROVIDERS_II": 35,
+    "POPULATION_II": 1150,
+    "RATIO_II": 0.7
+  },
+  {
+    "ZIP": 80919,
+    "CAPACITY_II": 763,
+    "NUMBER_OF_PROVIDERS_II": 16,
+    "POPULATION_II": 584,
+    "RATIO_II": 0.8
+  },
+  {
+    "ZIP": 80920,
+    "CAPACITY_II": 1325,
+    "NUMBER_OF_PROVIDERS_II": 32,
+    "POPULATION_II": 1078,
+    "RATIO_II": 0.8
+  },
+  {
+    "ZIP": 80921,
+    "CAPACITY_II": 527,
+    "NUMBER_OF_PROVIDERS_II": 6,
+    "POPULATION_II": 578,
+    "RATIO_II": 1.1
+  },
+  {
+    "ZIP": 80922,
+    "CAPACITY_II": 1182,
+    "NUMBER_OF_PROVIDERS_II": 26,
+    "POPULATION_II": 944,
+    "RATIO_II": 0.8
+  },
+  {
+    "ZIP": 80923,
+    "CAPACITY_II": 841,
+    "NUMBER_OF_PROVIDERS_II": 18,
+    "POPULATION_II": 1041,
+    "RATIO_II": 1.2
+  },
+  {
+    "ZIP": 80924,
+    "CAPACITY_II": 50,
+    "NUMBER_OF_PROVIDERS_II": 3,
+    "POPULATION_II": 205,
+    "RATIO_II": 4.1
+  },
+  {
+    "ZIP": 80925,
+    "CAPACITY_II": 234,
+    "NUMBER_OF_PROVIDERS_II": 11,
+    "POPULATION_II": 456,
+    "RATIO_II": 1.9
+  },
+  {
+    "ZIP": 80927,
+    "CAPACITY_II": 18,
+    "NUMBER_OF_PROVIDERS_II": 3,
+    "POPULATION_II": 116,
+    "RATIO_II": 6.4
+  },
+  {
+    "ZIP": 80951,
+    "CAPACITY_II": 14,
+    "NUMBER_OF_PROVIDERS_II": 2,
+    "POPULATION_II": 272,
+    "RATIO_II": 19.4
+  },
+  {
+    "ZIP": 81001,
+    "CAPACITY_II": 545,
+    "NUMBER_OF_PROVIDERS_II": 23,
+    "POPULATION_II": 975,
+    "RATIO_II": 1.8
+  },
+  {
+    "ZIP": 81003,
+    "CAPACITY_II": 315,
+    "NUMBER_OF_PROVIDERS_II": 8,
+    "POPULATION_II": 257,
+    "RATIO_II": 0.8
+  },
+  {
+    "ZIP": 81004,
+    "CAPACITY_II": 841,
+    "NUMBER_OF_PROVIDERS_II": 17,
+    "POPULATION_II": 708,
+    "RATIO_II": 0.8
+  },
+  {
+    "ZIP": 81005,
+    "CAPACITY_II": 590,
+    "NUMBER_OF_PROVIDERS_II": 25,
+    "POPULATION_II": 691,
+    "RATIO_II": 1.2
+  },
+  {
+    "ZIP": 81006,
+    "CAPACITY_II": 159,
+    "NUMBER_OF_PROVIDERS_II": 14,
+    "POPULATION_II": 211,
+    "RATIO_II": 1.3
+  },
+  {
+    "ZIP": 81007,
+    "CAPACITY_II": 647,
+    "NUMBER_OF_PROVIDERS_II": 24,
+    "POPULATION_II": 635,
+    "RATIO_II": 1
+  },
+  {
+    "ZIP": 81008,
+    "CAPACITY_II": 214,
+    "NUMBER_OF_PROVIDERS_II": 7,
+    "POPULATION_II": 285,
+    "RATIO_II": 1.3
+  },
+  {
+    "ZIP": 81017,
+    "CAPACITY_II": 15,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": "",
+    "RATIO_II": ""
+  },
+  {
+    "ZIP": 81020,
+    "CAPACITY_II": 15,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 5,
+    "RATIO_II": 0.3
+  },
+  {
+    "ZIP": 81022,
+    "CAPACITY_II": 20,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 46,
+    "RATIO_II": 2.3
+  },
+  {
+    "ZIP": 81023,
+    "CAPACITY_II": 15,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 16,
+    "RATIO_II": 1.1
+  },
+  {
+    "ZIP": 81025,
+    "CAPACITY_II": 133,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 21,
+    "RATIO_II": 0.2
+  },
+  {
+    "ZIP": 81029,
+    "CAPACITY_II": 15,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 3,
+    "RATIO_II": 0.2
+  },
+  {
+    "ZIP": 81030,
+    "CAPACITY_II": 15,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 3,
+    "RATIO_II": 0.2
+  },
+  {
+    "ZIP": 81036,
+    "CAPACITY_II": 26,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 46,
+    "RATIO_II": 1.8
+  },
+  {
+    "ZIP": 81039,
+    "CAPACITY_II": 20,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 41,
+    "RATIO_II": 2
+  },
+  {
+    "ZIP": 81040,
+    "CAPACITY_II": 15,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 0,
+    "RATIO_II": 0
+  },
+  {
+    "ZIP": 81041,
+    "CAPACITY_II": 28,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 25,
+    "RATIO_II": 0.9
+  },
+  {
+    "ZIP": 81047,
+    "CAPACITY_II": 44,
+    "NUMBER_OF_PROVIDERS_II": 2,
+    "POPULATION_II": 64,
+    "RATIO_II": 1.5
+  },
+  {
+    "ZIP": 81049,
+    "CAPACITY_II": 15,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 4,
+    "RATIO_II": 0.3
+  },
+  {
+    "ZIP": 81050,
+    "CAPACITY_II": 309,
+    "NUMBER_OF_PROVIDERS_II": 6,
+    "POPULATION_II": 220,
+    "RATIO_II": 0.7
+  },
+  {
+    "ZIP": 81052,
+    "CAPACITY_II": 332,
+    "NUMBER_OF_PROVIDERS_II": 8,
+    "POPULATION_II": 242,
+    "RATIO_II": 0.7
+  },
+  {
+    "ZIP": 81054,
+    "CAPACITY_II": 128,
+    "NUMBER_OF_PROVIDERS_II": 4,
+    "POPULATION_II": 63,
+    "RATIO_II": 0.5
+  },
+  {
+    "ZIP": 81055,
+    "CAPACITY_II": 19,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 11,
+    "RATIO_II": 0.6
+  },
+  {
+    "ZIP": 81057,
+    "CAPACITY_II": 35,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 12,
+    "RATIO_II": 0.3
+  },
+  {
+    "ZIP": 81058,
+    "CAPACITY_II": 65,
+    "NUMBER_OF_PROVIDERS_II": 2,
+    "POPULATION_II": 14,
+    "RATIO_II": 0.2
+  },
+  {
+    "ZIP": 81063,
+    "CAPACITY_II": 74,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 31,
+    "RATIO_II": 0.4
+  },
+  {
+    "ZIP": 81064,
+    "CAPACITY_II": 15,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 3,
+    "RATIO_II": 0.2
+  },
+  {
+    "ZIP": 81067,
+    "CAPACITY_II": 163,
+    "NUMBER_OF_PROVIDERS_II": 5,
+    "POPULATION_II": 143,
+    "RATIO_II": 0.9
+  },
+  {
+    "ZIP": 81069,
+    "CAPACITY_II": 20,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 20,
+    "RATIO_II": 1
+  },
+  {
+    "ZIP": 81073,
+    "CAPACITY_II": 90,
+    "NUMBER_OF_PROVIDERS_II": 2,
+    "POPULATION_II": 37,
+    "RATIO_II": 0.4
+  },
+  {
+    "ZIP": 81077,
+    "CAPACITY_II": 9,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 25,
+    "RATIO_II": 2.8
+  },
+  {
+    "ZIP": 81082,
+    "CAPACITY_II": 296,
+    "NUMBER_OF_PROVIDERS_II": 4,
+    "POPULATION_II": 235,
+    "RATIO_II": 0.8
+  },
+  {
+    "ZIP": 81087,
+    "CAPACITY_II": 15,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 4,
+    "RATIO_II": 0.3
+  },
+  {
+    "ZIP": 81089,
+    "CAPACITY_II": 106,
+    "NUMBER_OF_PROVIDERS_II": 3,
+    "POPULATION_II": 15,
+    "RATIO_II": 0.1
+  },
+  {
+    "ZIP": 81090,
+    "CAPACITY_II": 25,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 19,
+    "RATIO_II": 0.8
+  },
+  {
+    "ZIP": 81091,
+    "CAPACITY_II": 21,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 6,
+    "RATIO_II": 0.3
+  },
+  {
+    "ZIP": 81092,
+    "CAPACITY_II": 30,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 22,
+    "RATIO_II": 0.7
+  },
+  {
+    "ZIP": 81101,
+    "CAPACITY_II": 403,
+    "NUMBER_OF_PROVIDERS_II": 12,
+    "POPULATION_II": 391,
+    "RATIO_II": 1
+  },
+  {
+    "ZIP": 81102,
+    "CAPACITY_II": 87,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": "",
+    "RATIO_II": ""
+  },
+  {
+    "ZIP": 81121,
+    "CAPACITY_II": 30,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 5,
+    "RATIO_II": 0.2
+  },
+  {
+    "ZIP": 81122,
+    "CAPACITY_II": 109,
+    "NUMBER_OF_PROVIDERS_II": 6,
+    "POPULATION_II": 195,
+    "RATIO_II": 1.8
+  },
+  {
+    "ZIP": 81123,
+    "CAPACITY_II": 55,
+    "NUMBER_OF_PROVIDERS_II": 2,
+    "POPULATION_II": 40,
+    "RATIO_II": 0.7
+  },
+  {
+    "ZIP": 81125,
+    "CAPACITY_II": 274,
+    "NUMBER_OF_PROVIDERS_II": 4,
+    "POPULATION_II": 108,
+    "RATIO_II": 0.4
+  },
+  {
+    "ZIP": 81129,
+    "CAPACITY_II": 57,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 6,
+    "RATIO_II": 0.1
+  },
+  {
+    "ZIP": 81130,
+    "CAPACITY_II": 35,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 6,
+    "RATIO_II": 0.2
+  },
+  {
+    "ZIP": 81132,
+    "CAPACITY_II": 109,
+    "NUMBER_OF_PROVIDERS_II": 2,
+    "POPULATION_II": 39,
+    "RATIO_II": 0.4
+  },
+  {
+    "ZIP": 81137,
+    "CAPACITY_II": 46,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 160,
+    "RATIO_II": 3.5
+  },
+  {
+    "ZIP": 81140,
+    "CAPACITY_II": 90,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 78,
+    "RATIO_II": 0.9
+  },
+  {
+    "ZIP": 81143,
+    "CAPACITY_II": 20,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 9,
+    "RATIO_II": 0.4
+  },
+  {
+    "ZIP": 81144,
+    "CAPACITY_II": 288,
+    "NUMBER_OF_PROVIDERS_II": 9,
+    "POPULATION_II": 201,
+    "RATIO_II": 0.7
+  },
+  {
+    "ZIP": 81146,
+    "CAPACITY_II": 19,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 29,
+    "RATIO_II": 1.5
+  },
+  {
+    "ZIP": 81147,
+    "CAPACITY_II": 221,
+    "NUMBER_OF_PROVIDERS_II": 9,
+    "POPULATION_II": 237,
+    "RATIO_II": 1.1
+  },
+  {
+    "ZIP": 81149,
+    "CAPACITY_II": 15,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 13,
+    "RATIO_II": 0.9
+  },
+  {
+    "ZIP": 81151,
+    "CAPACITY_II": 88,
+    "NUMBER_OF_PROVIDERS_II": 2,
+    "POPULATION_II": 55,
+    "RATIO_II": 0.6
+  },
+  {
+    "ZIP": 81152,
+    "CAPACITY_II": 24,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 12,
+    "RATIO_II": 0.5
+  },
+  {
+    "ZIP": 81201,
+    "CAPACITY_II": 219,
+    "NUMBER_OF_PROVIDERS_II": 6,
+    "POPULATION_II": 154,
+    "RATIO_II": 0.7
+  },
+  {
+    "ZIP": 81211,
+    "CAPACITY_II": 232,
+    "NUMBER_OF_PROVIDERS_II": 6,
+    "POPULATION_II": 97,
+    "RATIO_II": 0.4
+  },
+  {
+    "ZIP": 81212,
+    "CAPACITY_II": 690,
+    "NUMBER_OF_PROVIDERS_II": 16,
+    "POPULATION_II": 527,
+    "RATIO_II": 0.8
+  },
+  {
+    "ZIP": 81223,
+    "CAPACITY_II": 30,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 0,
+    "RATIO_II": 0
+  },
+  {
+    "ZIP": 81224,
+    "CAPACITY_II": 150,
+    "NUMBER_OF_PROVIDERS_II": 3,
+    "POPULATION_II": 141,
+    "RATIO_II": 0.9
+  },
+  {
+    "ZIP": 81226,
+    "CAPACITY_II": 104,
+    "NUMBER_OF_PROVIDERS_II": 2,
+    "POPULATION_II": 90,
+    "RATIO_II": 0.9
+  },
+  {
+    "ZIP": 81230,
+    "CAPACITY_II": 261,
+    "NUMBER_OF_PROVIDERS_II": 8,
+    "POPULATION_II": 166,
+    "RATIO_II": 0.6
+  },
+  {
+    "ZIP": 81235,
+    "CAPACITY_II": 30,
+    "NUMBER_OF_PROVIDERS_II": 2,
+    "POPULATION_II": 9,
+    "RATIO_II": 0.3
+  },
+  {
+    "ZIP": 81240,
+    "CAPACITY_II": 90,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 102,
+    "RATIO_II": 1.1
+  },
+  {
+    "ZIP": 81252,
+    "CAPACITY_II": 35,
+    "NUMBER_OF_PROVIDERS_II": 3,
+    "POPULATION_II": 62,
+    "RATIO_II": 1.8
+  },
+  {
+    "ZIP": 81301,
+    "CAPACITY_II": 1035,
+    "NUMBER_OF_PROVIDERS_II": 29,
+    "POPULATION_II": 597,
+    "RATIO_II": 0.6
+  },
+  {
+    "ZIP": 81303,
+    "CAPACITY_II": 36,
+    "NUMBER_OF_PROVIDERS_II": 2,
+    "POPULATION_II": 170,
+    "RATIO_II": 4.7
+  },
+  {
+    "ZIP": 81321,
+    "CAPACITY_II": 411,
+    "NUMBER_OF_PROVIDERS_II": 7,
+    "POPULATION_II": 377,
+    "RATIO_II": 0.9
+  },
+  {
+    "ZIP": 81323,
+    "CAPACITY_II": 89,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 92,
+    "RATIO_II": 1
+  },
+  {
+    "ZIP": 81324,
+    "CAPACITY_II": 32,
+    "NUMBER_OF_PROVIDERS_II": 2,
+    "POPULATION_II": 24,
+    "RATIO_II": 0.8
+  },
+  {
+    "ZIP": 81326,
+    "CAPACITY_II": 16,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 36,
+    "RATIO_II": 2.2
+  },
+  {
+    "ZIP": 81328,
+    "CAPACITY_II": 60,
+    "NUMBER_OF_PROVIDERS_II": 2,
+    "POPULATION_II": 104,
+    "RATIO_II": 1.7
+  },
+  {
+    "ZIP": 81401,
+    "CAPACITY_II": 755,
+    "NUMBER_OF_PROVIDERS_II": 20,
+    "POPULATION_II": 503,
+    "RATIO_II": 0.7
+  },
+  {
+    "ZIP": 81402,
+    "CAPACITY_II": 6,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": "",
+    "RATIO_II": ""
+  },
+  {
+    "ZIP": 81403,
+    "CAPACITY_II": 36,
+    "NUMBER_OF_PROVIDERS_II": 4,
+    "POPULATION_II": 207,
+    "RATIO_II": 5.8
+  },
+  {
+    "ZIP": 81410,
+    "CAPACITY_II": 12,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 25,
+    "RATIO_II": 2.1
+  },
+  {
+    "ZIP": 81413,
+    "CAPACITY_II": 50,
+    "NUMBER_OF_PROVIDERS_II": 2,
+    "POPULATION_II": 47,
+    "RATIO_II": 0.9
+  },
+  {
+    "ZIP": 81415,
+    "CAPACITY_II": 46,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 24,
+    "RATIO_II": 0.5
+  },
+  {
+    "ZIP": 81416,
+    "CAPACITY_II": 279,
+    "NUMBER_OF_PROVIDERS_II": 10,
+    "POPULATION_II": 341,
+    "RATIO_II": 1.2
+  },
+  {
+    "ZIP": 81418,
+    "CAPACITY_II": 6,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 32,
+    "RATIO_II": 5.3
+  },
+  {
+    "ZIP": 81419,
+    "CAPACITY_II": 22,
+    "NUMBER_OF_PROVIDERS_II": 2,
+    "POPULATION_II": 60,
+    "RATIO_II": 2.7
+  },
+  {
+    "ZIP": 81422,
+    "CAPACITY_II": 30,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 14,
+    "RATIO_II": 0.5
+  },
+  {
+    "ZIP": 81423,
+    "CAPACITY_II": 82,
+    "NUMBER_OF_PROVIDERS_II": 2,
+    "POPULATION_II": 59,
+    "RATIO_II": 0.7
+  },
+  {
+    "ZIP": 81425,
+    "CAPACITY_II": 53,
+    "NUMBER_OF_PROVIDERS_II": 2,
+    "POPULATION_II": 159,
+    "RATIO_II": 3
+  },
+  {
+    "ZIP": 81427,
+    "CAPACITY_II": 15,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 18,
+    "RATIO_II": 1.2
+  },
+  {
+    "ZIP": 81428,
+    "CAPACITY_II": 27,
+    "NUMBER_OF_PROVIDERS_II": 2,
+    "POPULATION_II": 57,
+    "RATIO_II": 2.1
+  },
+  {
+    "ZIP": 81429,
+    "CAPACITY_II": 15,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 0,
+    "RATIO_II": 0
+  },
+  {
+    "ZIP": 81432,
+    "CAPACITY_II": 53,
+    "NUMBER_OF_PROVIDERS_II": 3,
+    "POPULATION_II": 36,
+    "RATIO_II": 0.7
+  },
+  {
+    "ZIP": 81433,
+    "CAPACITY_II": 30,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 12,
+    "RATIO_II": 0.4
+  },
+  {
+    "ZIP": 81435,
+    "CAPACITY_II": 231,
+    "NUMBER_OF_PROVIDERS_II": 8,
+    "POPULATION_II": 84,
+    "RATIO_II": 0.4
+  },
+  {
+    "ZIP": 81501,
+    "CAPACITY_II": 926,
+    "NUMBER_OF_PROVIDERS_II": 23,
+    "POPULATION_II": 632,
+    "RATIO_II": 0.7
+  },
+  {
+    "ZIP": 81503,
+    "CAPACITY_II": 204,
+    "NUMBER_OF_PROVIDERS_II": 15,
+    "POPULATION_II": 465,
+    "RATIO_II": 2.3
+  },
+  {
+    "ZIP": 81504,
+    "CAPACITY_II": 582,
+    "NUMBER_OF_PROVIDERS_II": 30,
+    "POPULATION_II": 792,
+    "RATIO_II": 1.4
+  },
+  {
+    "ZIP": 81505,
+    "CAPACITY_II": 45,
+    "NUMBER_OF_PROVIDERS_II": 3,
+    "POPULATION_II": 163,
+    "RATIO_II": 3.6
+  },
+  {
+    "ZIP": 81506,
+    "CAPACITY_II": 469,
+    "NUMBER_OF_PROVIDERS_II": 8,
+    "POPULATION_II": 241,
+    "RATIO_II": 0.5
+  },
+  {
+    "ZIP": 81507,
+    "CAPACITY_II": 225,
+    "NUMBER_OF_PROVIDERS_II": 7,
+    "POPULATION_II": 229,
+    "RATIO_II": 1
+  },
+  {
+    "ZIP": 81520,
+    "CAPACITY_II": 183,
+    "NUMBER_OF_PROVIDERS_II": 11,
+    "POPULATION_II": 340,
+    "RATIO_II": 1.9
+  },
+  {
+    "ZIP": 81521,
+    "CAPACITY_II": 311,
+    "NUMBER_OF_PROVIDERS_II": 12,
+    "POPULATION_II": 267,
+    "RATIO_II": 0.9
+  },
+  {
+    "ZIP": 81524,
+    "CAPACITY_II": 15,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 61,
+    "RATIO_II": 4.1
+  },
+  {
+    "ZIP": 81526,
+    "CAPACITY_II": 67,
+    "NUMBER_OF_PROVIDERS_II": 3,
+    "POPULATION_II": 90,
+    "RATIO_II": 1.3
+  },
+  {
+    "ZIP": 81601,
+    "CAPACITY_II": 499,
+    "NUMBER_OF_PROVIDERS_II": 15,
+    "POPULATION_II": 394,
+    "RATIO_II": 0.8
+  },
+  {
+    "ZIP": 81611,
+    "CAPACITY_II": 344,
+    "NUMBER_OF_PROVIDERS_II": 6,
+    "POPULATION_II": 157,
+    "RATIO_II": 0.5
+  },
+  {
+    "ZIP": 81615,
+    "CAPACITY_II": 130,
+    "NUMBER_OF_PROVIDERS_II": 3,
+    "POPULATION_II": 0,
+    "RATIO_II": 0
+  },
+  {
+    "ZIP": 81620,
+    "CAPACITY_II": 370,
+    "NUMBER_OF_PROVIDERS_II": 9,
+    "POPULATION_II": 382,
+    "RATIO_II": 1
+  },
+  {
+    "ZIP": 81621,
+    "CAPACITY_II": 175,
+    "NUMBER_OF_PROVIDERS_II": 7,
+    "POPULATION_II": 120,
+    "RATIO_II": 0.7
+  },
+  {
+    "ZIP": 81623,
+    "CAPACITY_II": 454,
+    "NUMBER_OF_PROVIDERS_II": 11,
+    "POPULATION_II": 434,
+    "RATIO_II": 1
+  },
+  {
+    "ZIP": 81624,
+    "CAPACITY_II": 20,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 35,
+    "RATIO_II": 1.8
+  },
+  {
+    "ZIP": 81625,
+    "CAPACITY_II": 253,
+    "NUMBER_OF_PROVIDERS_II": 9,
+    "POPULATION_II": 317,
+    "RATIO_II": 1.3
+  },
+  {
+    "ZIP": 81630,
+    "CAPACITY_II": 30,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 31,
+    "RATIO_II": 1
+  },
+  {
+    "ZIP": 81631,
+    "CAPACITY_II": 274,
+    "NUMBER_OF_PROVIDERS_II": 10,
+    "POPULATION_II": 231,
+    "RATIO_II": 0.8
+  },
+  {
+    "ZIP": 81632,
+    "CAPACITY_II": 397,
+    "NUMBER_OF_PROVIDERS_II": 7,
+    "POPULATION_II": 217,
+    "RATIO_II": 0.5
+  },
+  {
+    "ZIP": 81635,
+    "CAPACITY_II": 162,
+    "NUMBER_OF_PROVIDERS_II": 7,
+    "POPULATION_II": 205,
+    "RATIO_II": 1.3
+  },
+  {
+    "ZIP": 81637,
+    "CAPACITY_II": 244,
+    "NUMBER_OF_PROVIDERS_II": 8,
+    "POPULATION_II": 245,
+    "RATIO_II": 1
+  },
+  {
+    "ZIP": 81639,
+    "CAPACITY_II": 111,
+    "NUMBER_OF_PROVIDERS_II": 3,
+    "POPULATION_II": 52,
+    "RATIO_II": 0.5
+  },
+  {
+    "ZIP": 81641,
+    "CAPACITY_II": 41,
+    "NUMBER_OF_PROVIDERS_II": 2,
+    "POPULATION_II": 73,
+    "RATIO_II": 1.8
+  },
+  {
+    "ZIP": 81645,
+    "CAPACITY_II": 40,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 9,
+    "RATIO_II": 0.2
+  },
+  {
+    "ZIP": 81647,
+    "CAPACITY_II": 92,
+    "NUMBER_OF_PROVIDERS_II": 6,
+    "POPULATION_II": 225,
+    "RATIO_II": 2.4
+  },
+  {
+    "ZIP": 81648,
+    "CAPACITY_II": 57,
+    "NUMBER_OF_PROVIDERS_II": 4,
+    "POPULATION_II": 75,
+    "RATIO_II": 1.3
+  },
+  {
+    "ZIP": 81650,
+    "CAPACITY_II": 241,
+    "NUMBER_OF_PROVIDERS_II": 13,
+    "POPULATION_II": 306,
+    "RATIO_II": 1.3
+  },
+  {
+    "ZIP": 81652,
+    "CAPACITY_II": 62,
+    "NUMBER_OF_PROVIDERS_II": 7,
+    "POPULATION_II": 168,
+    "RATIO_II": 2.7
+  },
+  {
+    "ZIP": 81656,
+    "CAPACITY_II": 30,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": 0,
+    "RATIO_II": 0
+  },
+  {
+    "ZIP": 81657,
+    "CAPACITY_II": 148,
+    "NUMBER_OF_PROVIDERS_II": 4,
+    "POPULATION_II": 45,
+    "RATIO_II": 0.3
+  },
+  {
+    "ZIP": 81658,
+    "CAPACITY_II": 15,
+    "NUMBER_OF_PROVIDERS_II": 1,
+    "POPULATION_II": "",
+    "RATIO_II": ""
+  }
+]
